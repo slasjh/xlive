@@ -11,7 +11,7 @@ def fetch_and_parse_json(url):
         try:
             return response.json()
         except json.JSONDecodeError:
-            # 如果 JSON 解析失败，尝试修复单引号问题
+            # 如果 JSON 解析失败，尝试修复单引号 问题
             raw_text = response.text
             fixed_text = raw_text.replace("'", '"')  # 将单引号替换为双引号
             return json.loads(fixed_text)  # 重新解析
