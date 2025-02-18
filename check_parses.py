@@ -1,52 +1,51 @@
 import requests
 import time
-import json
+from urllib.parse import urlparse
 
-# 定义接口地址
-url = "http://156.238.251.122:888/Lite.json"
+def extract_parse_urls(json_data):
+    if not json_data or "parses" not in json_data:
+        return []
+    
+    urls = []
+    for parse in json_data["parses"]:
+        raw_url = parse.get("url", "").strip()
+        if not raw_url.startswith("http"):
+            continue
+        
+        urls.append(raw_url)
+    return urls
 
-# 获取JSON数据
-try:
-    response = requests.get(url, timeout=10)
-    response.raise_for_status()  # 检查请求是否成功
-
-    # 尝试解析 JSON 数据
-    try:
-        data = response.json()
-    except json.JSONDecodeError:
-        # 如果 JSON 解析失败，尝试修复单引号问题
-        raw_text = response.text
-        fixed_text = raw_text.replace("'", '"')  # 将单引号替换为双引号
-        data = json.loads(fixed_text)  # 重新解析
-except requests.exceptions.RequestException as e:
-    print(f"Failed to fetch data: {e}")
-    exit(1)
-
-# 获取parses下的url
-parses_urls = [item['url'] for item in data.get('parses', [])]
-
-# 测试每个url的速度
-def test_url_speed(url):
-    try:
-        start_time = time.time()
-        response = requests.get(url, timeout=5)
-        end_time = time.time()
-        speed = end_time - start_time
-        return speed, response.status_code
-    except requests.exceptions.RequestException as e:
-        return None, str(e)
-
-# 将结果保存到txt文件
-output_file = "url_speed_results.txt"
-
-with open(output_file, "w", encoding="utf-8") as file:
-    for url in parses_urls:
-        speed, status = test_url_speed(url)
-        if speed is not None:
-            result = f"URL: {url}, Speed: {speed:.2f} seconds, Status Code: {status}\n"
-        else:
-            result = f"URL: {url}, Error: {status}\n"
-        file.write(result)  # 写入文件
-        print(result.strip())  # 同时打印到控制台
-
-print(f"Results have been saved to {output_file}")
+def speed_test(url, test_times=3):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
+    total_time = 0
+    success_count = 0
+    
+    for _ in range(test_times):
+        try:
+            # 使用真实测试地址
+            test_url = url + "https://v.qq.com/x/cover/mzc00200jterl3u.html"
+            start = time.time()
+            response = requests.head(
+                test_url, 
+                headers=headers, 
+                timeout=5, 
+                allow_redirects=True
+            )
+            latency = (time.time() - start) * 1000  # 毫秒
+            if response.status_code in [200, 301, 302]:
+                total_time += latency
+                success_count += 1
+        except Exception as e:
+            print(f"测速失败 {url}: {str(e)}")
+    
+    if success_count == 0:
+        return None
+    
+    return {
+        "url": url,
+        "avg_latency": round(total_time / success_count, 2),
+        "success_rate": round(success_count / test_times * 100, 1)
+    }
