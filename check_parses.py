@@ -66,7 +66,7 @@ def speed_test(url, test_times=3):
     }
 
 def main():
-    json_url = "https://gitlab.com/mfkdy/cy/-/raw/main/Lite.json"
+    json_url = "http://156.238.251.122:888/Lite.json"
     
     # 获取并解析JSON
     json_data = fetch_and_parse_json(json_url)
