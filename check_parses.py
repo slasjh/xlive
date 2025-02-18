@@ -1,19 +1,25 @@
 import requests
 import time
-from urllib.parse import urlparse
+
+def fetch_and_parse_json(url):
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        return response.json()
+    except Exception as e:
+        print(f"请求JSON数据失败: {str(e)}")
+        return None
 
 def extract_parse_urls(json_data):
     if not json_data or "parses" not in json_data:
         return []
     
-    urls = []
-    for parse in json_data["parses"]:
-        raw_url = parse.get("url", "").strip()
-        if not raw_url.startswith("http"):
-            continue
-        
-        urls.append(raw_url)
-    return urls
+    # 直接提取所有HTTP/HTTPS开头的原始URL
+    return [
+        parse["url"]  # 不再处理参数
+        for parse in json_data["parses"] 
+        if parse.get("url", "").startswith(("http://", "https://"))  # 严格匹配协议头
+    ]
 
 def speed_test(url, test_times=3):
     headers = {
@@ -25,7 +31,7 @@ def speed_test(url, test_times=3):
     
     for _ in range(test_times):
         try:
-            # 使用真实测试地址
+            # 构造测试URL（附加测试视频地址）
             test_url = url + "https://v.qq.com/x/cover/mzc00200jterl3u.html"
             start = time.time()
             response = requests.head(
@@ -35,7 +41,7 @@ def speed_test(url, test_times=3):
                 allow_redirects=True
             )
             latency = (time.time() - start) * 1000  # 毫秒
-            if response.status_code in [200, 301, 302]:
+            if response.status_code in [200, 302, 301]:
                 total_time += latency
                 success_count += 1
         except Exception as e:
@@ -49,3 +55,40 @@ def speed_test(url, test_times=3):
         "avg_latency": round(total_time / success_count, 2),
         "success_rate": round(success_count / test_times * 100, 1)
     }
+
+def main():
+    json_url = "http://156.238.251.122:888/Lite.json"
+    
+    # 获取并解析JSON
+    json_data = fetch_and_parse_json(json_url)
+    if not json_data:
+        return
+    
+    # 提取所有解析地址
+    parsed_urls = extract_parse_urls(json_data)
+    if not parsed_urls:
+        print("未找到有效的解析地址")
+        return
+    
+    print(f"找到 {len(parsed_urls)} 个解析地址:")
+    for idx, url in enumerate(parsed_urls, 1):
+        print(f"{idx}. {url}")
+    
+    # 执行测速
+    print("\n开始测速...")
+    results = []
+    for url in parsed_urls:
+        print(f"正在测试 {url}...")
+        result = speed_test(url)
+        if result:
+            results.append(result)
+    
+    # 显示测速结果
+    print("\n测速结果（按延迟排序）：")
+    for idx, res in enumerate(sorted(results, key=lambda x: x["avg_latency"]), 1):
+        print(f"{idx}. {res['url']}")
+        print(f"  平均延迟: {res['avg_latency']}ms | 成功率: {res['success_rate']}%")
+        print("-" * 50)
+
+if __name__ == "__main__":
+    main()
