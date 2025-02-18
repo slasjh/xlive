@@ -1,11 +1,20 @@
 import requests
 import time
+import json
 
 def fetch_and_parse_json(url):
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()
-        return response.json()
+        
+        # 尝试解析 JSON 数据
+        try:
+            return response.json()
+        except json.JSONDecodeError:
+            # 如果 JSON 解析失败，尝试修复单引号问题
+            raw_text = response.text
+            fixed_text = raw_text.replace("'", '"')  # 将单引号替换为双引号
+            return json.loads(fixed_text)  # 重新解析
     except Exception as e:
         print(f"请求JSON数据失败: {str(e)}")
         return None
