@@ -3,7 +3,7 @@ name: Daily Update (live&check parses) # 工作流名称
 on:
   # 使用cron表达式设置每周运行一次
   schedule:
-    - cron: '0 0 * * 0' # 每周日午夜0点运行（0表示午夜，0表示周日）
+    - cron: '0 0 * * *' # 每周日午夜0点运行（0表示午夜，0表示周日）
   # 允许手动触发，仅在main分支上
   workflow_dispatch:
     branches:
