@@ -110,7 +110,7 @@ def match_channels(template_channels, all_channels):
 def filter_source_urls(template_file, correction_file):
     template_channels = parse_template(template_file)
     corrections = parse_corrections(correction_file)
-    source_urls = litecon.source_urls
+    source_urls = config.source_urls
 
     all_channels = OrderedDict()
     for url in source_urls:
@@ -132,16 +132,16 @@ def updateChannelUrlsM3U(channels, template_channels):
     written_urls = set()
 
     current_date = datetime.now().strftime("%Y-%m-%d")
-    for group in litecon.announcements:
+    for group in config.announcements:
         for announcement in group['entries']:
             if announcement['name'] is None:
                 announcement['name'] = current_date
 
     with open("live.m3u", "w", encoding="utf-8") as f_m3u:
-        f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in litecon.epg_urls)}\n""")
+        f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
 
         with open("live.txt", "w", encoding="utf-8") as f_txt:
-            for group in litecon.announcements:
+            for group in config.announcements:
                 f_txt.write(f"{group['channel']},#genre#\n")
                 for announcement in group['entries']:
                     f_m3u.write(f"""#EXTINF:-1 tvg-id="1" tvg-name="{announcement['name']}" tvg-logo="{announcement['logo']}" group-title="{group['channel']}",{announcement['name']}\n""")
@@ -155,9 +155,9 @@ def updateChannelUrlsM3U(channels, template_channels):
                         if channel_name in channels[category]:
                             # 去重逻辑
                             unique_urls = list(OrderedDict.fromkeys([url for _, url in channels[category][channel_name]]))
-                            #sorted_urls = sorted(unique_urls, key=lambda url: not is_ipv6(url) if litecon.ip_version_priority == "ipv6" else is_ipv6(url))
+                            #sorted_urls = sorted(unique_urls, key=lambda url: not is_ipv6(url) if config.ip_version_priority == "ipv6" else is_ipv6(url))
                             sorted_urls = unique_urls       
-                            filtered_urls = [url for url in sorted_urls if not is_ipv6(url) and url not in written_urls and not any(blacklist in url for blacklist in litecon.url_blacklist)]
+                            filtered_urls = [url for url in sorted_urls if not is_ipv6(url) and url not in written_urls and not any(blacklist in url for blacklist in config.url_blacklist)]
 
                             # 保证数字连续
                             index = 1
