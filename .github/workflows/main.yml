@@ -1,4 +1,4 @@
-name: Daily Update (check parses) # 工作流名称
+name: Daily Update (live&check parses) # 工作流名称
 
 on:
   # 使用cron表达式设置每周运行一次
