@@ -62,6 +62,7 @@ def speed_test(url, test_times=3):
 def main():
     json_urls = [
         "http://156.238.251.122:888/Lite.json",
+        "http://156.238.251.122:888/jx/parses.json",
         # 可以添加更多JSON URL
     ]
 
