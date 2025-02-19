@@ -6,8 +6,8 @@ on:  # 定义触发工作流的事件
     branches:
       - main  # 当推送到 "main" 分支时触发
     paths:  # 当推送的更改包含以下路径时触发
-      - '.github/workflows/push_update.yml'  # 包含此工作流文件的更改
-      - '*check_parses0219-1.py'  # 包含任何以 ".py" 结尾的文件的更改
+      - '.github/workflows/parses_update.yml'  # 包含此工作流文件的更改
+      - 'check_parses0219-1.py'  # 包含任何以 ".py" 结尾的文件的更改
       - 'some_directory/specific_file.txt'  # 包含特定文件的更改
       - 'some_directory/*.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
 
