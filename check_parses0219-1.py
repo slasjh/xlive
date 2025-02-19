@@ -100,10 +100,10 @@ def main():
         output_lines.append(f"  平均延迟: {res['avg_latency']}ms | 成功率: {res['success_rate']}%\n")
         output_lines.append("-" * 50 + "\n")
 
-    with open("speed_test_results.txt", "w", encoding="utf-8") as f:
+    with open("parses_speed_results.txt", "w", encoding="utf-8") as f:
         f.writelines(output_lines)
 
-    print("测速结果已保存到 speed_test_results.txt 文件中。")
+    print("测速结果已保存到 parses_speed_results.txt文件中。")
 
 if __name__ == "__main__":
     main()
