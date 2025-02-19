@@ -16,10 +16,14 @@ on:  # 定义触发工作流的事件
 jobs:  # 定义工作流中的作业
   run_script:  # 作业的名称
     runs-on: ubuntu-latest  # 作业将在最新的 Ubuntu 运行器上执行
+    permissions:
+      contents: write  # 允许写入仓库
 
     steps:  # 定义作业中的步骤
     - name: Checkout repository  # 步骤名称：检出仓库
       uses: actions/checkout@v2  # 使用 "actions/checkout" 动作，版本为 "v2"，用于检出代码仓库
+      with:
+       persist-credentials: true  # 保留 GITHUB_TOKEN 的凭据
 
     - name: Set up Python  # 步骤名称：设置 Python
       uses: actions/setup-python@v2  # 使用 "actions/setup-python" 动作，版本为 "v2"，用于设置 Python 环境
