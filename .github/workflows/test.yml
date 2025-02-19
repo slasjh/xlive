@@ -39,7 +39,7 @@ jobs:  # 定义工作流中的作业
         pip install requests  # 安装 requests 库
 
     - name: Run Python main script  # 步骤名称：运行 Python 主脚本
-      run: python check_parses.py  # 运行名为 "check_parses.py" 的 Python 脚本
+      run: python check_parses0219.py  # 运行名为 "check_parses.py" 的 Python 脚本
 
     - name: Commit and push if changed  # 步骤名称：如果更改则提交并推送
       run: |  # 运行以下 shell 命令
