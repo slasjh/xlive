@@ -73,47 +73,67 @@ def speed_test(url, test_times=3):
         "avg_latency": round(total_time / success_count, 2),
         "success_rate": round(success_count / test_times * 100, 1)
     }
-
 def main():
 
     json_urls = [
 
         "http://156.238.251.122:888/Lite.json",
-    
 
         # 可以添加更多JSON URL
 
     ]
 
-    
+ 
 
-    # 获取并解析JSON
+    parsed_data_list = []  # 用于存储从每个JSON URL获取的数据
 
-    json_data_list = fetch_and_parse_json(json_urls)
+ 
 
-    if not json_data_list:
+    # 遍历每个URL，获取并解析JSON
+
+    for json_url in json_urls:
+
+        json_data = fetch_and_parse_json(json_url)  # 注意这里传递的是单个URL
+
+        if json_data:
+
+            parsed_data_list.append(json_data)
+
+ 
+
+    if not parsed_data_list:
 
         return
 
-    
+ 
 
     # 提取所有解析地址并去重
 
-    parsed_urls = extract_parse_urls(json_data_list)
+    parsed_urls = set()
+
+    for json_data in parsed_data_list:
+
+        if "parses" in json_data:
+
+            for parse in json_data["parses"]:
+
+                url = parse.get("url", "")
+
+                if url.startswith(("http://", "https://")):
+
+                    parsed_urls.add(url)
+
+ 
+
+    parsed_urls = list(parsed_urls)  # 转换回列表
+
+ 
 
     if not parsed_urls:
 
         print("未找到有效的解析地址")
 
         return
-
-    
-
-    # 打印找到的解析地址（可以去掉这部分，因为我们要保存到文件）
-
-    # for idx, url in enumerate(parsed_urls, 1):
-
-    #     print(f"{idx}. {url}")
 
     
 
