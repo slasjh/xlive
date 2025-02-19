@@ -1,11 +1,12 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
-    "http://116.62.139.149:8089/static/output/iptv-api.m3u", #ADDED BY lee  ON 2025/2/19
+
     "http://116.62.139.149:8089/static/output/live_Lite.m3u", #ADDED BY lee  ON 2025/2/19
+    "http://116.62.139.149:8089/static/output/iptv-api.m3u", #ADDED BY lee  ON 2025/2/19
+    "http://116.62.139.149:8089/static/output/user_result-xmbjm.m3u",  #ADDED BY lee  ON 2025/2/19  
       
-    "http://116.62.139.149:8089/static/output/user_result-xmbjm.m3u",  #ADDED BY lee  ON 2025/2/19      
-    "http://175.178.251.183:6689/live.m3u", #ADDED BY lee from yuanlz77" ON 31/12/2024 
+    
     "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u" #ADDED BY lee from Guovin/TV/gd/ (juhe) ON 31/12/2024 
 
 
