@@ -1,4 +1,4 @@
-name: Daily Update
+name: Daily Update(check parses)
 
 on:
   schedule:
@@ -7,44 +7,49 @@ on:
     branches:
       - main
 
-jobs:
-  run_script:
-    runs-on: ubuntu-latest
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
+jobs:  # 定义工作流中的作业
+  run_script:  # 作业的名称
+    runs-on: ubuntu-latest  # 作业将在最新的 Ubuntu 运行器上执行
+    permissions:
+      contents: write  # 允许写入仓库
+
+    steps:  # 定义作业中的步骤
+    - name: Checkout repository  # 步骤名称：检出仓库
+      uses: actions/checkout@v2  # 使用 "actions/checkout" 动作，版本为 "v2"，用于检出代码仓库
       with:
-        python-version: '3.10'
+       persist-credentials: true  # 保留 GITHUB_TOKEN 的凭据
 
-    - name: Cache dependencies
-      uses: actions/cache@v3
+    - name: Set up Python  # 步骤名称：设置 Python
+      uses: actions/setup-python@v2  # 使用 "actions/setup-python" 动作，版本为 "v2"，用于设置 Python 环境
       with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
+        python-version: '3.10'  # 指定 Python 版本为 3.10
+
+    - name: Cache dependencies  # 步骤名称：缓存依赖项
+      uses: actions/cache@v3  # 使用 "actions/cache" 动作，版本更新为 "v3"
+      with:
+        path: ~/.cache/pip  # 指定缓存路径为 pip 的缓存目录
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}  # 缓存键，基于运行器操作系统和 requirements.txt 文件的哈希值
+        restore-keys: |  # 备用缓存键，用于在找不到精确匹配时回退
           ${{ runner.os }}-pip-
 
-    - name: Install dependencies
-      run: |
-        pip install requests
+    - name: Install dependencies  # 步骤名称：安装依赖项
+      run: |  # 运行以下 shell 命令
+        pip install requests  # 安装 requests 库
 
-    - name: Run Python main script
-      run: python check_parses.py
+    - name: Run Python main script  # 步骤名称：运行 Python 主脚本
+      run: python check_parses0219-1.py  # 运行名为 "check_parses.py" 的 Python 脚本
 
+    - name: Commit and push if changed  # 步骤名称：如果更改则提交并推送
+      run: |  # 运行以下 shell 命令
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"  # 设置 git 用户邮箱
+        git config --local user.name "github-actions[bot]"  # 设置 git 用户名
+        git add -A  # 添加所有更改到暂存区
+        if ! git diff --staged --quiet; then  # 如果存在暂存的更改
+          git commit -m "Auto-update live files"  # 提交更改，附带消息 "Auto-update live files"
+          git push  # 推送更改到远程仓库
+        fi  # 结束 if 语句
 
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add -A
-        if ! git diff --staged --quiet; then
-          git commit -m "Auto-update live files"
-          git push
-        fi
-
-    env:
-      TZ: Asia/Shanghai
+    env:  # 定义环境变量
+      TZ: Asia/Shanghai  # 设置时区为 "Asia/Shanghai"
