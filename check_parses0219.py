@@ -79,7 +79,7 @@ def main():
     json_urls = [
 
         "http://156.238.251.122:888/Lite.json",
-        #"http://饭太硬.com/tv",
+    
 
         # 可以添加更多JSON URL
 
