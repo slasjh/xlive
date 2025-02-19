@@ -1,206 +1,412 @@
-找到 80 个解析地址:
+找到 160 个解析地址:
 1. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
 2. https://jx.xmflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-3. http://pan.qiaoji8.com/tvbox/neibu.php?url=（来自 http://156.238.251.122:888/Lite.json）
-4. http://pan.qiaoji8.com/tvbox/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-5. https://jxjson.sc1080.top?url=（来自 http://156.238.251.122:888/Lite.json）
-6. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
-7. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-8. http://1.94.221.189:88/algorithm.php?url=（来自 http://156.238.251.122:888/Lite.json）
-9. http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=（来自 http://156.238.251.122:888/Lite.json）
-10. http://1.94.221.189:88/algorithm.php?url=（来自 http://156.238.251.122:888/Lite.json）
-11. http://jiexi.52ppx.top/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-12. https://www.mpanso.com/muou/qilin.php?url=（来自 http://156.238.251.122:888/Lite.json）
-13. http://110.40.85.39:81/jxxx/api.php?url=（来自 http://156.238.251.122:888/Lite.json）
-14. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-15. http://jx.1ii.icu/qgg.php?url=（来自 http://156.238.251.122:888/Lite.json）
-16. http://61.158.166.42:90/api/?key=PtC4eRFwtPbA3IlFHC&url=（来自 http://156.238.251.122:888/Lite.json）
-17. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-18. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-19. https://jx.zhanlangbu.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-20. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-21. https://jx.jsonplayer.com/player/?url=（来自 http://156.238.251.122:888/Lite.json）
-22. https://www.kkvip2022.com/vip/jiexi1/?url=（来自 http://156.238.251.122:888/Lite.json）
-23. https://jx.quankan.app/?url=（来自 http://156.238.251.122:888/Lite.json）
-24. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
-25. https://jx.77flv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-26. https://jx.xymp4.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-27. https://jx.dmflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-28. https://dm.xmflv.com:4433/?url=（来自 http://156.238.251.122:888/Lite.json）
-29. https://www.pouyun.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-30. https://110.42.2.247:9090/player/?url=（来自 http://156.238.251.122:888/Lite.json）
-31. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
-32. http://www.jzmhtt.com/zdy/vip/?url=（来自 http://156.238.251.122:888/Lite.json）
-33. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-34. https://bd.jx.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
-35. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-36. http://112.74.124.75:8899/jiexi/api.php?url=（来自 http://156.238.251.122:888/Lite.json）
-37. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-38. http://localhost:5705/parse/api/哔哩.js?url=（来自 http://156.238.251.122:888/Lite.json）
-39. http://rxjx.kuanjv.com/allm3u8.php?url=（来自 http://156.238.251.122:888/Lite.json）
-40. http://jx.nikucms.com/pc/index6.php?url=（来自 http://156.238.251.122:888/Lite.json）
-41. http://91fanli.top/m3u8/?url=（来自 http://156.238.251.122:888/Lite.json）
-42. https://rx.bt5v.com/json/jsonindex.php/?url=（来自 http://156.238.251.122:888/Lite.json）
-43. https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=（来自 http://156.238.251.122:888/Lite.json）
-44. https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=（来自 http://156.238.251.122:888/Lite.json）
-45. https://okjx.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-46. http://api.wpsseo.cn/?v=（来自 http://156.238.251.122:888/Lite.json）
-47. https://jx.m3u8.tv/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
-48. https://play.fositv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-49. https://www.nxflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-50. https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=（来自 http://156.238.251.122:888/Lite.json）
-51. https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=（来自 http://156.238.251.122:888/Lite.json）
-52. https://h5.freejson.xyz/player/?url=（来自 http://156.238.251.122:888/Lite.json）
-53. https://freejx.rx88.top:1234/?url=（来自 http://156.238.251.122:888/Lite.json）
-54. https://jx.iztyy.com/svip/?url=（来自 http://156.238.251.122:888/Lite.json）
-55. https://m2090.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-56. https://go.yh0523.cn/y.cy?url=（来自 http://156.238.251.122:888/Lite.json）
-57. https://jx.bozrc.com:4433/player/?url=（来自 http://156.238.251.122:888/Lite.json）
-58. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
-59. https://www.h8jx.com/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-60. https://ckmov.ccyjjd.com/ckmov/?url=（来自 http://156.238.251.122:888/Lite.json）
-61. https://jsap.attakids.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-62. https://js.52jx.top:2525/?url=（来自 http://156.238.251.122:888/Lite.json）
-63. https://sb.5gseo.net/?url=（来自 http://156.238.251.122:888/Lite.json）
-64. https://jx.bynote.top/API.php?url=（来自 http://156.238.251.122:888/Lite.json）
-65. http://27.124.4.42:4567/jhjson/ceshi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-66. https://z1.m1907.cn/?jx=（来自 http://156.238.251.122:888/Lite.json）
-67. https://vip.bljiex.com/?v=（来自 http://156.238.251.122:888/Lite.json）
-68. https://www.ckplayer.vip/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
-69. https://api.jiexi.la/?url=（来自 http://156.238.251.122:888/Lite.json）
-70. https://vip.laobandq.com/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-71. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-72. https://www.pangujiexi.cc/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-73. https://jx.blbo.cc:4433/?url=（来自 http://156.238.251.122:888/Lite.json）
-74. https://jx.mmkv.cn/tv.php?url=（来自 http://156.238.251.122:888/Lite.json）
-75. https://jx.rdhk.net/?v=（来自 http://156.238.251.122:888/Lite.json）
-76. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-77. https://jx.000180.top/jx/?url=（来自 http://156.238.251.122:888/Lite.json）
-78. https://www.xymav.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-79. https://www.yemu.xyz/?url=（来自 http://156.238.251.122:888/Lite.json）
+3. https://jx.m3u8.tv/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
+4. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
+5. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+6. https://h5.freejson.xyz/player/?url=（来自 http://156.238.251.122:888/Lite.json）
+7. https://jx.000180.top/jx/?url=（来自 http://156.238.251.122:888/Lite.json）
+8. https://dm.xmflv.com:4433/?url=（来自 http://156.238.251.122:888/Lite.json）
+9. https://jx.dmflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+10. https://jx.77flv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+11. https://www.pouyun.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+12. https://jx.xymp4.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+13. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+14. https://www.ckplayer.vip/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
+15. https://jsap.attakids.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+16. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
+17. http://61.158.166.42:90/api/?key=PtC4eRFwtPbA3IlFHC&url=（来自 http://156.238.251.122:888/Lite.json）
+18. https://rx.bt5v.com/json/jsonindex.php/?url=（来自 http://156.238.251.122:888/Lite.json）
+19. https://www.kkvip2022.com/vip/jiexi1/?url=（来自 http://156.238.251.122:888/Lite.json）
+20. http://jiexi.52ppx.top/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
+21. https://www.xymav.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+22. https://www.h8jx.com/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+23. https://play.fositv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+24. https://jxjson.sc1080.top?url=（来自 http://156.238.251.122:888/Lite.json）
+25. https://bd.jx.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
+26. https://www.yemu.xyz/?url=（来自 http://156.238.251.122:888/Lite.json）
+27. https://api.jiexi.la/?url=（来自 http://156.238.251.122:888/Lite.json）
+28. https://ckmov.ccyjjd.com/ckmov/?url=（来自 http://156.238.251.122:888/Lite.json）
+29. http://pan.qiaoji8.com/tvbox/neibu.php?url=（来自 http://156.238.251.122:888/Lite.json）
+30. http://pan.qiaoji8.com/tvbox/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+31. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
+32. https://www.nxflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+33. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+34. http://1.94.221.189:88/algorithm.php?url=（来自 http://156.238.251.122:888/Lite.json）
+35. http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=（来自 http://156.238.251.122:888/Lite.json）
+36. http://1.94.221.189:88/algorithm.php?url=（来自 http://156.238.251.122:888/Lite.json）
+37. https://www.mpanso.com/muou/qilin.php?url=（来自 http://156.238.251.122:888/Lite.json）
+38. http://110.40.85.39:81/jxxx/api.php?url=（来自 http://156.238.251.122:888/Lite.json）
+39. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+40. http://jx.1ii.icu/qgg.php?url=（来自 http://156.238.251.122:888/Lite.json）
+41. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+42. https://jx.zhanlangbu.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+43. https://jx.jsonplayer.com/player/?url=（来自 http://156.238.251.122:888/Lite.json）
+44. https://jx.quankan.app/?url=（来自 http://156.238.251.122:888/Lite.json）
+45. https://110.42.2.247:9090/player/?url=（来自 http://156.238.251.122:888/Lite.json）
+46. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
+47. http://www.jzmhtt.com/zdy/vip/?url=（来自 http://156.238.251.122:888/Lite.json）
+48. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+49. http://112.74.124.75:8899/jiexi/api.php?url=（来自 http://156.238.251.122:888/Lite.json）
+50. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
+51. http://localhost:5705/parse/api/哔哩.js?url=（来自 http://156.238.251.122:888/Lite.json）
+52. http://rxjx.kuanjv.com/allm3u8.php?url=（来自 http://156.238.251.122:888/Lite.json）
+53. http://jx.nikucms.com/pc/index6.php?url=（来自 http://156.238.251.122:888/Lite.json）
+54. http://91fanli.top/m3u8/?url=（来自 http://156.238.251.122:888/Lite.json）
+55. https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=（来自 http://156.238.251.122:888/Lite.json）
+56. https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=（来自 http://156.238.251.122:888/Lite.json）
+57. https://okjx.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+58. http://api.wpsseo.cn/?v=（来自 http://156.238.251.122:888/Lite.json）
+59. https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=（来自 http://156.238.251.122:888/Lite.json）
+60. https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=（来自 http://156.238.251.122:888/Lite.json）
+61. https://freejx.rx88.top:1234/?url=（来自 http://156.238.251.122:888/Lite.json）
+62. https://jx.iztyy.com/svip/?url=（来自 http://156.238.251.122:888/Lite.json）
+63. https://m2090.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+64. https://go.yh0523.cn/y.cy?url=（来自 http://156.238.251.122:888/Lite.json）
+65. https://jx.bozrc.com:4433/player/?url=（来自 http://156.238.251.122:888/Lite.json）
+66. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
+67. https://js.52jx.top:2525/?url=（来自 http://156.238.251.122:888/Lite.json）
+68. https://sb.5gseo.net/?url=（来自 http://156.238.251.122:888/Lite.json）
+69. https://jx.bynote.top/API.php?url=（来自 http://156.238.251.122:888/Lite.json）
+70. http://27.124.4.42:4567/jhjson/ceshi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+71. https://z1.m1907.cn/?jx=（来自 http://156.238.251.122:888/Lite.json）
+72. https://vip.bljiex.com/?v=（来自 http://156.238.251.122:888/Lite.json）
+73. https://vip.laobandq.com/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+74. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+75. https://www.pangujiexi.cc/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+76. https://jx.blbo.cc:4433/?url=（来自 http://156.238.251.122:888/Lite.json）
+77. https://jx.mmkv.cn/tv.php?url=（来自 http://156.238.251.122:888/Lite.json）
+78. https://jx.rdhk.net/?v=（来自 http://156.238.251.122:888/Lite.json）
+79. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
 80. http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=（来自 http://156.238.251.122:888/Lite.json）
+81. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+82. https://jx.xmflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+83. http://pan.qiaoji8.com/tvbox/neibu.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+84. http://pan.qiaoji8.com/tvbox/gouzi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+85. https://jxjson.sc1080.top?url=（来自 http://156.238.251.122:888/jx/parses.json）
+86. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+87. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+88. http://1.94.221.189:88/algorithm.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+89. http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=（来自 http://156.238.251.122:888/jx/parses.json）
+90. http://1.94.221.189:88/algorithm.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+91. http://jiexi.52ppx.top/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+92. https://www.mpanso.com/muou/qilin.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+93. http://110.40.85.39:81/jxxx/api.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+94. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+95. http://jx.1ii.icu/qgg.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+96. http://61.158.166.42:90/api/?key=PtC4eRFwtPbA3IlFHC&url=（来自 http://156.238.251.122:888/jx/parses.json）
+97. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+98. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+99. https://jx.zhanlangbu.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+100. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+101. https://jx.jsonplayer.com/player/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+102. https://www.kkvip2022.com/vip/jiexi1/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+103. https://jx.quankan.app/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+104. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+105. https://jx.77flv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+106. https://jx.xymp4.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+107. https://jx.dmflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+108. https://dm.xmflv.com:4433/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+109. https://www.pouyun.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+110. https://110.42.2.247:9090/player/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+111. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+112. http://www.jzmhtt.com/zdy/vip/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+113. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+114. https://bd.jx.cn/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+115. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+116. http://112.74.124.75:8899/jiexi/api.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+117. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+118. http://localhost:5705/parse/api/哔哩.js?url=（来自 http://156.238.251.122:888/jx/parses.json）
+119. http://rxjx.kuanjv.com/allm3u8.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+120. http://jx.nikucms.com/pc/index6.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+121. http://91fanli.top/m3u8/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+122. https://rx.bt5v.com/json/jsonindex.php/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+123. https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=（来自 http://156.238.251.122:888/jx/parses.json）
+124. https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=（来自 http://156.238.251.122:888/jx/parses.json）
+125. https://okjx.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+126. http://api.wpsseo.cn/?v=（来自 http://156.238.251.122:888/jx/parses.json）
+127. https://jx.m3u8.tv/jiexi/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+128. https://play.fositv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+129. https://www.nxflv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+130. https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=（来自 http://156.238.251.122:888/jx/parses.json）
+131. https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=（来自 http://156.238.251.122:888/jx/parses.json）
+132. https://h5.freejson.xyz/player/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+133. https://freejx.rx88.top:1234/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+134. https://jx.iztyy.com/svip/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+135. https://m2090.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+136. https://go.yh0523.cn/y.cy?url=（来自 http://156.238.251.122:888/jx/parses.json）
+137. https://jx.bozrc.com:4433/player/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+138. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+139. https://www.h8jx.com/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+140. https://ckmov.ccyjjd.com/ckmov/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+141. https://jsap.attakids.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+142. https://js.52jx.top:2525/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+143. https://sb.5gseo.net/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+144. https://jx.bynote.top/API.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+145. http://27.124.4.42:4567/jhjson/ceshi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+146. https://z1.m1907.cn/?jx=（来自 http://156.238.251.122:888/jx/parses.json）
+147. https://vip.bljiex.com/?v=（来自 http://156.238.251.122:888/jx/parses.json）
+148. https://www.ckplayer.vip/jiexi/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+149. https://api.jiexi.la/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+150. https://vip.laobandq.com/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+151. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+152. https://www.pangujiexi.cc/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+153. https://jx.blbo.cc:4433/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+154. https://jx.mmkv.cn/tv.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+155. https://jx.rdhk.net/?v=（来自 http://156.238.251.122:888/jx/parses.json）
+156. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+157. https://jx.000180.top/jx/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+158. https://www.xymav.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+159. https://www.yemu.xyz/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+160. http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=（来自 http://156.238.251.122:888/jx/parses.json）
 
 测速结果（按延迟排序）：
-1. https://jsap.attakids.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 117.29ms | 成功率: 100.0%
+1. https://www.pouyun.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 33.62ms | 成功率: 100.0%
 --------------------------------------------------
-2. https://jx.000180.top/jx/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 185.79ms | 成功率: 100.0%
+2. https://jx.xmflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 34.82ms | 成功率: 100.0%
 --------------------------------------------------
-3. https://jx.m3u8.tv/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 204.84ms | 成功率: 100.0%
+3. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 37.1ms | 成功率: 100.0%
 --------------------------------------------------
-4. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 214.96ms | 成功率: 100.0%
+4. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 37.35ms | 成功率: 100.0%
 --------------------------------------------------
-5. https://jx.xmflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 223.88ms | 成功率: 100.0%
+5. https://jx.m3u8.tv/jiexi/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 47.1ms | 成功率: 100.0%
 --------------------------------------------------
-6. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 230.56ms | 成功率: 100.0%
+6. https://jx.m3u8.tv/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 52.3ms | 成功率: 100.0%
 --------------------------------------------------
-7. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 267.32ms | 成功率: 100.0%
+7. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 56.55ms | 成功率: 100.0%
 --------------------------------------------------
-8. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 269.94ms | 成功率: 100.0%
+8. https://jx.000180.top/jx/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 57.26ms | 成功率: 100.0%
 --------------------------------------------------
-9. https://www.pouyun.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 288.76ms | 成功率: 100.0%
+9. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 62.24ms | 成功率: 100.0%
 --------------------------------------------------
-10. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 295.06ms | 成功率: 100.0%
+10. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 65.65ms | 成功率: 100.0%
 --------------------------------------------------
-11. https://jx.xymp4.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 309.06ms | 成功率: 100.0%
+11. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 66.53ms | 成功率: 100.0%
 --------------------------------------------------
-12. https://jx.77flv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 313.36ms | 成功率: 100.0%
+12. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 84.29ms | 成功率: 100.0%
 --------------------------------------------------
-13. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 314.11ms | 成功率: 100.0%
+13. https://dm.xmflv.com:4433/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 88.85ms | 成功率: 100.0%
 --------------------------------------------------
-14. https://www.h8jx.com/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 335.25ms | 成功率: 100.0%
+14. https://h5.freejson.xyz/player/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 93.32ms | 成功率: 100.0%
 --------------------------------------------------
-15. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 340.29ms | 成功率: 100.0%
+15. https://jx.xmflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 93.78ms | 成功率: 100.0%
 --------------------------------------------------
-16. https://jx.dmflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 356.35ms | 成功率: 100.0%
+16. https://jx.77flv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 98.07ms | 成功率: 100.0%
 --------------------------------------------------
-17. https://h5.freejson.xyz/player/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 364.82ms | 成功率: 100.0%
+17. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 102.84ms | 成功率: 100.0%
 --------------------------------------------------
-18. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 365.84ms | 成功率: 100.0%
+18. https://jx.aidouer.net/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 103.48ms | 成功率: 100.0%
 --------------------------------------------------
-19. https://www.ckplayer.vip/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 372.78ms | 成功率: 100.0%
+19. https://dm.xmflv.com:4433/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 104.77ms | 成功率: 100.0%
 --------------------------------------------------
-20. https://play.fositv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 382.91ms | 成功率: 100.0%
+20. https://jx.xmflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 106.42ms | 成功率: 100.0%
 --------------------------------------------------
-21. https://www.kkvip2022.com/vip/jiexi1/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 386.33ms | 成功率: 100.0%
+21. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 110.58ms | 成功率: 100.0%
 --------------------------------------------------
-22. https://dm.xmflv.com:4433/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 422.76ms | 成功率: 100.0%
+22. https://jx.dmflv.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 114.83ms | 成功率: 100.0%
 --------------------------------------------------
-23. https://rx.bt5v.com/json/jsonindex.php/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 452.55ms | 成功率: 100.0%
+23. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 121.66ms | 成功率: 100.0%
 --------------------------------------------------
-24. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 458.88ms | 成功率: 100.0%
+24. https://www.ckplayer.vip/jiexi/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 127.25ms | 成功率: 100.0%
 --------------------------------------------------
-25. http://61.158.166.42:90/api/?key=PtC4eRFwtPbA3IlFHC&url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 523.2ms | 成功率: 100.0%
+25. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 130.96ms | 成功率: 100.0%
 --------------------------------------------------
-26. https://api.jiexi.la/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 641.5ms | 成功率: 100.0%
+26. https://jx.xyflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 161.84ms | 成功率: 100.0%
 --------------------------------------------------
-27. https://ckmov.ccyjjd.com/ckmov/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 669.99ms | 成功率: 100.0%
+27. https://jx.xymp4.cc/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 171.04ms | 成功率: 100.0%
 --------------------------------------------------
-28. https://www.yemu.xyz/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 709.44ms | 成功率: 100.0%
+28. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 176.54ms | 成功率: 100.0%
 --------------------------------------------------
-29. https://www.xymav.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 743.1ms | 成功率: 100.0%
+29. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 188.9ms | 成功率: 100.0%
 --------------------------------------------------
-30. https://bd.jx.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 745.71ms | 成功率: 100.0%
+30. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 193.86ms | 成功率: 100.0%
 --------------------------------------------------
-31. https://www.nxflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 763.39ms | 成功率: 100.0%
+31. https://www.8090g.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 197.75ms | 成功率: 100.0%
 --------------------------------------------------
-32. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 767.63ms | 成功率: 100.0%
+32. https://jx.000180.top/jx/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 199.78ms | 成功率: 100.0%
 --------------------------------------------------
-33. http://jiexi.52ppx.top/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 776.28ms | 成功率: 100.0%
+33. https://jx.dmflv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 199.89ms | 成功率: 100.0%
 --------------------------------------------------
-34. https://jxjson.sc1080.top?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 878.09ms | 成功率: 100.0%
+34. https://jx.77flv.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 200.21ms | 成功率: 100.0%
 --------------------------------------------------
-35. http://pan.qiaoji8.com/tvbox/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 1411.35ms | 成功率: 100.0%
+35. https://www.ckplayer.vip/jiexi/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 252.58ms | 成功率: 100.0%
 --------------------------------------------------
-36. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 1614.42ms | 成功率: 100.0%
+36. https://www.pouyun.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 254.37ms | 成功率: 100.0%
 --------------------------------------------------
-37. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 1728.11ms | 成功率: 100.0%
+37. https://www.kkvip2022.com/vip/jiexi1/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 266.92ms | 成功率: 100.0%
 --------------------------------------------------
-38. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 1778.77ms | 成功率: 100.0%
+38. https://api.jiexi.la/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 268.87ms | 成功率: 100.0%
 --------------------------------------------------
-39. http://pan.qiaoji8.com/tvbox/neibu.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 1861.04ms | 成功率: 100.0%
+39. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 285.43ms | 成功率: 100.0%
 --------------------------------------------------
-40. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 2506.77ms | 成功率: 100.0%
+40. https://jsap.attakids.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 307.98ms | 成功率: 100.0%
 --------------------------------------------------
-41. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
-  平均延迟: 2835.93ms | 成功率: 100.0%
+41. https://jsap.attakids.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 318.46ms | 成功率: 100.0%
+--------------------------------------------------
+42. https://rx.bt5v.com/json/jsonindex.php/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 319.21ms | 成功率: 100.0%
+--------------------------------------------------
+43. https://www.xymav.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 375.33ms | 成功率: 100.0%
+--------------------------------------------------
+44. https://jx.xymp4.cc/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 407.91ms | 成功率: 100.0%
+--------------------------------------------------
+45. http://61.158.166.42:90/api/?key=PtC4eRFwtPbA3IlFHC&url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 409.01ms | 成功率: 100.0%
+--------------------------------------------------
+46. http://61.158.166.42:90/api/?key=PtC4eRFwtPbA3IlFHC&url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 410.18ms | 成功率: 100.0%
+--------------------------------------------------
+47. https://www.kkvip2022.com/vip/jiexi1/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 449.38ms | 成功率: 100.0%
+--------------------------------------------------
+48. http://jiexi.52ppx.top/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 474.36ms | 成功率: 100.0%
+--------------------------------------------------
+49. https://jxjson.sc1080.top?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 555.8ms | 成功率: 100.0%
+--------------------------------------------------
+50. https://ckmov.ccyjjd.com/ckmov/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 578.43ms | 成功率: 100.0%
+--------------------------------------------------
+51. https://bd.jx.cn/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 607.57ms | 成功率: 100.0%
+--------------------------------------------------
+52. https://jx.quankan.app/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 608.21ms | 成功率: 33.3%
+--------------------------------------------------
+53. https://rx.bt5v.com/json/jsonindex.php/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 608.48ms | 成功率: 100.0%
+--------------------------------------------------
+54. https://www.nxflv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 609.84ms | 成功率: 100.0%
+--------------------------------------------------
+55. https://play.fositv.com/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 621.11ms | 成功率: 100.0%
+--------------------------------------------------
+56. https://ckmov.ccyjjd.com/ckmov/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 625.17ms | 成功率: 100.0%
+--------------------------------------------------
+57. https://jxjson.sc1080.top?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 627.99ms | 成功率: 100.0%
+--------------------------------------------------
+58. https://bd.jx.cn/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 644.62ms | 成功率: 100.0%
+--------------------------------------------------
+59. https://www.xymav.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 646.3ms | 成功率: 100.0%
+--------------------------------------------------
+60. http://jiexi.52ppx.top/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 680.33ms | 成功率: 100.0%
+--------------------------------------------------
+61. https://www.h8jx.com/jiexi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 690.36ms | 成功率: 66.7%
+--------------------------------------------------
+62. https://www.nxflv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 871.26ms | 成功率: 100.0%
+--------------------------------------------------
+63. https://www.h8jx.com/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 877.12ms | 成功率: 100.0%
+--------------------------------------------------
+64. https://play.fositv.com/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1047.51ms | 成功率: 100.0%
+--------------------------------------------------
+65. https://api.jiexi.la/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1075.22ms | 成功率: 100.0%
+--------------------------------------------------
+66. http://pan.qiaoji8.com/tvbox/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1112.45ms | 成功率: 100.0%
+--------------------------------------------------
+67. http://pan.qiaoji8.com/tvbox/gouzi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 1143.43ms | 成功率: 100.0%
+--------------------------------------------------
+68. http://pan.qiaoji8.com/tvbox/neibu.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 1208.97ms | 成功率: 100.0%
+--------------------------------------------------
+69. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1324.22ms | 成功率: 100.0%
+--------------------------------------------------
+70. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 1351.54ms | 成功率: 100.0%
+--------------------------------------------------
+71. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 1360.27ms | 成功率: 100.0%
+--------------------------------------------------
+72. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 1371.52ms | 成功率: 100.0%
+--------------------------------------------------
+73. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1440.18ms | 成功率: 100.0%
+--------------------------------------------------
+74. http://pan.qiaoji8.com/tvbox/neibu.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1639.09ms | 成功率: 100.0%
+--------------------------------------------------
+75. https://jx.yparse.com/index.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1709.71ms | 成功率: 100.0%
+--------------------------------------------------
+76. https://www.playm3u8.cn/jiexi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 1771.26ms | 成功率: 100.0%
+--------------------------------------------------
+77. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 2062.59ms | 成功率: 100.0%
+--------------------------------------------------
+78. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 2095.57ms | 成功率: 66.7%
+--------------------------------------------------
+79. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 2120.91ms | 成功率: 100.0%
+--------------------------------------------------
+80. https://www.yemu.xyz/?url=（来自 http://156.238.251.122:888/jx/parses.json）
+  平均延迟: 2196.98ms | 成功率: 100.0%
+--------------------------------------------------
+81. https://zy.qiaoji8.com/gouzi.php?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 2559.94ms | 成功率: 100.0%
+--------------------------------------------------
+82. https://www.yemu.xyz/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 4084.16ms | 成功率: 100.0%
+--------------------------------------------------
+83. https://h5.freejson.xyz/player/?url=（来自 http://156.238.251.122:888/Lite.json）
+  平均延迟: 5928.2ms | 成功率: 100.0%
 --------------------------------------------------
