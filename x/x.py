@@ -105,8 +105,8 @@ def speed_test(url, test_times=3):
 
 def main():
     json_urls = [
-        "https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/xingfu.json",
-        #"http://156.238.251.122:888/jx/parses.json",
+        #"https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/xingfu.json",
+        "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json",
         # 可以添加更多JSON URL
     ]
 
