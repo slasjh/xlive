@@ -109,11 +109,11 @@ def main():
         f.writelines(output_lines)
   
     print("测速结果已保存到 x_speed_results.txt文件中。")
-    fail_output = []
-                # 如果所有测试都失败了，可以选择在这里写入文件或返回None
+    # 如果所有测试都失败了，可以选择在这里写入文件或返回None
   
     with open("fail_output.txt", "a", encoding="utf-8") as f:
             f.writelines(fail_output)
-
+fail_output = []
 if __name__ == "__main__":
     main()
+
