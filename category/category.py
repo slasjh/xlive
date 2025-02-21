@@ -140,7 +140,7 @@ excudelist_lines=read_txt_to_array('category/ExcludeList.txt')
 # 定义
 urls = [
 
-    "https://raw.githubusercontent.com/slasjh/tvlice/refs/heads/checkspeed/whitelist_auto_tv.txt",
+    "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/checkspeed/whitelist_auto_tv.txt",
 
 ]
 # 处理
