@@ -2,6 +2,7 @@ import requests
 import time
 import json
 import re
+import os
 
 
 
@@ -143,15 +144,26 @@ def main():
         output_lines.append(f"{idx}. {res['url']}（来自 {res['source']}）\n")
         output_lines.append(f"  平均延迟: {res['avg_latency']}ms | 成功率: {res['success_rate']}%\n")
         output_lines.append("-" * 50 + "\n")
+       # 获取当前脚本所在的目录
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # 获取上一层目录
+    parent_dir = os.path.dirname(current_dir)
+    # 获取再上一层目录
+    #parent2_dir = os.path.dirname(parent_dir)
+    # # 获取根目录
+    # root_dir = os.path.abspath(os.sep)  
 
-    with open("x_speed_results.txt", "w", encoding="utf-8") as f:
+    x_results = os.path.join(current_dir, 'x_results.txt')  # 输入文件路径1
+    fail_output = os.path.join(current_dir, 'fail_output.txt')  # 输入文件路径1
+    with open(x_results, "w", encoding="utf-8") as f:
         f.writelines(output_lines)
   
-    print("测速结果已保存到 x_speed_results.txt文件中。")
+    print("测速结果已保存到 x_results.txt文件中。")
     # 如果所有测试都失败了，可以选择在这里写入文件或返回None
   
-    with open("fail_output.txt", "a", encoding="utf-8") as f:
+    with open(fail_output, "a", encoding="utf-8") as f:
             f.writelines(fail_output)
+    print("fail结果已保存到 fail_output.txt文件中。")
 fail_output = []
 if __name__ == "__main__":
     main()
