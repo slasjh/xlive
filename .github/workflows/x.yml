@@ -6,7 +6,7 @@ on:  # 定义触发工作流的事件
     branches:
       - main  # 当推送到 "main" 分支时触发 
     paths:  # 当推送的更改包含以下路径时触发
-      - '.github/workflows/xyml'  # 包含此工作流文件的更改
+      - '.github/workflows/x.yml'  # 包含此工作流文件的更改
       - 'x/x.py'  # 包含任何以 ".py" 结尾的文件的更改
       - '*.txt'  # 包含 "some_directory" 目录下任何以 ".txt" 结尾的文件的更改
 
