@@ -1,20 +1,59 @@
 import requests
 import time
 import json
+import re
+
+
+
+def remove_single_line_comments(json_str):
+
+    # 使用正则表达式匹配并移除以 // 开头的单行注释
+
+    cleaned_json_str = re.sub(r'//.*', '', json_str, flags=re.MULTILINE)
+
+    return cleaned_json_str
+
 
 def fetch_and_sites_json(url):
+
     try:
+
         response = requests.get(url, timeout=10)
+
         response.raise_for_status()
+
         try:
+
+            # 尝试直接解析JSON
+
             return response.json()
+
         except json.JSONDecodeError:
-            raw_text = response.text.replace("'", '"')
-            return json.loads(raw_text)
+
+            # 如果解析失败，尝试移除注释后重新解析
+
+            cleaned_text = remove_single_line_comments(response.text)
+
+            try:
+
+                return json.loads(cleaned_text)
+
+            except json.JSONDecodeError as e:
+
+                # 如果移除注释后仍然无法解析，抛出异常或进行其他处理
+
+                print(f"移除注释后仍然无法解析JSON: {e}")
+
+                raise  # 可以选择重新抛出异常，或者返回None等其他处理方式
+
     except Exception as e:
-        print(f"此接口 {url}请求JSON数据失败: {str(e)}")
-        fail_message = f"此接口 {url}请求JSON数据失败: {str(e)} \n"  # 添加换行符以便每行一个错误信息
-        fail_output.append(fail_message)  # 将错误信息添加到列表中
+
+        print(f"此接口 {url} 请求JSON数据失败: {str(e)}")
+
+        fail_message = f"此接口 {url} 请求JSON数据失败: {str(e)} \n"
+
+        fail_output.append(fail_message)
+
         return None
 
 def extract_sites_urls(json_data, source_url):
