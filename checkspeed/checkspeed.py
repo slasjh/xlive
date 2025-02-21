@@ -39,16 +39,11 @@ def check_url(url, timeout=6):
             }
             req = urllib.request.Request(encoded_url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as response:
-                if response.status == 200:
+                if response.status == 200 or response.status_code == 206:  # 部分内容响应也是成功的:
                     success = True
-        elif url.startswith("p3p"):
-            success = check_p3p_url(url, timeout)
-        elif url.startswith("p2p"):
-            success = check_p2p_url(url, timeout)        
-        elif url.startswith("rtmp") or url.startswith("rtsp") :
-            success = check_rtmp_url(url, timeout)
-        elif url.startswith("rtp"):
-            success = check_rtp_url(url, timeout)
+        elif url.startswith("p3p") or url.startswith("p2p") or url.startswith("rtmp") or url.startswith("rtsp") or url.startswith("rtp"):
+            success = False
+            print(f"{url}此链接为rtp/p2p/rtmp/rtsp等，舍弃不检测")
 
         # 如果执行到这一步，没有异常，计算时间
         elapsed_time = (time.time() - start_time) * 1000  # 转换为毫秒
@@ -61,98 +56,6 @@ def check_url(url, timeout=6):
 
     return elapsed_time, success
 
-def check_rtmp_url(url, timeout):
-    try:
-        result = subprocess.run(['ffprobe', url], stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=timeout)
-        if result.returncode == 0:
-            return True
-    except subprocess.TimeoutExpired:
-        print(f"Timeout checking {url}")
-    except Exception as e:
-        print(f"Error checking {url}: {e}")
-    return False
-
-def check_rtp_url(url, timeout):
-    try:
-        # 解析URL
-        parsed_url = urlparse(url)
-        
-        # 提取主机名（IP地址）和端口号
-        host = parsed_url.hostname
-        port = parsed_url.port
-
-        # 创建一个 socket 连接
-        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
-            s.settimeout(timeout)  # 设置超时时间
-            s.connect((host, port))
-            s.sendto(b'', (host, port))  # 发送空的UDP数据包
-            s.recv(1)  # 尝试接收数据
-        return True
-    except (socket.timeout, socket.error):
-        return False
-
-def check_p3p_url(url, timeout):
-    try:
-        # 解析URL
-        parsed_url = urlparse(url)
-        host = parsed_url.hostname
-        port = parsed_url.port or (80 if parsed_url.scheme == "http" else 443)
-        path = parsed_url.path or "/"
-        
-        # 检查解析是否成功
-        if not host or not port or not path:
-            raise ValueError("Invalid p3p URL")
-
-        # 创建一个 TCP 连接
-        with socket.create_connection((host, port), timeout=timeout) as s:
-            # 发送一个简单的请求（根据协议定义可能需要调整）
-            # request = f"GET {path} P3P/1.0\r\nHost: {host}\r\n\r\n"
-            # 构造请求
-            request = (
-                f"GET {path} P3P/1.0\r\n"
-                f"Host: {host}\r\n"
-                f"User-Agent: CustomClient/1.0\r\n"
-                f"Connection: close\r\n\r\n"
-            )
-            s.sendall(request.encode())
-            
-            # 读取响应
-            response = s.recv(1024)
-            
-            # 简单判断是否收到有效响应
-            if b"P3P" in response:
-                return True
-    except Exception as e:
-        print(f"Error checking {url}: {e}")
-    return False
-
-def check_p2p_url(url, timeout):
-    try:
-        # 解析URL
-        parsed_url = urlparse(url)
-        host = parsed_url.hostname
-        port = parsed_url.port
-        path = parsed_url.path
-
-        # 检查解析是否成功
-        if not host or not port or not path:
-            raise ValueError("Invalid P2P URL")
-
-        # 创建一个 TCP 连接
-        with socket.create_connection((host, port), timeout=timeout) as s:
-            # 自定义请求，这里只是一个占位符，需根据具体协议定义
-            request = f"YOUR_CUSTOM_REQUEST {path}\r\nHost: {host}\r\n\r\n"
-            s.sendall(request.encode())
-            
-            # 读取响应
-            response = s.recv(1024)
-            
-            # 自定义响应解析，这里简单示例
-            if b"SOME_EXPECTED_RESPONSE" in response:
-                return True
-    except Exception as e:
-        print(f"Error checking {url}: {e}")
-    return False
 
 # 处理单行文本并检测URL
 def process_line(line):
@@ -326,10 +229,18 @@ def record_host(host):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        #"https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt",
-        #'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt'
-        #'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/live.txt',
-        'https://raw.githubusercontent.com/slasjh/n3rddd-CTVLive/refs/heads/ipv4/litelive_cctvweishi.txt'
+        "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "https://live.fanmingming.com/tv/m3u/ipv6.m3u", #ADDED BY lee from fanmingming. ON 31/12/2024 
+        "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u", #ADDED BY lee from https://tv.iill.top/m3u/Gather" ON 31/12/2024 
+        
+        "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u", 
+        'https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt'
+        "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u",
+        "https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u", 
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/live.txt',
+        "http://175.178.251.183:6689/live.m3u"    #ADDED BY lee from yuanlz77" ON 31/12/2024
+
+ 
     ]
     for url in urls:
         print(f"处理URL: {url}")
@@ -345,9 +256,9 @@ if __name__ == "__main__":
     # root_dir = os.path.abspath(os.sep)  
 
     #input_file1 = os.path.join(parent_dir, 'live.txt')  # 输入文件路径1
-    input_file1 = os.path.join(current_dir, 'live_test.txt')  # 输入文件路径1
-    #input_file2 = os.path.join(current_dir, 'blacklist_auto.txt')  # 输入文件路径2
-    input_file2 = os.path.join(current_dir, 'live_test.txt')  # 输入文件路径2 
+    input_file1 = os.path.join(current_dir, 'live.txt')  # 输入文件路径1
+    input_file2 = os.path.join(current_dir, 'blacklist_auto.txt')  # 输入文件路径2
+    #input_file2 = os.path.join(current_dir, 'live_test.txt')  # 输入文件路径2 
     success_file = os.path.join(current_dir, 'whitelist_auto.txt')  # 成功清单文件路径
     success_file_tv = os.path.join(current_dir, 'whitelist_auto_tv.txt')  # 成功清单文件路径（另存一份直接引用源）
     blacklist_file = os.path.join(current_dir, 'blacklist_auto.txt')  # 黑名单文件路径
