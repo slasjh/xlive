@@ -234,7 +234,7 @@ if __name__ == "__main__":
         "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u", #ADDED BY lee from https://tv.iill.top/m3u/Gather" ON 31/12/2024 
         
         "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u", 
-        "https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt'
+        "https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt',
         "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u",
         "https://raw.githubusercontent.com/n3rddd/CTVLive/master/live.m3u", 
         "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/live.txt',
