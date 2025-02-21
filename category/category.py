@@ -139,13 +139,9 @@ all_lines =  []
 excudelist_lines=read_txt_to_array('category/ExcludeList.txt') 
 # 定义
 urls = [
-    "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-    "https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt",
-    "http://156.238.251.122:7000/txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "https://raw.githubusercontent.com/slasjh/n3rddd-CTVLive/refs/heads/ipv4/live.txt",
-    "https://raw.githubusercontent.com/slasjh/n3rddd-CTVLive/refs/heads/ipv6/live.txt",
-    "https://raw.githubusercontent.com/xiongjian83/zubo/refs/heads/main/live.txt",
+
+    "https://raw.githubusercontent.com/slasjh/tvlice/refs/heads/checkspeed/shitelist_auto_tv.txt",
+
 ]
 # 处理
 for url in urls:
