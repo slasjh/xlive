@@ -7,7 +7,7 @@ import re
 
 def remove_single_line_comments(json_str):
 
-    # 使用正则表达式匹配并移除以 // 开头单行注释
+    # 使用正则表达式匹配并移除以 //  开头单行注释
 
     cleaned_json_str = re.sub(r'//.*', '', json_str, flags=re.MULTILINE)
 
