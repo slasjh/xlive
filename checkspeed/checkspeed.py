@@ -39,7 +39,7 @@ def check_url(url, timeout=6):
             }
             req = urllib.request.Request(encoded_url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as response:
-                if response.status == 200 or response.status_code == 206:  # 部分内容响应也是成功的:
+                if response.status == 200 or response.status == 206:  # 部分内容响应也是成功的:
                     success = True
         elif url.startswith("p3p") or url.startswith("p2p") or url.startswith("rtmp") or url.startswith("rtsp") or url.startswith("rtp"):
             success = False
