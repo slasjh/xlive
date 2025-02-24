@@ -13,6 +13,9 @@ def fetch_and_parse_json(url):
             return json.loads(raw_text)
     except Exception as e:
         print(f"请求JSON数据失败: {str(e)}")
+        fail_message = f"此接口 {url} 请求JSON数据失败: {str(e)} \n"
+
+        fail_output.append(fail_message)
         return None
 
 def extract_parse_urls(json_data, source_url):
@@ -49,6 +52,8 @@ def speed_test(url, test_times=3):
                 success_count += 1
         except Exception as e:
             print(f"测速失败 {url}: {str(e)}")
+            fail_message = f"测速失败 {url}: {str(e)}\n"  # 添加换行符以便每行一个错误信息
+            fail_output.append(fail_message)  # 将错误信息添加到列表中
     
     if success_count == 0:
         return None
@@ -104,6 +109,10 @@ def main():
         f.writelines(output_lines)
 
     print("测速结果已保存到 parses_speed_results.txt文件中。")
+    with open(parses_fail_output, "a", encoding="utf-8") as f:
+        f.writelines(fail_output)
+    print("fail结果已保存到 parses_fail_output.txt文件中。")
+fail_output = []
 
 if __name__ == "__main__":
     main()
