@@ -9,7 +9,7 @@ import subprocess #check rtmp源
 
 timestart = datetime.now()
 
-BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com"]
+BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455","www.52sw.top:678,"gslbservzqhsw.itv.cmvideo.cn"]
 
 # 读取文件内容
 def read_txt_file(file_path):
@@ -33,7 +33,7 @@ def check_url(url, timeout=6):
     encoded_url = urllib.parse.quote(url, safe=':/?&=')
     
     try:
-        if url.startswith("http"):
+        if get_host_from_url(url) not in BlackHost and url.startswith("http") :
             headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             }
