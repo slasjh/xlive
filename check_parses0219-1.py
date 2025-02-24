@@ -109,7 +109,7 @@ def main():
         f.writelines(output_lines)
 
     print("测速结果已保存到 parses_speed_results.txt文件中。")
-    with open(parses_fail_output, "a", encoding="utf-8") as f:
+    with open("parses_fail_output.txt", "a", encoding="utf-8") as f:
         f.writelines(fail_output)
     print("fail结果已保存到 parses_fail_output.txt文件中。")
 fail_output = []
