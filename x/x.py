@@ -160,7 +160,6 @@ def main():
   
     print("测速结果已保存到 x_results.txt文件中。")
     # 如果所有测试都失败了，可以选择在这里写入文件或返回None
-  
     with open(fail_output, "a", encoding="utf-8") as f:
             f.writelines(fail_output)
     print("fail结果已保存到 fail_output.txt文件中。")
