@@ -9,7 +9,10 @@ import subprocess #check rtmp源
 
 timestart = datetime.now()
 
-BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455","www.52sw.top:678,"gslbservzqhsw.itv.cmvideo.cn"]
+BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455",
+           "www.52sw.top:678","gslbservzqhsw.itv.cmvideo.cn","otttv.bj.chinamobile.com","hwrr.jx.chinamobile.com:8080",
+           "[2409:8087:3869:8021:1001::e5]:6610","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
+]
 
 # 读取文件内容
 def read_txt_file(file_path):
@@ -381,7 +384,7 @@ blackhost_filename = os.path.join(
 def save_blackhost_to_txt(filename=blackhost_filename):
     with open(filename, "w") as file:
         for host, count in blacklist_dict.items():
-            file.write(f"{host}: {count}\n")
+            file.write(f"{host}失败次数是 {count}\n")
     print(f"结果已保存到 {filename}")
 
 save_blackhost_to_txt()
