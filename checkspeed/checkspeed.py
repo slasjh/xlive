@@ -36,7 +36,7 @@ def check_url(url, timeout=6):
     encoded_url = urllib.parse.quote(url, safe=':/?&=')
     
     try:
-        if get_host_from_url(url) not in BlackHost and url.startswith("http") :
+        if get_host_from_url(url) not in BlackHost and not is_ipv6(url) and url.startswith("http") :
             headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             }
@@ -59,7 +59,10 @@ def check_url(url, timeout=6):
         elapsed_time = None
 
     return elapsed_time, success
-
+           
+def is_ipv6(url):
+    return re.match(r'^http:\/\/\[[0-9a-fA-F:]+\]', url) is not None
+           
 
 # 处理单行文本并检测URL
 def process_line(line):
