@@ -154,15 +154,15 @@ def main():
     # root_dir = os.path.abspath(os.sep)  
 
     x_results = os.path.join(current_dir, 'x_results.txt')  # 输入文件路径1
-    fail_output = os.path.join(current_dir, 'fail_output.txt')  # 输入文件路径1
+    fail_result = os.path.join(current_dir, 'fail_result.txt')  # 输入文件路径1
     with open(x_results, "w", encoding="utf-8") as f:
         f.writelines(output_lines)
   
     print("测速结果已保存到 x_results.txt文件中。")
     # 如果所有测试都失败了，可以选择在这里写入文件或返回None
-    with open(fail_output, "a", encoding="utf-8") as f:
+    with open(fail_result, "a", encoding="utf-8") as f:
             f.writelines(fail_output)
-    print("fail结果已保存到 fail_output.txt文件中。")
+    print("fail结果已保存到 fail_result.txt文件中。")
 fail_output = []
 if __name__ == "__main__":
     main()
