@@ -4,7 +4,7 @@ on:  # 定义触发工作流的事件
   # 定时任务触发已被删除
   push:  # 代码推送触发
     branches:
-      - main  # 当推送到 "main" 分支时触发 
+      - main  # 当推送到 "main" 分支时 触发 
     paths:  # 当推送的更改包含以下路径时触发
       - '.github/workflows/x.yml'  # 包含此工作流文件的更改
       - 'x/x.py'  # 包含任何以 ".py" 结尾的文件的更改
