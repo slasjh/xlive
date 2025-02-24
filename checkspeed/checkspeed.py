@@ -38,6 +38,7 @@ def check_url(url, timeout=6):
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             }
             req = urllib.request.Request(encoded_url, headers=headers)
+            req.allow_redirects = True  # 允许自动重定向（Python 3.4+）
             with urllib.request.urlopen(req, timeout=timeout) as response:
                 if response.status == 200 or response.status == 206:  # 部分内容响应也是成功的:
                     success = True
