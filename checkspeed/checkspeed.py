@@ -6,6 +6,7 @@ import os
 from urllib.parse import urlparse
 import socket  #check p3p源 rtp源
 import subprocess #check rtmp源
+import re
 
 timestart = datetime.now()
 
