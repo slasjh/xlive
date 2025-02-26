@@ -36,7 +36,6 @@ announcements = [
     {
         "channel": "🤠小土豆ipv4直播",
         "entries": [
-            {"name":"小土豆ipv4直播","url":"","logo":""},
             {"name":"free by oneself","url":"","logo":""},
             {"name":"更新日期{placeholder}","url":"","logo":""},
            
