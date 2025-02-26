@@ -1,3 +1,4 @@
+from datetime import datetime
 ip_version_priority = "ipv4"
 
 source_urls = [
@@ -37,12 +38,27 @@ announcements = [
         "entries": [
             {"name":"小土豆ipv4直播","url":"","logo":""},
             {"name":"free by oneself","url":"","logo":""},
-            {"name":"更新日期20250219","url":"","logo":""},
+            {"name":"更新日期{placeholder}","url":"","logo":""},
            
         ]
     }
 ]
+# 获取当前日期，并格式化为YYYYMMDD
 
+current_date = datetime.now().strftime('%Y%m%d')
+
+ 
+
+# 替换announcements中的日期占位符
+
+for announcement in announcements:
+
+    for entry in announcement['entries']:
+
+        if '更新日期{placeholder}' in entry['name']:
+
+            entry['name'] = entry['name'].replace('{placeholder}', current_date)
+            
 epg_urls = [
     "https://live.fanmingming.com/e.xml",
     "http://epg.51zmt.top:8000/e.xml",
