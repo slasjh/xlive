@@ -4,11 +4,11 @@ import json
 import re
 import os
 
-
+fail_output = []
 
 def remove_single_line_comments(json_str):
 
-    # 使用正则表达式匹配并移除以 //  开头单行 注释
+    # 使用正则表达式匹配并移除以 //  开头单行注释
 
     cleaned_json_str = re.sub(r'//.*', '', json_str, flags=re.MULTILINE)
 
@@ -163,7 +163,7 @@ def main():
     with open(fail_result, "a", encoding="utf-8") as f:
             f.writelines(fail_output)
     print("fail结果已保存到 fail_result.txt文件中。")
-fail_output = []
+
 if __name__ == "__main__":
     main()
 
