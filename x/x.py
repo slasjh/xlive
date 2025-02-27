@@ -154,7 +154,7 @@ def main():
     # root_dir = os.path.abspath(os.sep)  
 
     x_results = os.path.join(current_dir, 'x_results.txt')  # 输入文件路径1
-    fail_result = os.path.join(current_dir, 'fail_result.txt')  # 输入文件路径1
+    fail_result = os.path.join(current_dir, f"{datetime.now().strftime('%Y%m%d_%H_%M_%S')}_fail_result.txt.txt")  # 输入文件路径1
     with open(x_results, "w", encoding="utf-8") as f:
         f.writelines(output_lines)
   
