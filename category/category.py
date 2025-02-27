@@ -175,7 +175,7 @@ gjz4 = ["经典", "影院", "电影","iHOT爱","newtv","NEWTV","剧场","电视�
 
 output_file5 = "category/zixun.txt"
 feilei5 = "资讯分类"
-gjz5 = ["资讯", "新闻", "凤凰","翡翠"]  # 使用列表来存储多个关键字
+gjz5 = ["资讯", "新闻"]  # 使用列表来存储多个关键字
 output_file6 = "category/child.txt"
 feilei6 = "少儿分类"
 gjz6 = ["儿童", "少儿", "动漫","卡通","动画"]  # 使用列表来存储多个关键字
@@ -187,6 +187,21 @@ gjz7 = ["CCTV", "cctv", "中央电视","央视"]  # 使用列表来存储多个�
 output_file8 = "category/weishi.txt"
 feilei8 = "卫视分类"
 gjz8 = ["卫视", "衛視"]  # 使用列表来存储多个关键字
+output_file9 = "category/hongkong.txt"
+feilei9 = "凤凰分类"
+gjz9 = ["凤凰", "翡翠", "TVB","香港"]  # 使用列表来存储多个关键字
+
+output_file10 = "category/taiwan.txt"
+feilei10 = "台分类"
+gjz10 = ["台视", "民视", "东森", "三立"]  # 使用列表来存储多个关键字
+
+
+output_file11 = "category/tiyu.txt"
+feilei11 = "体育分类"
+gjz11 = ["体育", "足球"]  # 使用列表来存储多个关键字
+output_file12 = "category/zongyi.txt"
+feilei12 = "综艺分类"
+gjz12 = ["综艺", "娱乐", "戏曲", "戏剧"]  # 使用列表来存储多个关键字
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei1, gjz1)
@@ -197,5 +212,9 @@ tiqu_gjz(output_file5, feilei4, gjz5)
 tiqu_gjz(output_file6, feilei6, gjz6)
 tiqu_gjz(output_file7, feilei7, gjz7)
 tiqu_gjz(output_file8, feilei8, gjz8)
+tiqu_gjz(output_file9, feilei8, gjz9)
+tiqu_gjz(output_file10, feilei8, gjz10)
+tiqu_gjz(output_file11, feilei8, gjz11)
+tiqu_gjz(output_file12, feilei8, gjz12)
 
  
