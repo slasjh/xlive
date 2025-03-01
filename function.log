@@ -1,10 +1,10 @@
-2025-03-01 04:15:07,620 - INFO - url: http://116.62.139.149:8089/static/output/cctv.m3u 识别为非标准格式，将使用默认分类“无分类”
-2025-03-01 04:15:07,620 - WARNING - url: http://116.62.139.149:8089/static/output/cctv.m3u 中有无法解析的行: #EXTM3U
-2025-03-01 04:15:07,626 - INFO - url: http://116.62.139.149:8089/static/output/cctv.m3u 爬取成功✅，包含频道分类: 无分类
-2025-03-01 04:15:07,627 - ERROR - url: hhttp://116.62.139.149:8089/static/output/weishi.m3u 爬取失败❌, Error: No connection adapters were found for 'hhttp://116.62.139.149:8089/static/output/weishi.m3u'
-2025-03-01 04:15:08,589 - INFO - url: http://116.62.139.149:8089/static/output/migu.m3u 识别为非标准格式，将使用默认分类“无分类”
-2025-03-01 04:15:08,589 - WARNING - url: http://116.62.139.149:8089/static/output/migu.m3u 中有无法解析的行: #EXTM3U
-2025-03-01 04:15:08,591 - INFO - url: http://116.62.139.149:8089/static/output/migu.m3u 爬取成功✅，包含频道分类: 无分类
-2025-03-01 04:15:09,375 - INFO - url: http://116.62.139.149:8089/static/output/zixun.m3u 识别为非标准格式，将使用默认分类“无分类”
-2025-03-01 04:15:09,375 - WARNING - url: http://116.62.139.149:8089/static/output/zixun.m3u 中有无法解析的行: #EXTM3U
-2025-03-01 04:15:09,377 - INFO - url: http://116.62.139.149:8089/static/output/zixun.m3u 爬取成功✅，包含频道分类: 无分类
+2025-03-01 16:18:17,773 - INFO - url: http://116.62.139.149:8089/static/output/cctv.m3u 识别为非标准格式，将使用默认分类“无分类”
+2025-03-01 16:18:17,774 - WARNING - url: http://116.62.139.149:8089/static/output/cctv.m3u 中有无法解析的行: #EXTM3U
+2025-03-01 16:18:17,778 - INFO - url: http://116.62.139.149:8089/static/output/cctv.m3u 爬取成功✅，包含频道分类: 无分类
+2025-03-01 16:18:17,779 - ERROR - url: hhttp://116.62.139.149:8089/static/output/weishi.m3u 爬取失败❌, Error: No connection adapters were found for 'hhttp://116.62.139.149:8089/static/output/weishi.m3u'
+2025-03-01 16:18:18,870 - INFO - url: http://116.62.139.149:8089/static/output/migu.m3u 识别为非标准格式，将使用默认分类“无分类”
+2025-03-01 16:18:18,870 - WARNING - url: http://116.62.139.149:8089/static/output/migu.m3u 中有无法解析的行: #EXTM3U
+2025-03-01 16:18:18,871 - INFO - url: http://116.62.139.149:8089/static/output/migu.m3u 爬取成功✅，包含频道分类: 无分类
+2025-03-01 16:18:19,604 - INFO - url: http://116.62.139.149:8089/static/output/zixun.m3u 识别为非标准格式，将使用默认分类“无分类”
+2025-03-01 16:18:19,604 - WARNING - url: http://116.62.139.149:8089/static/output/zixun.m3u 中有无法解析的行: #EXTM3U
+2025-03-01 16:18:19,605 - INFO - url: http://116.62.139.149:8089/static/output/zixun.m3u 爬取成功✅，包含频道分类: 无分类
