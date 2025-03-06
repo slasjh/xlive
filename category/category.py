@@ -140,7 +140,7 @@ excudelist_lines=read_txt_to_array('category/ExcludeList.txt')
 # 定义
 urls = [
 
-    "https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt",
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/checkspeed/whitelist_auto_tv.txt",
 
 ]
 # 处理
@@ -156,52 +156,52 @@ all_lines=clean_url(all_lines)
 # 去重
 all_lines=remove_duplicates_url(all_lines)
 # 将合并后的文本写入文件
-output_file1 = "category/cm.txt"
-feilei1 = "移动CM"
-#gjz1 = ".chinamobile.com"
-gjz1 = [".chinamobile.com", "channel-id=bestzb", "channel-id=ystenlive"]  # 使用列表来存储多个关键字
+output_file1 = "category/3p.txt"
+feilei1 = "3p"
+gjz1 = ["3p", "3P", "4P", "4p", "5P", "前后夹击"]  # 使用列表来存储多个关键字
 
-output_file2 = "category/migu.txt"
-feilei2 = "migu分类"
-gjz2 = [".migu.", "/migu/", "mg.php", "m.php", "/mg/","live.php",".php?"]  # 使用列表来存储多个关键字
+output_file2 = "category/tai.txt"
+feilei2 = "tai分类"
+gjz2 = ["台"]  # 使用列表来存储多个关键字
 
-output_file3 = "category/gaoma.txt"
-feilei3 = "gaoma分类"
-gjz3 = ":35455/"
+output_file3 = "category/jiao.txt"
+feilei3 = "叫分类"
+gjz3 = ["叫声", "叫床", "淫叫", "大叫", "呻吟", "嗷嗷叫"]
 
-output_file4 = "category/movie.txt"
-feilei4 = "movie分类"
-gjz4 = ["经典", "影院", "电影","iHOT爱","newtv","NEWTV","剧场","电视剧","热剧","大片","大剧"]  # 使用列表来存储多个关键字
+output_file4 = "category/yun.txt"
+feilei4 = "yun分类"
+gjz4 = ["怀孕", "大肚"]  # 使用列表来存储多个关键字
 
-output_file5 = "category/zixun.txt"
-feilei5 = "资讯分类"
-gjz5 = ["资讯", "新闻"]  # 使用列表来存储多个关键字
-output_file6 = "category/child.txt"
-feilei6 = "少儿分类"
-gjz6 = ["儿童", "少儿", "动漫","卡通","动画"]  # 使用列表来存储多个关键字
+output_file5 = "category/houru.txt"
+feilei5 = "后入分类"
+gjz5 = ["后入", "老牛推车", "大屁股", "打桩机", "打桩机"]  # 使用列表来存储多个关键字
 
-output_file7 = "category/cctv.txt"
-feilei7 = "cctv分类"
-gjz7 = ["CCTV", "cctv", "中央电视","央视"]  # 使用列表来存储多个关键字
+output_file6 = "category/jing.txt"
+feilei6 = "jing分类"
+gjz6 = ["深喉", "吞精"]  # 使用列表来存储多个关键字
 
-output_file8 = "category/weishi.txt"
-feilei8 = "卫视分类"
-gjz8 = ["卫视", "衛視"]  # 使用列表来存储多个关键字
-output_file9 = "category/hongkong.txt"
-feilei9 = "凤凰分类"
-gjz9 = ["凤凰", "翡翠", "TVB","香港"]  # 使用列表来存储多个关键字
+output_file7 = "category/riben.txt"
+feilei7 = "riben分类"
+gjz7 = ["東京熱", "女优系列", "一本道"]  # 使用列表来存储多个关键字
 
-output_file10 = "category/taiwan.txt"
-feilei10 = "台分类"
-gjz10 = ["台视", "民视", "东森", "三立"]  # 使用列表来存储多个关键字
+output_file8 = "category/shu.txt"
+feilei8 = "熟分类"
+gjz8 = ["熟妇", "熟女", "淫荡", "风骚", "反差婊", "舔屌", "白浆"]  # 使用列表来存储多个关键字
+output_file9 = "category/guo.txt"
+feilei9 = "guo分类"
+gjz9 = ["探花系列", "探花", "91大神","国产精品","偷情","外围"]  # 使用列表来存储多个关键字
+
+output_file10 = "category/lian.txt"
+feilei10 = "分类"
+gjz10 = ["露脸", "豪乳", "哺乳", "表情"]  # 使用列表来存储多个关键字
 
 
-output_file11 = "category/tiyu.txt"
-feilei11 = "体育分类"
-gjz11 = ["体育", "足球"]  # 使用列表来存储多个关键字
-output_file12 = "category/zongyi.txt"
-feilei12 = "综艺分类"
-gjz12 = ["综艺", "娱乐", "戏曲", "戏剧"]  # 使用列表来存储多个关键字
+output_file11 = "category/shui.txt"
+feilei11 = "喷水分类"
+gjz11 = ["喷水", "失禁", "噴射", "喷潮"]  # 使用列表来存储多个关键字
+output_file12 = "category/duibai.txt"
+feilei12 = "对白分类"
+gjz12 = ["国语对白"]  # 使用列表来存储多个关键字
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei1, gjz1)
