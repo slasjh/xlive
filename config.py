@@ -11,9 +11,12 @@ source_urls = [
               "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/shunv.txt", 
               "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tunjing.txt", 
               "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tai.txt", 
-              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/lulian.txt", 
+    
               "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/duibai.txt", 
-              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haiyun.txt"
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haiyun.txt",
+                  "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/penshui.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haoru.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/ziwei.txt"
 
 
 
