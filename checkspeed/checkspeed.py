@@ -241,7 +241,7 @@ if __name__ == "__main__":
         "https://raw.githubusercontent.com/yf20230412/master/refs/heads/main/TvBox/TV/600.txt",
         "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/18.txt", #ADDED BY lee from fanmingming. ON 31/12/2024 
         "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/91fans.m3u", #ADDED BY lee from https://tv.iill.top/m3u/Gather" ON 31/12/2024 
-        
+        "https://raw.githubusercontent.com/ZTHA000/tvbox/refs/heads/main/69/5sdhgfds.txt", 
         "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/aidou.m3u", 
          "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/live/live.txt"
         
