@@ -193,28 +193,37 @@ gjz9 = ["探花系列", "探花", "91大神","国产精品","偷情","外围"]  
 
 output_file10 = "category/lulian.txt"
 feilei10 = "露脸分类"
-gjz10 = ["露脸", "豪乳", "哺乳", "表情"]  # 使用列表来存储多个关键字
+gjz10 = ["露脸", "表情"]  # 使用列表来存储多个关键字
 
 
-output_file11 = "category/shui.txt"
+output_file11 = "category/penshui.txt"
 feilei11 = "喷水分类"
 gjz11 = ["喷水", "失禁", "噴射", "喷潮"]  # 使用列表来存储多个关键字
 output_file12 = "category/duibai.txt"
 feilei12 = "对白分类"
-gjz12 = ["国语对白", "对白"]  # 使用列表来存储多个关键字
+gjz12 = ["国语对白", "对白", "电话"]  # 使用列表来存储多个关键字
+
+output_file13 = "category/haoru.txt"
+feilei13 = "豪乳分类"
+gjz13 = [ "豪乳", "哺乳", "巨乳", "奶"]  # 使用列表来存储多个关键字
+output_file14 = "category/ziwei.txt"
+feilei14 = "自慰分类"
+gjz14 = [ "自慰"]  # 使用列表来存储多个关键字
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei1, gjz1)
 tiqu_gjz(output_file2, feilei2, gjz2)
 tiqu_gjz(output_file3, feilei3, gjz3)
 tiqu_gjz(output_file4, feilei4, gjz4)
-tiqu_gjz(output_file5, feilei4, gjz5)
+tiqu_gjz(output_file5, feilei5, gjz5)
 tiqu_gjz(output_file6, feilei6, gjz6)
 tiqu_gjz(output_file7, feilei7, gjz7)
 tiqu_gjz(output_file8, feilei8, gjz8)
-tiqu_gjz(output_file9, feilei8, gjz9)
-tiqu_gjz(output_file10, feilei8, gjz10)
-tiqu_gjz(output_file11, feilei8, gjz11)
-tiqu_gjz(output_file12, feilei8, gjz12)
+tiqu_gjz(output_file9, feilei9, gjz9)
+tiqu_gjz(output_file10, feilei10, gjz10)
+tiqu_gjz(output_file11, feilei11, gjz11)
+tiqu_gjz(output_file12, feilei12, gjz12)
+tiqu_gjz(output_file13, feilei13, gjz13)
+tiqu_gjz(output_file14, feilei14, gjz14)
 
  
