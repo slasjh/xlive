@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
                             logging.StreamHandler()])
 
 def fetch_channels(url):
-    """从指定URL获取频道数据，返回分类字典结构"""
+    """从指定URL获取频道数据，返回分类字典结构 """
     channels = defaultdict(lambda: defaultdict(set))  # 分类 -> 频道名 -> URL集合
     
     try:
