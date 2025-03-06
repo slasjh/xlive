@@ -4,7 +4,16 @@ ip_version_priority = "ipv4"
 source_urls = [
 
     "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3p.txt", 
-    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt"
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt", 
+        "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/guochan.txt", 
+      "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/jiaochuang.txt", 
+          "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/lulian.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/shunv.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tunjing.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tai.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/lulian.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/duibai.txt", 
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haiyun.txt"
 
 
 
