@@ -164,35 +164,35 @@ output_file2 = "category/tai.txt"
 feilei2 = "tai分类"
 gjz2 = ["台"]  # 使用列表来存储多个关键字
 
-output_file3 = "category/jiao.txt"
-feilei3 = "叫分类"
+output_file3 = "category/jiaochuang.txt"
+feilei3 = "叫床分类"
 gjz3 = ["叫声", "叫床", "淫叫", "大叫", "呻吟", "嗷嗷叫"]
 
-output_file4 = "category/yun.txt"
-feilei4 = "yun分类"
+output_file4 = "category/haiyun.txt"
+feilei4 = "怀孕分类"
 gjz4 = ["怀孕", "大肚"]  # 使用列表来存储多个关键字
 
 output_file5 = "category/houru.txt"
 feilei5 = "后入分类"
 gjz5 = ["后入", "老牛推车", "大屁股", "打桩机", "打桩机"]  # 使用列表来存储多个关键字
 
-output_file6 = "category/jing.txt"
-feilei6 = "jing分类"
+output_file6 = "category/tunjing.txt"
+feilei6 = "吞精分类"
 gjz6 = ["深喉", "吞精"]  # 使用列表来存储多个关键字
 
 output_file7 = "category/riben.txt"
-feilei7 = "riben分类"
+feilei7 = "東京分类"
 gjz7 = ["東京熱", "女优系列", "一本道"]  # 使用列表来存储多个关键字
 
-output_file8 = "category/shu.txt"
-feilei8 = "熟分类"
+output_file8 = "category/shunv.txt"
+feilei8 = "熟女分类"
 gjz8 = ["熟妇", "熟女", "淫荡", "风骚", "反差婊", "舔屌", "白浆"]  # 使用列表来存储多个关键字
-output_file9 = "category/guo.txt"
-feilei9 = "guo分类"
+output_file9 = "category/guochan.txt"
+feilei9 = "国产分类"
 gjz9 = ["探花系列", "探花", "91大神","国产精品","偷情","外围"]  # 使用列表来存储多个关键字
 
-output_file10 = "category/lian.txt"
-feilei10 = "分类"
+output_file10 = "category/lulian.txt"
+feilei10 = "露脸分类"
 gjz10 = ["露脸", "豪乳", "哺乳", "表情"]  # 使用列表来存储多个关键字
 
 
@@ -201,7 +201,7 @@ feilei11 = "喷水分类"
 gjz11 = ["喷水", "失禁", "噴射", "喷潮"]  # 使用列表来存储多个关键字
 output_file12 = "category/duibai.txt"
 feilei12 = "对白分类"
-gjz12 = ["国语对白"]  # 使用列表来存储多个关键字
+gjz12 = ["国语对白", "对白"]  # 使用列表来存储多个关键字
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei1, gjz1)
