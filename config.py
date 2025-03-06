@@ -3,12 +3,9 @@ ip_version_priority = "ipv4"
 
 source_urls = [
 
-    "http://116.62.139.149:8089/static/output/cctv.m3u", #ADDED BY lee  ON 2025/2/19
-    "hhttp://116.62.139.149:8089/static/output/weishi.m3u", #ADDED BY lee  ON 2025/2/19
-    "http://116.62.139.149:8089/static/output/migu.m3u",  #ADDED BY lee  ON 2025/2/19  
-      
-    
-    "http://116.62.139.149:8089/static/output/zixun.m3u" #ADDED BY lee from Guovin/TV/gd/ (juhe) ON 31/12/2024 
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3p.txt", 
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt"
+
 
 
 
@@ -34,7 +31,7 @@ url_blacklist = [
 
 announcements = [
     {
-        "channel": "🤠小土豆ipv4直播",
+        "channel": "🤠X直播",
         "entries": [
             {"name":"free by oneself","url":"","logo":""},
             {"name":"更新日期{placeholder}","url":"","logo":""},
