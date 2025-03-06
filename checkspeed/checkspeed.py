@@ -10,9 +10,9 @@ import re
 
 timestart = datetime.now()
 
-BlackHost=["127.0.0.1:8080","live3.lalifeier.eu.org","newcntv.qcloudcdn.com","ottrrs.hl.chinamobile.com","dsm.huarunguoji.top:35455",
+BlackHost=["127.0.0.1:8080","t21.cdn2020.com","vod3.ttbfp5.com","nvid101.cdnii.com","vip1.slbfsl.com",
 
-           "[2409:8087:3869:8021:1001::e5]:6610","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
+           "vod1.ttbfp2.com","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
 ]
 
 # 读取文件内容
