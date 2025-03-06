@@ -1,4 +1,3 @@
-2025-03-06 15:36:09,629 - INFO - url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3p.txt 识别为非标准格式，将使用默认分类“无分类”
-2025-03-06 15:36:09,630 - INFO - url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3p.txt 爬取成功✅，包含频道分类: 无分类
-2025-03-06 15:36:09,801 - INFO - url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt 识别为非标准格式，将使用默认分类“无分类”
-2025-03-06 15:36:09,801 - INFO - url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt 爬取成功✅，包含频道分类: 无分类
+2025-03-06 15:39:15,732 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3p.txt 分类数: 1
+2025-03-06 15:39:15,926 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt 分类数: 1
+2025-03-06 15:39:15,927 - INFO - 直播文件生成完成
