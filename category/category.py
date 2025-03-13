@@ -138,9 +138,9 @@ def tiqu_gjz_juhe3(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2,gjz_or_gjzs3):
     try:
         # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
         if isinstance(gjz_or_gjzs1, str):
-            gjz_set = {gjz_or_gjzs1}
+            gjz_set1 = {gjz_or_gjzs1}
         else:
-            gjz_set = set(gjz_or_gjzs1)
+            gjz_set1 = set(gjz_or_gjzs1)
         if isinstance(gjz_or_gjzs2, str):
             gjz_set2 = {gjz_or_gjzs2}
         else:
@@ -169,9 +169,9 @@ def tiqu_gjz_juhe2(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2):
     try:
         # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
         if isinstance(gjz_or_gjzs1, str):
-            gjz_set = {gjz_or_gjzs1}
+            gjz_set1 = {gjz_or_gjzs1}
         else:
-            gjz_set = set(gjz_or_gjzs1)
+            gjz_set1 = set(gjz_or_gjzs1)
         if isinstance(gjz_or_gjzs2, str):
             gjz_set2 = {gjz_or_gjzs2}
         else:
