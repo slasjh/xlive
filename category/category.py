@@ -137,10 +137,10 @@ def tiqu_gjz(output_file, feilei, gjz_or_gjzs):
 def tiqu_gjz_juhe3(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2,gjz_or_gjzs3):
     try:
         # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
-        if isinstance(gjz_or_gjzs, str):
-            gjz_set = {gjz_or_gjzs}
+        if isinstance(gjz_or_gjzs1, str):
+            gjz_set = {gjz_or_gjzs1}
         else:
-            gjz_set = set(gjz_or_gjzs)
+            gjz_set = set(gjz_or_gjzs1)
         if isinstance(gjz_or_gjzs2, str):
             gjz_set2 = {gjz_or_gjzs2}
         else:
@@ -168,10 +168,10 @@ def tiqu_gjz_juhe3(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2,gjz_or_gjzs3):
 def tiqu_gjz_juhe2(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2):
     try:
         # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
-        if isinstance(gjz_or_gjzs, str):
-            gjz_set = {gjz_or_gjzs}
+        if isinstance(gjz_or_gjzs1, str):
+            gjz_set = {gjz_or_gjzs1}
         else:
-            gjz_set = set(gjz_or_gjzs)
+            gjz_set = set(gjz_or_gjzs1)
         if isinstance(gjz_or_gjzs2, str):
             gjz_set2 = {gjz_or_gjzs2}
         else:
@@ -275,7 +275,7 @@ feilei21 = "后入-脸分类"
 output_file22 = "category/talksjh.txt"
 feilei22 = "对白-淫分类"
 output_file23 = "category/chinalian.txt"
-feilei23 = "国产-露脸分类"
+feilei23 = "国产-脸分类"
 
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
