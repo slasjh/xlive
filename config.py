@@ -16,7 +16,13 @@ source_urls = [
               "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haiyun.txt",
                   "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/penshui.txt", 
               "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haoru.txt", 
-              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/ziwei.txt"
+              "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/ziwei.txt",
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3pjiao.txt",
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/chinajiao.txt",
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/chinalian.txt",
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/talksjh.txt",
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houlian.txt",
+    "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3plulianjiao.txt",
 
 
 
