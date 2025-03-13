@@ -23,6 +23,7 @@ source_urls = [
     "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/talksjh.txt",
     "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houlian.txt",
     "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3plulianjiao.txt",
+        "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/dm.txt",
 
 
 
