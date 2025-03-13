@@ -237,13 +237,43 @@ def record_host(host):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
+               "https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/c.json",
+               "https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/fenxuemeiru.m3u",
+               "https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/hlive.txt",
+               "https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/jingxuanguochan.m3u",
+               "https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/zhuanji.txt",
+               "https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json",
+               "https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
+               "https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json",
+               "https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
+               "https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json",
+
+               "https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
+               "https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
+               "https://raw.githubusercontent.com/yschaizhen/tvbox/main/00tvx1.txt",
+               "https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3",
+         "https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx2",
+        "https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1",
+        "https://raw.githubusercontent.com/yschaizhen/xian/refs/heads/main/hh",
         "https://raw.githubusercontent.com/yf20230412/master/refs/heads/main/TvBox/TV/605.txt",
         "https://raw.githubusercontent.com/yf20230412/master/refs/heads/main/TvBox/TV/600.txt",
-        "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/18.txt", #ADDED BY lee from fanmingming. ON 31/12/2024 
-        "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/91fans.m3u", #ADDED BY lee from https://tv.iill.top/m3u/Gather" ON 31/12/2024 
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/qipao.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/tianmei.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/91fans.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/aidou.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/aishengguoji.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/fenxuemeiru.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/guodong.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/heiliao.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/kongjie.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/ol.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/yongzhuang.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/main/xxx/pussy.m3u",
+        "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/18.txt", 
+        "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/91fans.m3u", 
         "https://raw.githubusercontent.com/ZTHA000/tvbox/refs/heads/main/69/5sdhgfds.txt", 
         "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/aidou.m3u", 
-         "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/live/live.txt"
+         "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/live/live.txt", 
         
 
  
