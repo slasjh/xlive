@@ -216,7 +216,7 @@ all_lines=remove_duplicates_url(all_lines)
 # 将合并后的文本写入文件
 output_file1 = "category/3p.txt"
 feilei_3p = "3p"
-gjz1_3p = ["3p", "3P", "4P", "4p", "5P", "前后夹击"]  # 使用列表来存储多个关键字
+gjz_3p = ["3p", "3P", "4P", "4p", "5P", "前后夹击"]  # 使用列表来存储多个关键字
 
 output_file2 = "category/tai.txt"
 feilei_tai = "tai分类"
@@ -227,7 +227,7 @@ feilei_jiao = "叫床分类"
 gjz_jiao = ["叫声", "叫床", "淫叫", "大叫", "呻吟", "嗷嗷叫"]
 
 output_file4 = "category/haiyun.txt"
-feilei4_yun = "怀孕分类"
+feilei_yun = "怀孕分类"
 gjz_yun = ["怀孕", "大肚"]  # 使用列表来存储多个关键字
 
 output_file5 = "category/houru.txt"
@@ -251,7 +251,7 @@ gjz_china = ["探花系列", "探花", "91大神","国产精品","偷情","外�
 
 output_file10 = "category/lulian.txt"
 feilei_lian = "露脸分类"
-gjz1_lian = ["露脸", "表情"]  # 使用列表来存储多个关键字
+gjz_lian = ["露脸", "表情"]  # 使用列表来存储多个关键字
 
 
 output_file11 = "category/penshui.txt"
@@ -270,21 +270,25 @@ gjz_ziwei = [ "自慰"]  # 使用列表来存储多个关键字
 
 output_file31 = "category/3plulianjiao.txt"
 feilei31 = "3p-露脸-叫分类"
-output_file21 = "category/houlianru.txt"
+output_file21 = "category/houlian.txt"
 feilei21 = "后入-脸分类"
+output_file22 = "category/talksjh.txt"
+feilei22 = "对白-淫分类"
+output_file23 = "category/chinalian.txt"
+feilei23 = "国产-露脸分类"
 
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 tiqu_gjz(output_file1, feilei_3p, gjz_3p)
 tiqu_gjz(output_file2, feilei_tai, gjz_tai)
 tiqu_gjz(output_file3, feilei_jiao, gjz_jiao)
-tiqu_gjz(output_file4, feilei4_yun, gjz_yun)
+tiqu_gjz(output_file4, feilei_yun, gjz_yun)
 tiqu_gjz(output_file5, feilei_yun, gjz_yun)
 tiqu_gjz(output_file6, feilei_jing, gjz_jing)
 tiqu_gjz(output_file7, feilei_you, gjz_you)
 tiqu_gjz(output_file8, feilei_sjh, gjz_sjh)
 tiqu_gjz(output_file9, feilei_china, gjz_china)
-tiqu_gjz(output_file10, feilei_lian, gjz1_lian)
+tiqu_gjz(output_file10, feilei_lian, gjz_lian)
 tiqu_gjz(output_file11, feilei_shui, gjz_shui)
 tiqu_gjz(output_file12, feilei_talk, gjz_talk)
 tiqu_gjz(output_file13, feilei_ru, gjz_ru)
@@ -292,5 +296,7 @@ tiqu_gjz(output_file14, feilei_ziwei, gjz_ziwei)
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
 
-tiqu_gjz_juhe3(output_file31, feilei31, gjz_3p,gjz1_lian,gjz_jiao) 
-tiqu_gjz_juhe2(output_file21, feilei21, gjz_yun,gjz1_lian) 
+tiqu_gjz_juhe3(output_file31, feilei31, gjz_3p,gjz_lian,gjz_jiao) 
+tiqu_gjz_juhe2(output_file21, feilei21, gjz_yun,gjz_lian) 
+tiqu_gjz_juhe2(output_file22, feilei22, gjz_talk,gjz_sjh) 
+tiqu_gjz_juhe2(output_file23, feilei23, gjz_china,gjz_lian) 
