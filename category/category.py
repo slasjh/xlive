@@ -216,7 +216,7 @@ all_lines=remove_duplicates_url(all_lines)
 # 将合并后的文本写入文件
 output_file1 = "category/3p.txt"
 feilei_3p = "3p"
-gjz_3p = ["3p", "3P", "4P", "4p", "5P", "前后夹击"]  # 使用列表来存储多个关键字
+gjz_3p = ["3p", "3P", "4P", "4p", "5P", "前后夹击", "群P", "前后一起 "]  # 使用列表来存储多个关键字
 
 output_file2 = "category/tai.txt"
 feilei_tai = "tai分类"
@@ -224,7 +224,7 @@ gjz_tai = ["台"]  # 使用列表来存储多个关键字
 
 output_file3 = "category/jiaochuang.txt"
 feilei_jiao = "叫床分类"
-gjz_jiao = ["叫声", "叫床", "淫叫", "大叫", "呻吟", "嗷嗷叫"]
+gjz_jiao = ["叫声", "叫床", "淫叫", "大叫", "呻吟", "嗷嗷叫", "叫爸爸", "浪叫", "喊", "操死我", "不要停", "求饶", "娇喘", "惨叫"]
 
 output_file4 = "category/haiyun.txt"
 feilei_yun = "怀孕分类"
@@ -232,11 +232,11 @@ gjz_yun = ["怀孕", "大肚"]  # 使用列表来存储多个关键字
 
 output_file5 = "category/houru.txt"
 feilei_yun = "后入分类"
-gjz_yun = ["后入", "老牛推车", "大屁股", "打桩机", "打桩机"]  # 使用列表来存储多个关键字
+gjz_yun = ["后入", "老牛推车", "大屁股", "打桩机", "翘起屁股", "菊花"]  # 使用列表来存储多个关键字
 
 output_file6 = "category/tunjing.txt"
 feilei_jing = "吞精分类"
-gjz_jing = ["深喉", "吞精"]  # 使用列表来存储多个关键字
+gjz_jing = ["深喉", "吞精", "舔屌", "口爆", "舔屌", "吃鸡", "精液", "插嘴"]  # 使用列表来存储多个关键字
 
 output_file7 = "category/riben.txt"
 feilei_you = "東京分类"
@@ -244,26 +244,26 @@ gjz_you = ["東京熱", "女优系列", "一本道"]  # 使用列表来存储多
 
 output_file8 = "category/shunv.txt"
 feilei_sjh = "熟女分类"
-gjz_sjh = ["熟妇", "熟女", "淫荡", "风骚", "反差婊", "舔屌", "白浆"]  # 使用列表来存储多个关键字
+gjz_sjh = ["熟妇", "熟女", "淫荡", "风骚", "反差婊", "白浆", "肥臀", "粉穴", "高潮", "腰细胸大", "蜜桃美臀", "饥渴", "极品白虎", "骚妻", "骑乘"]  # 使用列表来存储多个关键字
 output_file9 = "category/guochan.txt"
 feilei_china = "国产分类"
-gjz_china = ["探花系列", "探花", "91大神","国产精品","偷情","外围"]  # 使用列表来存储多个关键字
+gjz_china = ["探花系列", "探花", "91大神","国产精品","偷情","外围","御姐","自拍外泄","嫖娼大师","潜规则"]  # 使用列表来存储多个关键字
 
 output_file10 = "category/lulian.txt"
 feilei_lian = "露脸分类"
-gjz_lian = ["露脸", "表情"]  # 使用列表来存储多个关键字
+gjz_lian = ["露脸", "表情", "镜子", "一脸享受"]  # 使用列表来存储多个关键字
 
 
 output_file11 = "category/penshui.txt"
 feilei_shui = "喷水分类"
-gjz_shui = ["喷水", "失禁", "噴射", "喷潮"]  # 使用列表来存储多个关键字
+gjz_shui = ["喷水", "失禁", "噴射", "喷潮", "水汪汪"]  # 使用列表来存储多个关键字
 output_file12 = "category/duibai.txt"
 feilei_talk = "对白分类"
-gjz_talk = ["国语对白", "对白", "电话"]  # 使用列表来存储多个关键字
+gjz_talk = ["国语对白", "对白", "电话", "通话", "聊天"]  # 使用列表来存储多个关键字
 
 output_file13 = "category/haoru.txt"
 feilei_ru = "豪乳分类"
-gjz_ru = [ "豪乳", "哺乳", "巨乳", "奶"]  # 使用列表来存储多个关键字
+gjz_ru = [ "豪乳", "哺乳", "巨乳", "奶", "爆乳"]  # 使用列表来存储多个关键字
 output_file14 = "category/ziwei.txt"
 feilei_ziwei = "自慰分类"
 gjz_ziwei = [ "自慰"]  # 使用列表来存储多个关键字
