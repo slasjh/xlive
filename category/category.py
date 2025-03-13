@@ -276,6 +276,11 @@ output_file22 = "category/talksjh.txt"
 feilei22 = "对白-淫分类"
 output_file23 = "category/chinalian.txt"
 feilei23 = "国产-脸分类"
+output_file24 = "category/chinajiao.txt"
+feilei24 = "国产-叫分类"
+output_file25 = "category/3pjiao.txt"
+feilei25 = "3p-叫分类"
+
 
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
@@ -300,3 +305,5 @@ tiqu_gjz_juhe3(output_file31, feilei31, gjz_3p,gjz_lian,gjz_jiao)
 tiqu_gjz_juhe2(output_file21, feilei21, gjz_yun,gjz_lian) 
 tiqu_gjz_juhe2(output_file22, feilei22, gjz_talk,gjz_sjh) 
 tiqu_gjz_juhe2(output_file23, feilei23, gjz_china,gjz_lian) 
+tiqu_gjz_juhe2(output_file24, feilei24, gjz_china,gjz_jiao) 
+tiqu_gjz_juhe2(output_file25, feilei25, gjz_3p,gjz_jiao) 
