@@ -134,31 +134,57 @@ def tiqu_gjz(output_file, feilei, gjz_or_gjzs):
     except Exception as e:
         print(f"保存文件时发生错误：{e}")
 
-def tiqu_gjz_all(output_file, feilei, gjz_or_gjzs):
+def tiqu_gjz_juhe3(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2,gjz_or_gjzs3):
     try:
-        # 假设all_lines是从某个地方获取的文本行列表
-        # 这里为了示例，我们将其硬编码在函数内部
-        #all_lines = [
-            #"这是一行测试文本。",
-            #"包含chinamobile.com的文本行：http://www.chinamobile.com/something",
-            #"另一行包含migu的文本：http://example.com/migu.php",
-            #"还有一行包含mg的文本：http://example.com/mg.php",
-            #"以及一行不包含目标网址的文本。"
-        #]
-
         # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
         if isinstance(gjz_or_gjzs, str):
             gjz_set = {gjz_or_gjzs}
         else:
             gjz_set = set(gjz_or_gjzs)
+        if isinstance(gjz_or_gjzs2, str):
+            gjz_set2 = {gjz_or_gjzs2}
+        else:
+            gjz_set2 = set(gjz_or_gjzs2)
+        if isinstance(gjz_or_gjzs3, str):
+            gjz_set3 = {gjz_or_gjzs3}
+        else:
+            gjz_set3 = set(gjz_or_gjzs3)  
 
         with open(output_file, 'w', encoding='utf-8') as f:
             # 注意：这里我们不再写入gjz_or_gjzs到文件，因为它可能是多个值
             # 如果您确实需要写入某种标识符，请考虑使用feilei参数
             f.write(f'{feilei},#genre#\n')  # 使用f-string格式化字符串并写入分类信息
             for line in all_lines:
-                if all(gjz in line for gjz in gjz_set):
-                    f.write(line + '\n')
+                if any(gjz in line for gjz in gjz_set1):
+                    if any(gjz in line for gjz in gjz_set2):    
+                        if any(gjz in line for gjz in gjz_set3):    
+                            f.write(line + '\n')
+
+        print(f"合并后的文本已保存到文件: {output_file}")
+        #print("time: {}".format(datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")))
+
+    except Exception as e:
+        print(f"保存文件时发生错误：{e}")
+def tiqu_gjz_juhe2(output_file, feilei, gjz_or_gjzs1,gjz_or_gjzs2):
+    try:
+        # 如果gjz_or_gjzs是字符串，则将其转换为单元素集合以便统一处理
+        if isinstance(gjz_or_gjzs, str):
+            gjz_set = {gjz_or_gjzs}
+        else:
+            gjz_set = set(gjz_or_gjzs)
+        if isinstance(gjz_or_gjzs2, str):
+            gjz_set2 = {gjz_or_gjzs2}
+        else:
+            gjz_set2 = set(gjz_or_gjzs2)
+
+        with open(output_file, 'w', encoding='utf-8') as f:
+            # 注意：这里我们不再写入gjz_or_gjzs到文件，因为它可能是多个值
+            # 如果您确实需要写入某种标识符，请考虑使用feilei参数
+            f.write(f'{feilei},#genre#\n')  # 使用f-string格式化字符串并写入分类信息
+            for line in all_lines:
+                if any(gjz in line for gjz in gjz_set1):
+                    if any(gjz in line for gjz in gjz_set2):    
+                        f.write(line + '\n')
 
         print(f"合并后的文本已保存到文件: {output_file}")
         #print("time: {}".format(datetime.datetime.now().strftime("%Y%m%d_%H_%M_%S")))
@@ -189,83 +215,82 @@ all_lines=clean_url(all_lines)
 all_lines=remove_duplicates_url(all_lines)
 # 将合并后的文本写入文件
 output_file1 = "category/3p.txt"
-feilei1 = "3p"
-gjz1 = ["3p", "3P", "4P", "4p", "5P", "前后夹击"]  # 使用列表来存储多个关键字
+feilei_3p = "3p"
+gjz1_3p = ["3p", "3P", "4P", "4p", "5P", "前后夹击"]  # 使用列表来存储多个关键字
 
 output_file2 = "category/tai.txt"
-feilei2 = "tai分类"
-gjz2 = ["台"]  # 使用列表来存储多个关键字
+feilei_tai = "tai分类"
+gjz_tai = ["台"]  # 使用列表来存储多个关键字
 
 output_file3 = "category/jiaochuang.txt"
-feilei3 = "叫床分类"
-gjz3 = ["叫声", "叫床", "淫叫", "大叫", "呻吟", "嗷嗷叫"]
+feilei_jiao = "叫床分类"
+gjz_jiao = ["叫声", "叫床", "淫叫", "大叫", "呻吟", "嗷嗷叫"]
 
 output_file4 = "category/haiyun.txt"
-feilei4 = "怀孕分类"
-gjz4 = ["怀孕", "大肚"]  # 使用列表来存储多个关键字
+feilei4_yun = "怀孕分类"
+gjz_yun = ["怀孕", "大肚"]  # 使用列表来存储多个关键字
 
 output_file5 = "category/houru.txt"
-feilei5 = "后入分类"
-gjz5 = ["后入", "老牛推车", "大屁股", "打桩机", "打桩机"]  # 使用列表来存储多个关键字
+feilei_yun = "后入分类"
+gjz_yun = ["后入", "老牛推车", "大屁股", "打桩机", "打桩机"]  # 使用列表来存储多个关键字
 
 output_file6 = "category/tunjing.txt"
-feilei6 = "吞精分类"
-gjz6 = ["深喉", "吞精"]  # 使用列表来存储多个关键字
+feilei_jing = "吞精分类"
+gjz_jing = ["深喉", "吞精"]  # 使用列表来存储多个关键字
 
 output_file7 = "category/riben.txt"
-feilei7 = "東京分类"
-gjz7 = ["東京熱", "女优系列", "一本道"]  # 使用列表来存储多个关键字
+feilei_you = "東京分类"
+gjz_you = ["東京熱", "女优系列", "一本道"]  # 使用列表来存储多个关键字
 
 output_file8 = "category/shunv.txt"
-feilei8 = "熟女分类"
-gjz8 = ["熟妇", "熟女", "淫荡", "风骚", "反差婊", "舔屌", "白浆"]  # 使用列表来存储多个关键字
+feilei_sjh = "熟女分类"
+gjz_sjh = ["熟妇", "熟女", "淫荡", "风骚", "反差婊", "舔屌", "白浆"]  # 使用列表来存储多个关键字
 output_file9 = "category/guochan.txt"
-feilei9 = "国产分类"
-gjz9 = ["探花系列", "探花", "91大神","国产精品","偷情","外围"]  # 使用列表来存储多个关键字
+feilei_china = "国产分类"
+gjz_china = ["探花系列", "探花", "91大神","国产精品","偷情","外围"]  # 使用列表来存储多个关键字
 
 output_file10 = "category/lulian.txt"
-feilei10 = "露脸分类"
-gjz10 = ["露脸", "表情"]  # 使用列表来存储多个关键字
+feilei_lian = "露脸分类"
+gjz1_lian = ["露脸", "表情"]  # 使用列表来存储多个关键字
 
 
 output_file11 = "category/penshui.txt"
-feilei11 = "喷水分类"
-gjz11 = ["喷水", "失禁", "噴射", "喷潮"]  # 使用列表来存储多个关键字
+feilei_shui = "喷水分类"
+gjz_shui = ["喷水", "失禁", "噴射", "喷潮"]  # 使用列表来存储多个关键字
 output_file12 = "category/duibai.txt"
-feilei12 = "对白分类"
-gjz12 = ["国语对白", "对白", "电话"]  # 使用列表来存储多个关键字
+feilei_talk = "对白分类"
+gjz_talk = ["国语对白", "对白", "电话"]  # 使用列表来存储多个关键字
 
 output_file13 = "category/haoru.txt"
-feilei13 = "豪乳分类"
-gjz13 = [ "豪乳", "哺乳", "巨乳", "奶"]  # 使用列表来存储多个关键字
+feilei_ru = "豪乳分类"
+gjz_ru = [ "豪乳", "哺乳", "巨乳", "奶"]  # 使用列表来存储多个关键字
 output_file14 = "category/ziwei.txt"
-feilei14 = "自慰分类"
-gjz14 = [ "自慰"]  # 使用列表来存储多个关键字
+feilei_ziwei = "自慰分类"
+gjz_ziwei = [ "自慰"]  # 使用列表来存储多个关键字
 
-output_file88 = "category/3plulianjiao.txt"
-feilei88 = "3p露脸叫分类"
-gjz88 = [ "3p", "脸", "叫"]  # 使用列表来存储多个关键字
-output_file89 = "category/houlianru.txt"
-feilei89 = "后入脸叫分类"
-gjz89 = [ "后入", "脸", "乳"]  # 使用列表来存储多个关键字
+output_file31 = "category/3plulianjiao.txt"
+feilei31 = "3p-露脸-叫分类"
+output_file21 = "category/houlianru.txt"
+feilei21 = "后入-脸分类"
 
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
-tiqu_gjz(output_file1, feilei1, gjz1)
-tiqu_gjz(output_file2, feilei2, gjz2)
-tiqu_gjz(output_file3, feilei3, gjz3)
-tiqu_gjz(output_file4, feilei4, gjz4)
-tiqu_gjz(output_file5, feilei5, gjz5)
-tiqu_gjz(output_file6, feilei6, gjz6)
-tiqu_gjz(output_file7, feilei7, gjz7)
-tiqu_gjz(output_file8, feilei8, gjz8)
-tiqu_gjz(output_file9, feilei9, gjz9)
-tiqu_gjz(output_file10, feilei10, gjz10)
-tiqu_gjz(output_file11, feilei11, gjz11)
-tiqu_gjz(output_file12, feilei12, gjz12)
-tiqu_gjz(output_file13, feilei13, gjz13)
-tiqu_gjz(output_file14, feilei14, gjz14)
+tiqu_gjz(output_file1, feilei_3p, gjz_3p)
+tiqu_gjz(output_file2, feilei_tai, gjz_tai)
+tiqu_gjz(output_file3, feilei_jiao, gjz_jiao)
+tiqu_gjz(output_file4, feilei4_yun, gjz_yun)
+tiqu_gjz(output_file5, feilei_yun, gjz_yun)
+tiqu_gjz(output_file6, feilei_jing, gjz_jing)
+tiqu_gjz(output_file7, feilei_you, gjz_you)
+tiqu_gjz(output_file8, feilei_sjh, gjz_sjh)
+tiqu_gjz(output_file9, feilei_china, gjz_china)
+tiqu_gjz(output_file10, feilei_lian, gjz1_lian)
+tiqu_gjz(output_file11, feilei_shui, gjz_shui)
+tiqu_gjz(output_file12, feilei_talk, gjz_talk)
+tiqu_gjz(output_file13, feilei_ru, gjz_ru)
+tiqu_gjz(output_file14, feilei_ziwei, gjz_ziwei)
 
 # 调用函数示例，注意现在第三个参数对于第二个文件是一个列表
-tiqu_gjz_all(output_file88, feilei88, gjz88) 
-tiqu_gjz_all(output_file89, feilei89, gjz89) 
+
+tiqu_gjz_juhe3(output_file31, feilei31, gjz_3p,gjz1_lian,gjz_jiao) 
+tiqu_gjz_juhe2(output_file21, feilei21, gjz_yun,gjz1_lian) 
