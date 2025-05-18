@@ -1,21 +1,21 @@
-2025-05-18 16:23:48,656 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3p.txt 分类数: 1
-2025-05-18 16:23:48,775 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt 分类数: 1
-2025-05-18 16:23:48,865 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/guochan.txt 分类数: 1
-2025-05-18 16:23:48,963 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/jiaochuang.txt 分类数: 1
-2025-05-18 16:23:49,057 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/lulian.txt 分类数: 0
-2025-05-18 16:23:49,142 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/shunv.txt 分类数: 1
-2025-05-18 16:23:49,219 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tunjing.txt 分类数: 1
-2025-05-18 16:23:49,294 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tai.txt 分类数: 1
-2025-05-18 16:23:49,387 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/duibai.txt 分类数: 1
-2025-05-18 16:23:49,474 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haiyun.txt 分类数: 1
-2025-05-18 16:23:49,551 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/penshui.txt 分类数: 0
-2025-05-18 16:23:49,626 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haoru.txt 分类数: 1
-2025-05-18 16:23:49,722 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/ziwei.txt 分类数: 0
-2025-05-18 16:23:49,805 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3pjiao.txt 分类数: 0
-2025-05-18 16:23:49,902 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/chinajiao.txt 分类数: 1
-2025-05-18 16:23:49,998 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/chinalian.txt 分类数: 0
-2025-05-18 16:23:50,098 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/talksjh.txt 分类数: 0
-2025-05-18 16:23:50,179 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houlian.txt 分类数: 0
-2025-05-18 16:23:50,250 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3plulianjiao.txt 分类数: 0
-2025-05-18 16:23:50,338 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/dm.txt 分类数: 1
-2025-05-18 16:23:50,339 - INFO - 直播文件生成完成
+2025-05-19 04:12:13,306 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3p.txt 分类数: 1
+2025-05-19 04:12:13,510 - ERROR - 解析URL失败 https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houru.txt
+2025-05-19 04:12:13,689 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/guochan.txt 分类数: 1
+2025-05-19 04:12:13,977 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/jiaochuang.txt 分类数: 1
+2025-05-19 04:12:14,220 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/lulian.txt 分类数: 0
+2025-05-19 04:12:14,383 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/shunv.txt 分类数: 1
+2025-05-19 04:12:14,533 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tunjing.txt 分类数: 1
+2025-05-19 04:12:14,712 - ERROR - 解析URL失败 https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tai.txt: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/tai.txt
+2025-05-19 04:12:14,911 - ERROR - 解析URL失败 https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/duibai.txt: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/duibai.txt
+2025-05-19 04:12:15,229 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haiyun.txt 分类数: 1
+2025-05-19 04:12:15,365 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/penshui.txt 分类数: 0
+2025-05-19 04:12:15,642 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/haoru.txt 分类数: 1
+2025-05-19 04:12:15,797 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/ziwei.txt 分类数: 0
+2025-05-19 04:12:15,937 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3pjiao.txt 分类数: 0
+2025-05-19 04:12:16,208 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/chinajiao.txt 分类数: 1
+2025-05-19 04:12:16,359 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/chinalian.txt 分类数: 0
+2025-05-19 04:12:16,438 - ERROR - 解析URL失败 https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/talksjh.txt: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/talksjh.txt
+2025-05-19 04:12:16,597 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/houlian.txt 分类数: 0
+2025-05-19 04:12:16,753 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/3plulianjiao.txt 分类数: 0
+2025-05-19 04:12:16,905 - INFO - 成功解析URL: https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/category/dm.txt 分类数: 1
+2025-05-19 04:12:16,906 - INFO - 直播文件生成完成
