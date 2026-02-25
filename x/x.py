@@ -109,6 +109,7 @@ def main():
     json_urls = [
         #"https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/xingfu.json",
         "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json",
+        "http://545211.xyz:888/xingfu.json",
         # 可以添加更多JSON URL
     ]
 
