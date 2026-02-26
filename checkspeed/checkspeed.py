@@ -23,8 +23,8 @@ def is_in_blacklist(url, blacklist_file='blackhost.txt'):
         host = parsed_url.netloc  # 例如: "example.com:8080"
         
         # 去除端口号
-        if ':' in host:
-            host = host.split(':')[0]
+        #if ':' in host:
+            #host = host.split(':')[0]
         
         # 读取黑名单文件
         if os.path.exists(blacklist_file):
