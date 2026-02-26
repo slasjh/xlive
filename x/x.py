@@ -110,7 +110,7 @@ def add_to_blacklist(url, blacklist_file):
     except Exception as e:
         print(f"添加黑名单失败: {e}")
 
-def speed_test(url, test_times=3):
+def speed_test(url, test_times=3, blacklist_file):
     # 检查是否在黑名单中
     if is_in_blacklist(url, blacklist_file):
         print(f"跳过黑名单中的URL: {url}")
@@ -143,7 +143,7 @@ def speed_test(url, test_times=3):
             fail_output.append(fail_message)
             
             # 将URL的host添加到黑名单
-            add_to_blacklist(url)
+            add_to_blacklist(url, blacklist_file)
             
             # 不继续测试，直接返回None
             return None
@@ -291,7 +291,7 @@ def main():
         site_name = item["site_data"].get("name", "未知站点")
         site_key = item["site_data"].get("key", "未知key")
         print(f"正在测试 {site_name}({site_key}): {url}")
-        result = speed_test(url)
+        result = speed_test(url, blacklist_file)
         if result:
             result["source"] = source_url
             result["key"] = site_key
