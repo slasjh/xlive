@@ -1,419 +1,421 @@
 找到 212 个解析地址:
-1. https://api.apilyzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-2. https://91av.cyou/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-3. http://wuxu.cc/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
-4. http://www.tianmei.pw/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-5. https://tmyy.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-6. http://madouse.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-7. http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-8. https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-9. https://sewozyapi.com/api.php/provide/vod（来自 http://545211.xyz:888/xingfu.json）
-10. https://www.caoliuzyw.com/api.php/provide/vod（来自 http://545211.xyz:888/xingfu.json）
-11. https://api.yikanapi.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-12. https://www.zy018.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-13. https://9szy.net/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-14. https://api.bukazyw.fun/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-15. http://kuaiavzy.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-16. https://api.vodkok2.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-17. https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-18. https://www.siwazyw.tv/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-19. https://haiwai.siwazyw.org/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-20. https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-21. http://198.211.49.156/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-22. https://caiji.putaozyw.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-23. https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-24. https://api.xbapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-25. https://api.yirenziyuan.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-26. https://api.seyavod.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-27. https://timizy10.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-28. https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
-29. https://api.sexnguon.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-30. http://156.249.29.8/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-31. https://kkzy.me/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-32. https://www.bominzy.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-33. https://8day.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-34. http://92free.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-35. https://tmav.art/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-36. https://sezy.website/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-37. https://xxavs.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-38. https://a.uezy.pw/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-39. https://hongxiuzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-40. https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-41. https://to.to-long.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-42. https://hghhh.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-43. https://apiyutu.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-44. https://ziyuan.skm3u8.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-45. https://lbapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-46. http://fhapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-47. https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://545211.xyz:888/xingfu.json）
-48. https://api.kudian70.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-49. https://timizy10.cc/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
-50. https://aosikazy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-51. http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-52. http://jcspcj8.com/api?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-53. http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-54. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-55. http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-56. http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-57. http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-58. http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-59. http://jcspcj8.com/api?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-60. http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-61. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-62. http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-63. http://api.sexnguon.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-64. http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-65. http://llzxcj.com/inc/sck.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-66. http://f2dcj6.com/sapi?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-67. http://api.sexnguon.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-68. http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-69. http://llzxcj.com/inc/sck.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-70. http://f2dcj6.com/sapi?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-71. http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
-72. http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-73. http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-74. http://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-75. http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
-76. http://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-77. http://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-78. http://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-79. http://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-80. http://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-81. http://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-82. http://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-83. http://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-84. http://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-85. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-86. http://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-87. http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-88. http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-89. http://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-90. http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-91. http://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-92. http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-93. https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-94. http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-95. https://www.888dav.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-96. https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-97. https://caiji.huakuiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-98. https://www.mgav1.cc/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-99. https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-100. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-101. https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-102. https://52zyapi.com/home/cjapi/asda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-103. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-104. https://apittzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-105. https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-106. https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-107. https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-108. https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-109. https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-110. https://sewozyapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-111. https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-112. https://api.apilyzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-113. http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-114. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-115. https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-116. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-117. https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-118. https://caiji.huakuiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-119. https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-120. https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-121. https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-122. https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-123. https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-124. https://www.888dav.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-125. https://apittzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-126. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-127. https://api.sexnguon.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-128. https://www.langyouzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-129. https://api.guosezy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-130. https://111kkkkk.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-131. https://hghhh.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-132. http://reba.aishunxs.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-133. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-134. https://aicaozy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-135. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-136. http://mygzycj.com/api.php?ac=list（来自 http://545211.xyz:888/xingfu.json）
-137. https://api.xiuseapi.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-138. https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-139. https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
-140. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-141. https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-142. https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-143. http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
-144. http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-145. http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-146. https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-147. https://caiji.caomeiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-148. http://www.aikanzyz9.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-149. https://caiji.huakuiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-150. https://api.putaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-151. https://sewozyapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-152. https://api.yinwoapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-153. http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-154. https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-155. https://52zyapi.com/home/cjapi/asda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-156. http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-157. https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-158. https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-159. http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-160. http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-161. http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-162. https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-163. https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-164. http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/json（来自 http://545211.xyz:888/xingfu.json）
-165. http://xcncaiji.com/home/cjapi/s6bb/mc10/vod/json（来自 http://545211.xyz:888/xingfu.json）
-166. https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-167. https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-168. https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-169. https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-170. https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-171. https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-172. https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-173. https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-174. https://www.caiji03.com/home/cjapi/cfg8/zp/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-175. https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-176. https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
-177. http://www.987caiji.com/api/max.php（来自 http://545211.xyz:888/xingfu.json）
-178. http://99zy.pw/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-179. http://www.010aizy.com/API/macs.php（来自 http://545211.xyz:888/xingfu.json）
-180. https://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-181. http://99zyba.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-182. https://kudouzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-183. https://api.kdapi.info/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-184. https://api.kudian70.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-185. https://api.ykapi.net/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-186. https://caiji.naichaapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-187. https://cj.apiabzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-188. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-189. https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-190. https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-191. https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-192. https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-193. https://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-194. http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-195. https://api.apilyzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-196. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-197. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-198. http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-199. http://wmcj8.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-200. https://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-201. https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-202. https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-203. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-204. http://99zywcj.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-205. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-206. http://www.jializyzapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-207. http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-208. https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-209. http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
-210. https://siwazyw.cc/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-211. https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-212. https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+1. 老鸭(apilyzy): https://api.apilyzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+2. 91视频(91av): https://91av.cyou/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+3. 麻豆(madou): http://wuxu.cc/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
+4. 天美①(tianmei): http://www.tianmei.pw/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+5. 天美②(tmyy): https://tmyy.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+6. 果冻(madouse): http://madouse.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+7. 精东(chujia): http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+8. 鲨鱼(shayuapi): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+9. 涩窝(sewozy): https://sewozyapi.com/api.php/provide/vod（来自 http://545211.xyz:888/xingfu.json）
+10. 小草(xiaocao): https://www.caoliuzyw.com/api.php/provide/vod（来自 http://545211.xyz:888/xingfu.json）
+11. 易看(apiyikanapi): https://api.yikanapi.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+12. 十八(zy018): https://www.zy018.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+13. 九色(9szy): https://9szy.net/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+14. 不卡(apibukazyw): https://api.bukazyw.fun/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+15. 快爱(kuaiavzy): http://kuaiavzy.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+16. KOK2(apivodkok2): https://api.vodkok2.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+17. 猫咪(api.maozyapi.com): https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+18. 袜丝①(siwazywtw): https://www.siwazyw.tv/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+19. 丝袜②(siwa): https://haiwai.siwazyw.org/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+20. 色猫(semao): https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+21. 花色(198211): http://198.211.49.156/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+22. 葡萄(putaozyw): https://caiji.putaozyw.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+23. 滴滴(apiddapi): https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+24. 雪豹(apixbapi): https://api.xbapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+25. 依人(apiyirenziyuan): https://api.yirenziyuan.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+26. 色鸭(seyavod): https://api.seyavod.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+27. 甜蜜(timizy10): https://timizy10.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+28. 奥斯(aosikazy): https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
+29. 色南(sexnguon): https://api.sexnguon.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+30. 蛋蛋(156249): http://156.249.29.8/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+31. 写真(kkzy): https://kkzy.me/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+32. 博民(bominzy): https://www.bominzy.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+33. 八天(8day): https://8day.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+34. 久爱(92free): http://92free.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+35. 美亚(tmav): https://tmav.art/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+36. 色网(sezy): https://sezy.website/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+37. 湿园(xxavs): https://xxavs.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+38. 优异(auezy): https://a.uezy.pw/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+39. 红袖(hongxiuzy): https://hongxiuzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+40. 色逼(apilsbzy1): https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+41. 橘猫(toto-long): https://to.to-long.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+42. 皇冠(hghhh): https://hghhh.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+43. 玉兔(apiyutu): https://apiyutu.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+44. 湿裤(ziyuan): https://ziyuan.skm3u8.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+45. 乐播(lbapi9): https://lbapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+46. 番号(fhapi9): http://fhapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+47. 玉兔资源(玉兔资源): https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://545211.xyz:888/xingfu.json）
+48. 酷伦理(kulunli): https://api.kudian70.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+49. 甜蜜资源 (timizy): https://timizy10.cc/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
+50. 奥斯卡资源网(奥斯卡资源网): https://aosikazy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+51. 成人01(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+52. 成人02(jcspcj8.com): http://jcspcj8.com/api?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+53. 成人03(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+54. 成人04(secj8.com): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+55. 成人05(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+56. 成人01(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+57. 成人02(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+58. 成人03(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+59. 成人04(jcspcj8.com): http://jcspcj8.com/api?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+60. 成人05(bttcj.com): http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+61. 成人06(cjmygzy.com): http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+62. 成人07(bttcj.com): http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+63. 成人08(api.sexnguon.com): http://api.sexnguon.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+64. 成人09(feifei67.com): http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+65. 成人10(llzxcj.com): http://llzxcj.com/inc/sck.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+66. 成人11(f2dcj6.com): http://f2dcj6.com/sapi?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+67. 成人07(api.sexnguon.com): http://api.sexnguon.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+68. 成人08(feifei67.com): http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+69. 成人09(llzxcj.com): http://llzxcj.com/inc/sck.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+70. 成人10(f2dcj6.com): http://f2dcj6.com/sapi?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+71. 成人11(ggmmzy.com): http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
+72. 成人12(fhapi9.com): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+73. 成人13(sdszyapi.com): http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+74. 成人14(caiji07.com): http://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+75. 成人15(ggmmzy.com): http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
+76. 成人16(caiji05.com): http://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+77. 成人17(caiji08.com): http://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+78. 成人18(caiji09.com): http://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+79. 成人19(caiji04.com): http://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+80. 成人20(caiji03.com): http://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+81. 成人21(caiji10.com): http://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+82. 成人22(caiji01.com): http://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+83. 成人23(caiji02.com): http://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+84. 成人24(dmmapi.com): http://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+85. 成人25(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+86. 成人26(xjjzyapi.com): http://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+87. 成人27(madouse.la): http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+88. 成人28(caiji21.com): http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+89. 成人29(caiji22.com): http://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+90. 成人30(caiji26.com): http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+91. 成人31(caiji23.com): http://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+92. 成人32(caiji25.com): http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+93. 成人33(api.maozyapi.com): https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+94. 成人34(caiji24.com): http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+95. 成人35(888dav.com): https://www.888dav.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+96. 成人36(mgzyz1.com): https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+97. 成人37(caiji.huakuiapi.com): https://caiji.huakuiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+98. 成人38(mgav1.cc): https://www.mgav1.cc/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+99. 成人39(pgxdy.com): https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+100. 成人40(msnii.com): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+101. 成人41(afasu.com): https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+102. 成人42(52zyapi.com): https://52zyapi.com/home/cjapi/asda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+103. 成人43(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+104. 成人44(apittzy.com): https://apittzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+105. 成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+106. 成人46(xrbsp.com): https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+107. 成人47(xx55zyapi.com): https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+108. 成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+109. 成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+110. 成人50(sewozyapi.com): https://sewozyapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+111. 成人51(jgczyapi.com): https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+112. 成人52(api.apilyzy.com): https://api.apilyzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+113. 成人13(madouse.la): http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+114. 成人14(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+115. 成人15(api.maozyapi.com): https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+116. 成人16(msnii.com): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+117. 成人17(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+118. 成人18(caiji.huakuiapi.com): https://caiji.huakuiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+119. 成人19(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+120. 成人20(xrbsp.com): https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+121. 成人21(pgxdy.com): https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+122. 成人22(afasu.com): https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+123. 成人23(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+124. 成人24(888dav.com): https://www.888dav.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+125. 成人25(apittzy.com): https://apittzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+126. 成人26(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+127. *🔞色南国资源(*色南国资源): https://api.sexnguon.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+128. *🔞狼友资源(*狼友资源): https://www.langyouzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+129. *🔞国色资源(*国色资源): https://api.guosezy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+130. *🔞金莲资源(*金莲资源): https://111kkkkk.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+131. *🔞皇冠资源(*皇冠资源): https://hghhh.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+132. *🔞热巴资源(*热巴资源): http://reba.aishunxs.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+133. *🔞AIvin(*AIvin): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+134. *🔞爱操资源(*爱操资源): https://aicaozy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+135. *🔞SS资源((18+)SS资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+136. *🔞JAV名优((18+)JAV名优): http://mygzycj.com/api.php?ac=list（来自 http://545211.xyz:888/xingfu.json）
+137. 🔞秀色资源((18+)秀色资源): https://api.xiuseapi.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+138. *🔞精工厂(精工厂): https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+139. *🔞九一线(91md): https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
+140. *🔞美少女(美少女): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+141. *🔞点点点(点点): https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+142. *🔞屌丝影(屌丝): https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+143. *🔞有哥妹(哥哥妹妹): http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
+144. *🔞纯在线(*CK资源): http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+145. *🔞博天堂(*博天堂): http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+146. *🔞色猫资源(*色猫资源): https://api.maozyapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+147. *🔞草莓资源(*草莓资源): https://caiji.caomeiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+148. *🔞爱看资源(*爱看资源): http://www.aikanzyz9.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+149. *🔞花魁资源(*花魁资源): https://caiji.huakuiapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+150. *🔞葡萄资源(*葡萄资源): https://api.putaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+151. *🔞色窝资源(*色窝资源): https://sewozyapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+152. *🔞淫窝资源(*淫窝资源): https://api.yinwoapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+153. *🔞色屌丝资源(切)(色屌丝资源): http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+154. *🔞小姐姐资源(小姐姐资源): https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+155. *🔞52AVAV(*52AVAV): https://52zyapi.com/home/cjapi/asda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+156. *🔞我要啪啪(*我要啪啪): http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+157. *🔞AV集中淫(*AV集中淫): https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+158. *🔞夜夜撸资源(*夜夜撸资源): https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+159. *🔞大屌丝资源(*大屌丝资源): http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+160. *🔞咪咪资源(*咪咪资源): http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+161. *🔞鲍鱼AV(*鲍鱼AV): http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+162. *🔞精工厂资源(*精工厂资源): https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+163. *🔞点点娱乐(*点点娱乐): https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+164. *🔞淫人妻资源(*淫人妻资源): http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/json（来自 http://545211.xyz:888/xingfu.json）
+165. *🔞小处女资源(*小处女资源): http://xcncaiji.com/home/cjapi/s6bb/mc10/vod/json（来自 http://545211.xyz:888/xingfu.json）
+166. *🔞大MM资源(*大MM资源): https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+167. *🔞黄瓜TV资源(*黄瓜TV资源): https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+168. *🔞快播盒子资源(*快播盒子资源): https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+169. *🔞大香蕉资源(*大香蕉资源): https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+170. *🔞日本AV在线(*日本AV在线): https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+171. *🔞久久热在线(*久久热在线): https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+172. *🔞青青草视频(*青青草视频): https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+173. *🔞麻豆视频(*麻豆视频): https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+174. *🔞一本道资源(*一本道资源): https://www.caiji03.com/home/cjapi/cfg8/zp/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+175. *🔞草榴视频(*草榴视频): https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+176. *🔞亚洲成人在线(*亚洲成人在线): https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml（来自 http://545211.xyz:888/xingfu.json）
+177. *🔞天噜啦资源(*天噜啦资源): http://www.987caiji.com/api/max.php（来自 http://545211.xyz:888/xingfu.json）
+178. *🔞99资源(*99资源): http://99zy.pw/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+179. *🔞010爱资源(*010爱资源): http://www.010aizy.com/API/macs.php（来自 http://545211.xyz:888/xingfu.json）
+180. *🔞91麻豆(*91麻豆): https://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+181. *🔞99资源吧(*99资源吧): http://99zyba.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+182. *🔞酷豆资源(*酷豆资源): https://kudouzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+183. *🔞酷豆2(*酷豆2): https://api.kdapi.info/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+184. *🔞酷伦理(*酷伦理): https://api.kudian70.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+185. *🔞影库资源(*影库资源): https://api.ykapi.net/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+186. *🔞奶茶资源(*奶茶资源): https://caiji.naichaapi.com/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+187. *🔞爱播资源(*爱播资源): https://cj.apiabzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+188. *🔞美少女资源(*美少女资源): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+189. *🔞淫水机资源(*淫水机资源): https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+190. *🔞香奶儿资源(*香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+191. *🔞白嫖资源(*白嫖资源): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+192. *🔞小湿妹资源(*小湿妹资源): https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+193. *🔞大地资源(*大地资源): https://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+194. *🔞CK资源(*CK资源): http://www.feifei67.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+195. *🔞老鸭资源(*老鸭资源): https://api.apilyzy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+196. *🔞老鸭2(老鸭2): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+197. *🔞乐播资源(*乐播资源): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+198. *🔞博天堂(*博天堂): http://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+199. *🔞环亚资源(*环亚资源): http://wmcj8.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+200. 🔞天堂福利((18+)天堂福利): https://bttcj.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+201. 🔞小湿妹资源(已修复)(afasu): https://www.afasu.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+202. 🔞黄AV资源(已修复)(KpgxdyE): https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+203. *🔞色色资源(*色色资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+204. *🔞玖玖资源(*玖玖资源): http://99zywcj.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+205. *🔞狼少年(*狼少年): http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+206. *🔞佳丽资源(*佳丽资源): http://www.jializyzapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+207. *🔞番号资源(*番号资源): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+208. *🔞鲨鱼资源(*鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+209. *🔞速度资源(*速度资源): http://www.ggmmzy.com:9999/inc/xml（来自 http://545211.xyz:888/xingfu.json）
+210. *🔞丝袜资源(*丝袜资源): https://siwazyw.cc/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+211. *🔞芒果资源(*芒果资源): https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+212. *🔞KK写真资源(*KK写真资源): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+
+已生成TVBox适配的JSON文件: tvbox_sorted_20260226_111320.json
 
 测速结果（按延迟排序）：
-1. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 56.36ms | 成功率: 100.0%
+1. 成人04(secj8.com): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 53.19ms | 成功率: 100.0%
 --------------------------------------------------
-2. http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 65.7ms | 成功率: 100.0%
+2. 成人27(madouse.la): http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 82.17ms | 成功率: 100.0%
 --------------------------------------------------
-3. http://92free.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 75.83ms | 成功率: 100.0%
+3. 成人03(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 86.1ms | 成功率: 100.0%
 --------------------------------------------------
-4. http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 77.93ms | 成功率: 100.0%
+4. 成人03(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 96.99ms | 成功率: 100.0%
 --------------------------------------------------
-5. http://wmcj8.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 78.16ms | 成功率: 100.0%
+5. 成人04(secj8.com): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 99.77ms | 成功率: 100.0%
 --------------------------------------------------
-6. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 81.62ms | 成功率: 100.0%
+6. *🔞环亚资源(*环亚资源): http://wmcj8.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 103.03ms | 成功率: 100.0%
 --------------------------------------------------
-7. http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 99.06ms | 成功率: 100.0%
+7. 成人01(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 109.83ms | 成功率: 100.0%
 --------------------------------------------------
-8. http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 99.53ms | 成功率: 100.0%
+8. 成人01(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 111.4ms | 成功率: 100.0%
 --------------------------------------------------
-9. http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 100.47ms | 成功率: 100.0%
+9. *🔞大地资源(*大地资源): https://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 114.03ms | 成功率: 100.0%
 --------------------------------------------------
-10. http://www.tianmei.pw/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 106.03ms | 成功率: 100.0%
+10. 成人43(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 129.41ms | 成功率: 100.0%
 --------------------------------------------------
-11. https://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 123.15ms | 成功率: 100.0%
+11. 成人36(mgzyz1.com): https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 129.45ms | 成功率: 100.0%
 --------------------------------------------------
-12. https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 132.93ms | 成功率: 100.0%
+12. 天美①(tianmei): http://www.tianmei.pw/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 130.75ms | 成功率: 100.0%
 --------------------------------------------------
-13. http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 140.01ms | 成功率: 100.0%
+13. 成人36(mgzyz1.com): https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 133.15ms | 成功率: 100.0%
 --------------------------------------------------
-14. https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 142.03ms | 成功率: 100.0%
+14. 天美②(tmyy): https://tmyy.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 138.13ms | 成功率: 100.0%
 --------------------------------------------------
-15. https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 145.44ms | 成功率: 100.0%
+15. 鲨鱼(shayuapi): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 139.91ms | 成功率: 100.0%
 --------------------------------------------------
-16. https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 146.74ms | 成功率: 100.0%
+16. 鲨鱼(shayuapi): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 143.61ms | 成功率: 100.0%
 --------------------------------------------------
-17. https://tmyy.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 147.49ms | 成功率: 100.0%
+17. 成人43(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 152.37ms | 成功率: 100.0%
 --------------------------------------------------
-18. https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 154.15ms | 成功率: 100.0%
+18. 久爱(92free): http://92free.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 155.5ms | 成功率: 100.0%
 --------------------------------------------------
-19. https://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 163.34ms | 成功率: 100.0%
+19. 成人43(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 159.73ms | 成功率: 100.0%
 --------------------------------------------------
-20. https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 163.68ms | 成功率: 100.0%
+20. 成人43(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 166.08ms | 成功率: 100.0%
 --------------------------------------------------
-21. https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 166.62ms | 成功率: 100.0%
+21. 成人05(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 167.32ms | 成功率: 100.0%
 --------------------------------------------------
-22. https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 167.5ms | 成功率: 100.0%
+22. 色猫(semao): https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 168.21ms | 成功率: 100.0%
 --------------------------------------------------
-23. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 170.54ms | 成功率: 100.0%
+23. 成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 172.8ms | 成功率: 100.0%
 --------------------------------------------------
-24. https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 181.84ms | 成功率: 100.0%
+24. 成人39(pgxdy.com): https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 175.8ms | 成功率: 100.0%
 --------------------------------------------------
-25. https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 185.15ms | 成功率: 100.0%
+25. 乐播(lbapi9): https://lbapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 179.61ms | 成功率: 100.0%
 --------------------------------------------------
-26. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 187.02ms | 成功率: 100.0%
+26. 成人40(msnii.com): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 180.64ms | 成功率: 100.0%
 --------------------------------------------------
-27. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 189.06ms | 成功率: 100.0%
+27. 果冻(madouse): http://madouse.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 182.2ms | 成功率: 100.0%
 --------------------------------------------------
-28. https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 189.27ms | 成功率: 100.0%
+28. 成人40(msnii.com): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 183.42ms | 成功率: 100.0%
 --------------------------------------------------
-29. https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 191.66ms | 成功率: 100.0%
+29. *🔞九一线(91md): https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 185.25ms | 成功率: 100.0%
 --------------------------------------------------
-30. https://lbapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 194.28ms | 成功率: 100.0%
+30. 成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 186.62ms | 成功率: 100.0%
 --------------------------------------------------
-31. http://madouse.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 203.82ms | 成功率: 100.0%
+31. 成人05(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 189.68ms | 成功率: 100.0%
 --------------------------------------------------
-32. https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 204.58ms | 成功率: 100.0%
+32. 成人46(xrbsp.com): https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 191.25ms | 成功率: 100.0%
 --------------------------------------------------
-33. http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 205.53ms | 成功率: 100.0%
+33. 成人46(xrbsp.com): https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 194.89ms | 成功率: 100.0%
 --------------------------------------------------
-34. https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 206.74ms | 成功率: 100.0%
+34. 成人39(pgxdy.com): https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 206.76ms | 成功率: 100.0%
 --------------------------------------------------
-35. https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 207.55ms | 成功率: 100.0%
+35. 成人39(pgxdy.com): https://www.pgxdy.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 210.8ms | 成功率: 100.0%
 --------------------------------------------------
-36. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 211.37ms | 成功率: 100.0%
+36. 成人40(msnii.com): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 220.31ms | 成功率: 100.0%
 --------------------------------------------------
-37. https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 212.49ms | 成功率: 100.0%
+37. 成人04(secj8.com): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 224.4ms | 成功率: 100.0%
 --------------------------------------------------
-38. https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 218.94ms | 成功率: 100.0%
+38. 成人06(cjmygzy.com): http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 229.5ms | 成功率: 100.0%
 --------------------------------------------------
-39. http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 218.95ms | 成功率: 100.0%
+39. 精东(chujia): http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 247.25ms | 成功率: 100.0%
 --------------------------------------------------
-40. https://a.uezy.pw/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 221.44ms | 成功率: 100.0%
+40. 色网(sezy): https://sezy.website/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 252.78ms | 成功率: 100.0%
 --------------------------------------------------
-41. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 225.02ms | 成功率: 100.0%
+41. 成人40(msnii.com): https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 256.5ms | 成功率: 100.0%
 --------------------------------------------------
-42. https://sezy.website/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 226.54ms | 成功率: 100.0%
+42. 成人27(madouse.la): http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 264.8ms | 成功率: 100.0%
 --------------------------------------------------
-43. https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 228.34ms | 成功率: 100.0%
+43. 玉兔资源(玉兔资源): https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 272.36ms | 成功率: 100.0%
 --------------------------------------------------
-44. http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 237.71ms | 成功率: 100.0%
+44. 优异(auezy): https://a.uezy.pw/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 274.08ms | 成功率: 100.0%
 --------------------------------------------------
-45. http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 258.48ms | 成功率: 100.0%
+45. 成人06(cjmygzy.com): http://cjmygzy.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 275.76ms | 成功率: 100.0%
 --------------------------------------------------
-46. https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 274.83ms | 成功率: 100.0%
+46. 滴滴(apiddapi): https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 288.31ms | 成功率: 100.0%
 --------------------------------------------------
-47. https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 315.29ms | 成功率: 100.0%
+47. 玉兔(apiyutu): https://apiyutu.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 324.14ms | 成功率: 100.0%
 --------------------------------------------------
-48. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 316.94ms | 成功率: 100.0%
+48. 成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 326.39ms | 成功率: 100.0%
 --------------------------------------------------
-49. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 328.01ms | 成功率: 100.0%
+49. 成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 334.97ms | 成功率: 100.0%
 --------------------------------------------------
-50. https://apiyutu.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 330.27ms | 成功率: 100.0%
+50. 色逼(apilsbzy1): https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 337.74ms | 成功率: 100.0%
 --------------------------------------------------
-51. https://www.msnii.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 346.01ms | 成功率: 100.0%
+51. *🔞91麻豆(*91麻豆): https://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 345.81ms | 成功率: 100.0%
 --------------------------------------------------
-52. http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 349.94ms | 成功率: 100.0%
+52. 成人46(xrbsp.com): https://www.xrbsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 346.36ms | 成功率: 100.0%
 --------------------------------------------------
-53. https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 403.01ms | 成功率: 100.0%
+53. 成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 357.98ms | 成功率: 100.0%
 --------------------------------------------------
-54. https://tmav.art/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 414.18ms | 成功率: 100.0%
+54. *🔞丝袜资源(*丝袜资源): https://siwazyw.cc/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 417.92ms | 成功率: 100.0%
 --------------------------------------------------
-55. http://fhapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 462.59ms | 成功率: 100.0%
+55. 番号(fhapi9): http://fhapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 453.27ms | 成功率: 100.0%
 --------------------------------------------------
-56. http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 513.48ms | 成功率: 100.0%
+56. 美亚(tmav): https://tmav.art/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 469.11ms | 成功率: 100.0%
 --------------------------------------------------
-57. https://siwazyw.cc/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 577.1ms | 成功率: 100.0%
+57. 成人12(fhapi9.com): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 478.72ms | 成功率: 100.0%
 --------------------------------------------------
-58. http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 590.36ms | 成功率: 100.0%
+58. 成人12(fhapi9.com): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 487.63ms | 成功率: 100.0%
 --------------------------------------------------
-59. https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 643.9ms | 成功率: 100.0%
+59. 成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 519.73ms | 成功率: 100.0%
 --------------------------------------------------
-60. https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 737.59ms | 成功率: 100.0%
+60. 成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 791.24ms | 成功率: 100.0%
 --------------------------------------------------
-61. https://kkzy.me/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 764.52ms | 成功率: 100.0%
+61. 成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 813.62ms | 成功率: 100.0%
 --------------------------------------------------
-62. https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 849.05ms | 成功率: 100.0%
+62. 成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 846.33ms | 成功率: 100.0%
 --------------------------------------------------
-63. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 882.72ms | 成功率: 100.0%
+63. 成人25(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 873.12ms | 成功率: 100.0%
 --------------------------------------------------
-64. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 892.19ms | 成功率: 100.0%
+64. 成人25(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 880.7ms | 成功率: 100.0%
 --------------------------------------------------
-65. http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1063.44ms | 成功率: 100.0%
+65. 写真(kkzy): https://kkzy.me/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 951.51ms | 成功率: 100.0%
 --------------------------------------------------
-66. https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1097.56ms | 成功率: 100.0%
+66. 奥斯(aosikazy): https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1259.52ms | 成功率: 100.0%
 --------------------------------------------------
-67. https://aosikazy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1193.73ms | 成功率: 100.0%
+67. 成人25(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1268.52ms | 成功率: 100.0%
 --------------------------------------------------
-68. https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1251.05ms | 成功率: 100.0%
+68. 奥斯卡资源网(奥斯卡资源网): https://aosikazy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1365.15ms | 成功率: 100.0%
 --------------------------------------------------
