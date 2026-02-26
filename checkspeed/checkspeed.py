@@ -15,7 +15,7 @@ BlackHost=["127.0.0.1:8080","t21.cdn2020.com","vod3.ttbfp5.com","nvid101.cdnii.c
 ]
 
 # 檢查URL是否在黑名單中
-def is_in_blacklist(url, blacklist_file='blacklist.txt'):
+def is_in_blacklist(url, blacklist_file='blackhost.txt'):
     """检查URL的host是否在黑名单中"""
     try:
         # 解析URL获取host部分
@@ -38,7 +38,7 @@ def is_in_blacklist(url, blacklist_file='blacklist.txt'):
     return False
 
 # 從blacklist_dict中提取排名靠前的30%的host，寫入黑名單文件
-def generate_top_blacklist(blacklist_dict, output_file='blacklist.txt', top_percentage=0.3):
+def generate_top_blacklist(blacklist_dict, output_file='blackhost.txt', top_percentage=0.3):
     """
     從blacklist_dict中提取失敗次數最多的前30%的host，寫入黑名單文件
     
@@ -482,8 +482,8 @@ if __name__ == "__main__":
     
     save_blackhost_to_txt()
     
-    # 生成排名靠前30%的host黑名单（寫入到blacklist.txt）
-    blacklist_txt_file = os.path.join(current_dir, "blacklist.txt")
+    # 生成排名靠前30%的host黑名单（寫入到blackhost.txt）
+    blacklist_txt_file = os.path.join(current_dir, "blackhost.txt")
     generate_top_blacklist(blacklist_dict, blacklist_txt_file, 0.3)
             
     for statistics in url_statistics: #查看各个url的量有多少 2024-08-19
