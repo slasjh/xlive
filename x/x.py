@@ -110,7 +110,7 @@ def add_to_blacklist(url, blacklist_file):
     except Exception as e:
         print(f"添加黑名单失败: {e}")
 
-def speed_test(url, test_times=3, blacklist_file):
+def speed_test(url, blacklist_file, test_times=3):
     # 检查是否在黑名单中
     if is_in_blacklist(url, blacklist_file):
         print(f"跳过黑名单中的URL: {url}")
