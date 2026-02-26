@@ -20,9 +20,19 @@ def fetch_and_sites_json(url):
 
     try:
 
-        response = requests.get(url, timeout=10)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            # 可以尝试添加 Referer，有时需要
+            # "Referer": "https://your-referer.com/",
+        }
+        response = requests.get(url, timeout=10, headers=headers)  # 添加 headers 参数
+        response.raise_for_status()  # 这会检查 HTTP 状态码，403 会在这里抛出异常
 
-        response.raise_for_status()
+        #response.raise_for_status()
 
         try:
 
