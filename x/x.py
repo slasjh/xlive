@@ -8,7 +8,7 @@ from datetime import datetime
 fail_output = []
 
 def remove_single_line_comments(json_str):
-    cleaned_json_str = re.sub(r'//.*', '', json_str, flags=re.MULTILINE)
+    cleaned_json_str = re.sub(r'^\s*//.*', '', json_str, flags=re.MULTILINE)
     return cleaned_json_str
 
 def remove_control_characters(s):
