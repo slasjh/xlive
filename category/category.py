@@ -219,7 +219,7 @@ feilei_dm = "動画"
 gjz_dm = ["動画", "动漫"]  # 使用列表来存储多个关键字
 output_file1 = "category/3p.txt"
 feilei_3p = "3p"
-gjz_3p = ["3p", "3P", "4P", "4p", "5P", "前后夹击", "群P", "前后一起", "翘屁股"]  # 使用列表来存储多个关键字
+gjz_3p = ["3p", "3P", "4P", "4p", "5P", "前后夹击", "群P", "前后一起", "翘屁股", "轮噪", "轮操", "轮流干", "轮着干"]  # 使用列表来存储多个关键字
 
 output_file2 = "category/tai.txt"
 feilei_tai = "tai分类"
