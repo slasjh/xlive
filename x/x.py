@@ -4,6 +4,7 @@ import json
 import re
 import os
 from datetime import datetime
+from urllib.parse import urlparse
 
 fail_output = []
 
@@ -69,7 +70,52 @@ def extract_sites_urls(json_data, source_url):
                 urls.append({"source": source_url, "url": url, "site_data": site})
     return urls
 
+def is_in_blacklist(url, blacklist_file='blacklist.txt'):
+    """检查URL的host是否在黑名单中"""
+    try:
+        # 解析URL获取host部分
+        parsed_url = urlparse(url)
+        host = parsed_url.netloc  # 例如: "example.com:8080"
+        
+        # 去除端口号
+        if ':' in host:
+            host = host.split(':')[0]
+        
+        # 读取黑名单文件
+        if os.path.exists(blacklist_file):
+            with open(blacklist_file, 'r', encoding='utf-8') as f:
+                blacklist = [line.strip() for line in f.readlines() if line.strip()]
+            
+            # 检查是否在黑名单中
+            return host in blacklist
+    except Exception:
+        pass
+    return False
+
+def add_to_blacklist(url, blacklist_file='blacklist.txt'):
+    """将URL的host添加到黑名单"""
+    try:
+        parsed_url = urlparse(url)
+        host = parsed_url.netloc
+        
+        # 去除端口号
+        if ':' in host:
+            host = host.split(':')[0]
+        
+        # 检查是否已经在黑名单中
+        if not is_in_blacklist(url, blacklist_file):
+            with open(blacklist_file, 'a', encoding='utf-8') as f:
+                f.write(f"{host}\n")
+            print(f"已将 {host} 添加到黑名单")
+    except Exception as e:
+        print(f"添加黑名单失败: {e}")
+
 def speed_test(url, test_times=3):
+    # 检查是否在黑名单中
+    if is_in_blacklist(url):
+        print(f"跳过黑名单中的URL: {url}")
+        return None
+    
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
@@ -95,6 +141,12 @@ def speed_test(url, test_times=3):
             print(f"测速失败 {url}: {str(e)}")
             fail_message = f"测速失败 {url}: {str(e)}\n"
             fail_output.append(fail_message)
+            
+            # 将URL的host添加到黑名单
+            add_to_blacklist(url)
+            
+            # 不继续测试，直接返回None
+            return None
     
     if success_count == 0:
         return None
@@ -175,7 +227,8 @@ def create_sorted_tvbox_json(json_urls, all_sites_with_speed, results):
     
     # 保存到文件
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    tvbox_json_path = os.path.join(current_dir, f"tvbox_sorted_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+    #tvbox_json_path = os.path.join(current_dir, f"tvbox_sorted_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+    tvbox_json_path = os.path.join(current_dir,'x.json')
     
     with open(tvbox_json_path, "w", encoding="utf-8") as f:
         json.dump(tvbox_json, f, ensure_ascii=False, indent=2)
@@ -213,14 +266,25 @@ def main():
 
     print(f"找到 {len(sites_urls)} 个解析地址")
 
+    # 创建黑名单文件（如果不存在）
+    blacklist_file = 'blacklist.txt'
+    if not os.path.exists(blacklist_file):
+        with open(blacklist_file, 'w', encoding='utf-8') as f:
+            f.write("# URL黑名单文件，每行一个host（如：example.com）\n")
+        print(f"已创建黑名单文件: {blacklist_file}")
+
     print("\n开始测速...")
     results = []
     for item in sites_urls:
         source_url, url = item["source"], item["url"]
-        print(f"正在测试 {url}（来自 {source_url}）...")
+        site_name = item["site_data"].get("name", "未知站点")
+        site_key = item["site_data"].get("key", "未知key")
+        print(f"正在测试 {site_name}({site_key}): {url}")
         result = speed_test(url)
         if result:
             result["source"] = source_url
+            result["key"] = site_key
+            result["name"] = site_name
             results.append(result)
 
     if not results:
@@ -243,23 +307,14 @@ def main():
 
     output_lines.append("\n测速结果（按延迟排序）：\n")
     for idx, res in enumerate(sorted(results, key=lambda x: x["avg_latency"]), 1):
-        # 查找对应的站点名称和key
-        site_name = "未知站点"
-        site_key = "未知key"
-        for item in sites_urls:
-            if item["url"] == res["url"]:
-                site_name = item["site_data"].get("name", "未知站点")
-                site_key = item["site_data"].get("key", "未知key")
-                break
-        
-        output_lines.append(f"{idx}. {site_name}({site_key}): {res['url']}（来自 {res['source']}）\n")
+        output_lines.append(f"{idx}. {res['name']}({res['key']}): {res['url']}（来自 {res['source']}）\n")
         output_lines.append(f"  平均延迟: {res['avg_latency']}ms | 成功率: {res['success_rate']}%\n")
         output_lines.append("-" * 50 + "\n")
     
     current_dir = os.path.dirname(os.path.abspath(__file__))
     x_results = os.path.join(current_dir, 'x_results.txt')
-    fail_result = os.path.join(current_dir, f"{datetime.now().strftime('%Y%m%d_%H_%M_%S')}_fail_result.txt")
-    
+    #fail_result = os.path.join(current_dir, f"{datetime.now().strftime('%Y%m%d_%H_%M_%S')}_fail_result.txt")
+    fail_result = os.path.join(current_dir, 'fail_result.txt')
     with open(x_results, "w", encoding="utf-8") as f:
         f.writelines(output_lines)
     
