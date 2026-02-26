@@ -241,7 +241,15 @@ def create_sorted_tvbox_json(json_urls, all_sites_with_speed, results):
 def main():
     json_urls = [
         "http://545211.xyz:888/xingfu.json",
-        "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json",
+        "https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
+"https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
+"https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json",
+"https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json",
+"https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json",
+"https://raw.githubusercontent.com/jigedos/gao/master/9918.json",
+"https://raw.githubusercontent.com/jigedos/dc/main/json/138.json",
+"https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json",
+"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
     ]
 
     all_sites_with_speed = []  # 存储所有站点信息（包括完整数据和URL）
