@@ -48,7 +48,9 @@ def fetch_and_sites_json(url):
                 return json.loads(cleaned_text)
             except json.JSONDecodeError as e:
                 # 保存调试文件（用于检查问题）
-                with open('debug_cleaned.json', 'w', encoding='utf-8') as f:
+                current_dir = os.path.dirname(os.path.abspath(__file__))
+                debug_cleaned = os.path.join(current_dir, 'debug_cleaned.json')
+                with open(debug_cleaned, 'w', encoding='utf-8') as f:
                     f.write(cleaned_text)
                 print(f"JSON 解析失败，清理后的文本已保存到 debug_cleaned.json。错误: {e}")
                 raise
@@ -105,8 +107,8 @@ def speed_test(url, test_times=3):
 
 def main():
     json_urls = [
-        "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json",
         "http://545211.xyz:888/xingfu.json",
+        "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json",
     ]
 
     sites_urls = []
