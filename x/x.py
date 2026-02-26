@@ -66,7 +66,7 @@ def extract_sites_urls(json_data, source_url):
         for site in json_data["sites"]:
             url = site.get("api", "")
             if url.startswith(("http://", "https://")):
-                urls.append({"source": source_url, "url": url})
+                urls.append({"source": source_url, "url": url, "site_data": site})
     return urls
 
 def speed_test(url, test_times=3):
@@ -105,22 +105,113 @@ def speed_test(url, test_times=3):
         "success_rate": round(success_count / test_times * 100, 1)
     }
 
+def create_sorted_tvbox_json(json_urls, all_sites_with_speed, results):
+    """
+    根据测速延迟排序，生成适配TVBox的JSON文件
+    类似于 http://545211.xyz:888/xingfu.json 的结构
+    """
+    
+    # 创建URL到延迟的映射
+    url_to_latency = {}
+    for result in results:
+        url = result["url"]
+        latency = result["avg_latency"]
+        url_to_latency[url] = latency
+    
+    # 为每个站点添加延迟信息
+    for site_info in all_sites_with_speed:
+        url = site_info.get("url", "")
+        if url in url_to_latency:
+            site_info["latency"] = url_to_latency[url]
+        else:
+            site_info["latency"] = float('inf')  # 如果没有延迟数据，设为无穷大
+    
+    # 按延迟排序站点（延迟低的在前）
+    sorted_sites_info = sorted(all_sites_with_speed, key=lambda x: x["latency"])
+    
+    # 提取排序后的完整站点数据
+    sorted_sites_data = []
+    for site_info in sorted_sites_info:
+        site_data = site_info["site_data"]
+        # 可选：添加延迟信息到站点数据中（可作为参考）
+        # site_data["latency"] = site_info["latency"]
+        sorted_sites_data.append(site_data)
+    
+    # 构建TVBox JSON结构（参考xingfu.json）
+    # 使用第一个来源的JSON作为模板，保留其他字段如spider、lives等
+    tvbox_json = {}
+    
+    # 尝试从第一个来源获取完整的JSON结构
+    for json_url in json_urls:
+        json_data = fetch_and_sites_json(json_url)
+        if json_data:
+            # 复制所有字段
+            for key in json_data:
+                if key != "sites":  # sites字段我们将替换为排序后的
+                    tvbox_json[key] = json_data[key]
+            break  # 只使用第一个有效的JSON作为模板
+    
+    # 如果上面没有获取到模板，创建一个基本结构
+    if not tvbox_json:
+        tvbox_json = {
+            "spider": "",
+            "lives": [],
+            "parses": [],
+            "flags": [],
+            "ads": [],
+            "wallpaper": ""
+        }
+    
+    # 添加排序后的sites
+    tvbox_json["sites"] = sorted_sites_data
+    
+    # 添加生成信息
+    tvbox_json["generated_info"] = {
+        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "source_urls": json_urls,
+        "total_sites": len(sorted_sites_data),
+        "description": "根据测速延迟自动排序的TVBox配置"
+    }
+    
+    # 保存到文件
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    tvbox_json_path = os.path.join(current_dir, f"tvbox_sorted_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+    
+    with open(tvbox_json_path, "w", encoding="utf-8") as f:
+        json.dump(tvbox_json, f, ensure_ascii=False, indent=2)
+    
+    print(f"TVBox适配的JSON已保存到 {tvbox_json_path}")
+    
+    return tvbox_json_path
+
 def main():
     json_urls = [
         "http://545211.xyz:888/xingfu.json",
         "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json",
     ]
 
-    sites_urls = []
+    all_sites_with_speed = []  # 存储所有站点信息（包括完整数据和URL）
+    sites_urls = []  # 存储用于测速的URL列表
 
     for json_url in json_urls:
         json_data = fetch_and_sites_json(json_url)
         if json_data:
-           sites_urls.extend(extract_sites_urls(json_data, json_url))
+            extracted_urls = extract_sites_urls(json_data, json_url)
+            sites_urls.extend(extracted_urls)
+            
+            # 存储完整的站点信息
+            for item in extracted_urls:
+                all_sites_with_speed.append({
+                    "url": item["url"],
+                    "source": item["source"],
+                    "site_data": item["site_data"]
+                })
 
     if not sites_urls:
         print("未找到有效的url")
         return
+
+    print(f"找到 {len(sites_urls)} 个解析地址")
 
     print("\n开始测速...")
     results = []
@@ -132,16 +223,36 @@ def main():
             result["source"] = source_url
             results.append(result)
 
+    if not results:
+        print("没有成功的测速结果")
+        return
+
+    # 生成适配TVBox的排序JSON
+    tvbox_json_path = create_sorted_tvbox_json(json_urls, all_sites_with_speed, results)
+
     # 准备写入文件的内容
     output_lines = []
     output_lines.append(f"找到 {len(sites_urls)} 个解析地址:\n")
     for idx, item in enumerate(sites_urls, 1):
         source_url, url = item["source"], item["url"]
-        output_lines.append(f"{idx}. {url}（来自 {source_url}）\n")
+        site_name = item["site_data"].get("name", "未知站点")
+        site_key = item["site_data"].get("key", "未知key")
+        output_lines.append(f"{idx}. {site_name}({site_key}): {url}（来自 {source_url}）\n")
+
+    output_lines.append(f"\n已生成TVBox适配的JSON文件: {os.path.basename(tvbox_json_path)}\n")
 
     output_lines.append("\n测速结果（按延迟排序）：\n")
     for idx, res in enumerate(sorted(results, key=lambda x: x["avg_latency"]), 1):
-        output_lines.append(f"{idx}. {res['url']}（来自 {res['source']}）\n")
+        # 查找对应的站点名称和key
+        site_name = "未知站点"
+        site_key = "未知key"
+        for item in sites_urls:
+            if item["url"] == res["url"]:
+                site_name = item["site_data"].get("name", "未知站点")
+                site_key = item["site_data"].get("key", "未知key")
+                break
+        
+        output_lines.append(f"{idx}. {site_name}({site_key}): {res['url']}（来自 {res['source']}）\n")
         output_lines.append(f"  平均延迟: {res['avg_latency']}ms | 成功率: {res['success_rate']}%\n")
         output_lines.append("-" * 50 + "\n")
     
