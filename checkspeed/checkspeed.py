@@ -4,16 +4,90 @@ import time
 from datetime import datetime
 import os
 from urllib.parse import urlparse
-import socket  #check p3p源 rtp源
-import subprocess #check rtmp源
+import socket
+import subprocess
 import re
 
 timestart = datetime.now()
 
 BlackHost=["127.0.0.1:8080","t21.cdn2020.com","vod3.ttbfp5.com","nvid101.cdnii.com","vip1.slbfsl.com",
-
            "vod1.ttbfp2.com","www.52iptv.vip:35455","dbiptv.sn.chinamobile.com","61.160.112.102:35455"
 ]
+
+# 檢查URL是否在黑名單中
+def is_in_blacklist(url, blacklist_file='blacklist.txt'):
+    """检查URL的host是否在黑名单中"""
+    try:
+        # 解析URL获取host部分
+        parsed_url = urlparse(url)
+        host = parsed_url.netloc  # 例如: "example.com:8080"
+        
+        # 去除端口号
+        if ':' in host:
+            host = host.split(':')[0]
+        
+        # 读取黑名单文件
+        if os.path.exists(blacklist_file):
+            with open(blacklist_file, 'r', encoding='utf-8') as f:
+                blacklist = [line.strip() for line in f.readlines() if line.strip()]
+            
+            # 检查是否在黑名单中
+            return host in blacklist
+    except Exception:
+        pass
+    return False
+
+# 從blacklist_dict中提取排名靠前的30%的host，寫入黑名單文件
+def generate_top_blacklist(blacklist_dict, output_file='blacklist.txt', top_percentage=0.3):
+    """
+    從blacklist_dict中提取失敗次數最多的前30%的host，寫入黑名單文件
+    
+    Args:
+        blacklist_dict: 包含host和失敗次數的字典
+        output_file: 輸出文件名
+        top_percentage: 提取前多少比例，默認0.3(30%)
+    """
+    if not blacklist_dict:
+        print(f"blacklist_dict為空，不生成黑名單文件")
+        return
+    
+    # 將字典轉換為列表並按失敗次數排序
+    sorted_hosts = sorted(blacklist_dict.items(), key=lambda x: x[1], reverse=True)
+    
+    # 計算要提取的host數量
+    total_hosts = len(sorted_hosts)
+    top_count = max(1, int(total_hosts * top_percentage))  # 至少保留一個
+    
+    print(f"總共有 {total_hosts} 個host，提取前 {top_count} 個({top_percentage*100}%)")
+    
+    # 提取排名靠前的host（只取host部分，不要失敗次數）
+    top_hosts = [host for host, _ in sorted_hosts[:top_count]]
+    
+    # 讀取現有的黑名單（如果存在）
+    existing_hosts = set()
+    if os.path.exists(output_file):
+        with open(output_file, 'r', encoding='utf-8') as f:
+            existing_hosts = set([line.strip() for line in f.readlines() if line.strip()])
+    
+    # 找出新的host（不在現有黑名單中的）
+    new_hosts = [host for host in top_hosts if host not in existing_hosts]
+    
+    if not new_hosts:
+        print(f"沒有新的host需要添加到黑名單文件")
+        return
+    
+    # 使用追加模式寫入文件
+    with open(output_file, 'a', encoding='utf-8') as f:
+        # 如果是空文件，可以添加一個註釋
+        if not existing_hosts:
+            f.write("# 黑名單文件 - 每個host一行\n")
+        
+        # 寫入新的host
+        for host in new_hosts:
+            f.write(f"{host}\n")
+    
+    print(f"已將 {len(new_hosts)} 個新host追加到黑名單文件: {output_file}")
+    return new_hosts
 
 # 读取文件内容
 def read_txt_file(file_path):
@@ -29,6 +103,11 @@ def read_txt_file(file_path):
 
 # 检测URL是否可访问并记录响应时间
 def check_url(url, timeout=6):
+    # 检查是否在黑名单中
+    if is_in_blacklist(url):
+        print(f"{url} 在黑名单中，跳过检测")
+        return None, False
+    
     start_time = time.time()
     elapsed_time = None
     success = False
@@ -68,7 +147,7 @@ def is_ipv6(url):
 # 处理单行文本并检测URL
 def process_line(line):
     if "#genre#" in line or "://" not in line :
-        return None, None  # 跳过包含“#genre#”的行
+        return None, None  # 跳过包含"#genre#"的行
     parts = line.split(',')
     if len(parts) == 2:
         name, url = parts
@@ -181,11 +260,6 @@ def remove_duplicates_url(lines):
     return newlines
 
 # 处理带$的URL，把$之后的内容都去掉（包括$也去掉） 【2024-08-08 22:29:11】
-#def clean_url(url):
-#    last_dollar_index = url.rfind('$')  # 安全起见找最后一个$处理
-#    if last_dollar_index != -1:
-#        return url[:last_dollar_index]
-#    return url
 def clean_url(lines):
     urls =[]
     newlines=[]
@@ -207,7 +281,7 @@ def split_url(lines):
         if  "#" not in channel_address:
             newlines.append(line)
         elif  "#" in channel_address and "://" in channel_address: 
-            # 如果有“#”号，则根据“#”号分隔
+            # 如果有"#"号，则根据"#"号分隔
             url_list = channel_address.split('#')
             for url in url_list:
                 if "://" in url: 
@@ -232,7 +306,6 @@ def record_host(host):
     # 如果 host 不在字典中，加入并初始化计数为 1
     else:
         blacklist_dict[host] = 1
-
 
 if __name__ == "__main__":
     # 定义要访问的多个URL
@@ -274,9 +347,6 @@ if __name__ == "__main__":
         "https://raw.githubusercontent.com/ZTHA000/tvbox/refs/heads/main/69/5sdhgfds.txt", 
         "https://raw.githubusercontent.com/asiaboke/IPTV/refs/heads/main/xxx/aidou.m3u", 
          "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/live/live.txt", 
-        
-
- 
     ]
     for url in urls:
         print(f"处理URL: {url}")
@@ -286,15 +356,9 @@ if __name__ == "__main__":
     current_dir = os.path.dirname(os.path.abspath(__file__))
     # 获取上一层目录
     parent_dir = os.path.dirname(current_dir)
-    # 获取再上一层目录
-    #parent2_dir = os.path.dirname(parent_dir)
-    # # 获取根目录
-    # root_dir = os.path.abspath(os.sep)  
-
-    #input_file1 = os.path.join(parent_dir, 'live.txt')  # 输入文件路径1
+    
     input_file1 = os.path.join(current_dir, 'live.txt')  # 输入文件路径1
     input_file2 = os.path.join(current_dir, 'blacklist_auto.txt')  # 输入文件路径2
-    #input_file2 = os.path.join(current_dir, 'live_test.txt')  # 输入文件路径2 
     success_file = os.path.join(current_dir, 'whitelist_auto.txt')  # 成功清单文件路径
     success_file_tv = os.path.join(current_dir, 'whitelist_auto_tv.txt')  # 成功清单文件路径（另存一份直接引用源）
     blacklist_file = os.path.join(current_dir, 'blacklist_auto.txt')  # 黑名单文件路径
@@ -345,7 +409,6 @@ if __name__ == "__main__":
                 result.append(",".join(parts[1:]))
         return result
 
-
     # 加时间戳等
     version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
     successlist_tv = ["更新时间,#genre#"] +[version] + ['\n'] +\
@@ -367,7 +430,7 @@ if __name__ == "__main__":
     print(f"黑名单文件已生成: {blacklist_file}")
 
     # 写入history
-    timenow=datetime.now().strftime("%Y%m%d_%H_%M_%S")
+    timenow=datetime.now().strftime("%Y%m")
     history_success_file = f'history/blacklist/{timenow}_whitelist_auto.txt'
     history_blacklist_file = f'history/blacklist/{timenow}_blacklist_auto.txt'
     write_list(history_success_file, successlist)
@@ -400,26 +463,28 @@ if __name__ == "__main__":
     print(f"  urls_ok: {urls_ok} ")
     print(f"  urls_ng: {urls_ng} ")
 
+    # 确保路径存在
+    blackhost_dir = os.path.join(current_dir, "blackhost")
+    os.makedirs(blackhost_dir, exist_ok=True)
 
-# 确保路径存在
-blackhost_dir = os.path.join(current_dir, "blackhost")
-os.makedirs(blackhost_dir, exist_ok=True)
+    # 构造文件名
+    blackhost_filename = os.path.join(
+        blackhost_dir,
+        f"{datetime.now().strftime('%Y%m')}_blackhost_count.txt"
+    )
 
-# 构造文件名
-blackhost_filename = os.path.join(
-    blackhost_dir,
-    f"{datetime.now().strftime('%Y%m%d_%H_%M_%S')}_blackhost_count.txt"
-)
-
-# 将结果保存为 txt 文件 
-def save_blackhost_to_txt(filename=blackhost_filename):
-    with open(filename, "w") as file:
-        for host, count in blacklist_dict.items():
-            file.write(f"{host}失败次数是 {count}\n")
-    print(f"结果已保存到 {filename}")
-
-save_blackhost_to_txt()
-            
-for statistics in url_statistics: #查看各个url的量有多少 2024-08-19
-    print(statistics)
+    # 将结果保存为 txt 文件 
+    def save_blackhost_to_txt(filename=blackhost_filename):
+        with open(filename, "w") as file:
+            for host, count in blacklist_dict.items():
+                file.write(f"{host}失败次数是： {count}\n")
+        print(f"结果已保存到 {filename}")
     
+    save_blackhost_to_txt()
+    
+    # 生成排名靠前30%的host黑名单（寫入到blacklist.txt）
+    blacklist_txt_file = os.path.join(current_dir, "blacklist.txt")
+    generate_top_blacklist(blacklist_dict, blacklist_txt_file, 0.3)
+            
+    for statistics in url_statistics: #查看各个url的量有多少 2024-08-19
+        print(statistics)
