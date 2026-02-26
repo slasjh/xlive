@@ -8,64 +8,41 @@ from datetime import datetime
 fail_output = []
 
 def remove_single_line_comments(json_str):
-
-    # 使用正则表达式匹配并移除以 //  开头单行注释 
-
     cleaned_json_str = re.sub(r'//.*', '', json_str, flags=re.MULTILINE)
-
     return cleaned_json_str
 
+# 新增：移除无效控制字符（保留 \n, \r, \t）
+def remove_control_characters(s):
+    allowed_control = {0x0A, 0x0D, 0x09}  # \n, \r, \t
+    return ''.join(c for c in s if ord(c) >= 0x20 or ord(c) in allowed_control)
 
 def fetch_and_sites_json(url):
-
     try:
-
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "Accept": "application/json, text/plain, */*",
             "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
             "Accept-Encoding": "gzip, deflate, br",
-            "Connection": "keep-alive",
-            # 可以尝试添加 Referer，有时需要
-            # "Referer": "https://your-referer.com/",
         }
-        response = requests.get(url, timeout=10, headers=headers)  # 添加 headers 参数
-        response.raise_for_status()  # 这会检查 HTTP 状态码，403 会在这里抛出异常
-
-        #response.raise_for_status()
+        response = requests.get(url, timeout=10, headers=headers)
+        response.raise_for_status()
 
         try:
-
-            # 尝试直接解析JSON
-
             return response.json()
-
         except json.JSONDecodeError:
-
-            # 如果解析失败，尝试移除注释后重新解析
-
+            # 步骤1: 移除注释
             cleaned_text = remove_single_line_comments(response.text)
-
+            # 步骤2: 移除无效控制字符
+            cleaned_text = remove_control_characters(cleaned_text)
             try:
-
                 return json.loads(cleaned_text)
-
             except json.JSONDecodeError as e:
-
-                # 如果移除注释后仍然无法解析，抛出异常或进行其他处理
-
-                print(f"移除注释后仍然无法解析JSON: {e}")
-
-                raise  # 可以选择重新抛出异常，或者返回None等其他处理方式
-
+                print(f"移除注释和控制字符后仍无法解析JSON: {e}")
+                raise
     except Exception as e:
-
         print(f"此接口 {url} 请求JSON数据失败: {str(e)}")
-
         fail_message = f"此接口 {url} 请求JSON数据失败: {str(e)} \n"
-
         fail_output.append(fail_message)
-
         return None
 
 def extract_sites_urls(json_data, source_url):
