@@ -207,23 +207,24 @@ def create_sorted_tvbox_json(json_urls, all_sites_with_speed, results):
     if not tvbox_json:
         tvbox_json = {
             "spider": "",
+            "wallpaper": "",
             "lives": [],
+            "sites": [],
             "parses": [],
             "flags": [],
-            "ads": [],
-            "wallpaper": ""
+            "ads": []
         }
     
     # 添加排序后的sites
     tvbox_json["sites"] = sorted_sites_data
     
     # 添加生成信息
-    tvbox_json["generated_info"] = {
-        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "source_urls": json_urls,
-        "total_sites": len(sorted_sites_data),
-        "description": "根据测速延迟自动排序的TVBox配置"
-    }
+    #tvbox_json["generated_info"] = {
+    #    "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    #    "source_urls": json_urls,
+    #    "total_sites": len(sorted_sites_data),
+    #    "description": "根据测速延迟自动排序的TVBox配置"
+    #}
     
     # 保存到文件
     current_dir = os.path.dirname(os.path.abspath(__file__))
