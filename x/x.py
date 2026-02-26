@@ -11,10 +11,16 @@ def remove_single_line_comments(json_str):
     cleaned_json_str = re.sub(r'//.*', '', json_str, flags=re.MULTILINE)
     return cleaned_json_str
 
-# 新增：移除无效控制字符（保留 \n, \r, \t）
 def remove_control_characters(s):
+    """移除所有无效控制字符（保留 \n, \r, \t）"""
     allowed_control = {0x0A, 0x0D, 0x09}  # \n, \r, \t
     return ''.join(c for c in s if ord(c) >= 0x20 or ord(c) in allowed_control)
+
+def remove_bom(s):
+    """移除 UTF-8 BOM 字符（\ufeff）"""
+    if s.startswith('\ufeff'):
+        return s[1:]
+    return s
 
 def fetch_and_sites_json(url):
     try:
@@ -27,17 +33,24 @@ def fetch_and_sites_json(url):
         response = requests.get(url, timeout=10, headers=headers)
         response.raise_for_status()
 
+        # 关键修复：先移除 BOM
+        text = response.text
+        text = remove_bom(text)
+        
         try:
             return response.json()
         except json.JSONDecodeError:
-            # 步骤1: 移除注释
-            cleaned_text = remove_single_line_comments(response.text)
-            # 步骤2: 移除无效控制字符
+            # 移除注释 + 控制字符
+            cleaned_text = remove_single_line_comments(text)
             cleaned_text = remove_control_characters(cleaned_text)
+            
             try:
                 return json.loads(cleaned_text)
             except json.JSONDecodeError as e:
-                print(f"移除注释和控制字符后仍无法解析JSON: {e}")
+                # 保存调试文件（用于检查问题）
+                with open('debug_cleaned.json', 'w', encoding='utf-8') as f:
+                    f.write(cleaned_text)
+                print(f"JSON 解析失败，清理后的文本已保存到 debug_cleaned.json。错误: {e}")
                 raise
     except Exception as e:
         print(f"此接口 {url} 请求JSON数据失败: {str(e)}")
@@ -64,8 +77,7 @@ def speed_test(url, test_times=3):
     
     for _ in range(test_times):
         try:
-            # 构造测试URL（附加测试视频地址）
-            test_url = url 
+            test_url = url
             start = time.time()
             response = requests.head(
                 test_url, 
@@ -79,11 +91,10 @@ def speed_test(url, test_times=3):
                 success_count += 1
         except Exception as e:
             print(f"测速失败 {url}: {str(e)}")
-            fail_message = f"测速失败 {url}: {str(e)}\n"  # 添加换行符以便每行一个错误信息
-            fail_output.append(fail_message)  # 将错误信息添加到列表中
+            fail_message = f"测速失败 {url}: {str(e)}\n"
+            fail_output.append(fail_message)
     
     if success_count == 0:
-
         return None
     
     return {
@@ -94,10 +105,8 @@ def speed_test(url, test_times=3):
 
 def main():
     json_urls = [
-        #"https://raw.githubusercontent.com/slasjh/18/refs/heads/main/XX/xingfu.json",
         "http://116.62.139.149:3000/slasjh/xingfu/raw/branch/main/xingfu.json",
         "http://545211.xyz:888/xingfu.json",
-        # 可以添加更多JSON URL
     ]
 
     sites_urls = []
@@ -118,7 +127,7 @@ def main():
         print(f"正在测试 {url}（来自 {source_url}）...")
         result = speed_test(url)
         if result:
-            result["source"] = source_url  # 记录来源
+            result["source"] = source_url
             results.append(result)
 
     # 准备写入文件的内容
@@ -133,26 +142,20 @@ def main():
         output_lines.append(f"{idx}. {res['url']}（来自 {res['source']}）\n")
         output_lines.append(f"  平均延迟: {res['avg_latency']}ms | 成功率: {res['success_rate']}%\n")
         output_lines.append("-" * 50 + "\n")
-       # 获取当前脚本所在的目录
+    
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    # 获取上一层目录
-    parent_dir = os.path.dirname(current_dir)
-    # 获取再上一层目录
-    #parent2_dir = os.path.dirname(parent_dir)
-    # # 获取根目录
-    # root_dir = os.path.abspath(os.sep)  
-
-    x_results = os.path.join(current_dir, 'x_results.txt')  # 输入文件路径1
-    fail_result = os.path.join(current_dir, f"{datetime.now().strftime('%Y%m%d_%H_%M_%S')}_fail_result.txt.txt")  # 输入文件路径1
+    x_results = os.path.join(current_dir, 'x_results.txt')
+    fail_result = os.path.join(current_dir, f"{datetime.now().strftime('%Y%m%d_%H_%M_%S')}_fail_result.txt")
+    
     with open(x_results, "w", encoding="utf-8") as f:
         f.writelines(output_lines)
-  
-    print("测速结果已保存到 x_results.txt文件中。")
-    # 如果所有测试都失败了，可以选择在这里写入文件或返回None
-    with open(fail_result, "a", encoding="utf-8") as f:
+    
+    print("测速结果已保存到 x_results.txt 文件中。")
+    
+    if fail_output:
+        with open(fail_result, "a", encoding="utf-8") as f:
             f.writelines(fail_output)
-    print("fail结果已保存到 fail_result.txt文件中。")
+        print(f"fail结果已保存到 {fail_result} 文件中。")
 
 if __name__ == "__main__":
     main()
-
