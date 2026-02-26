@@ -70,7 +70,7 @@ def extract_sites_urls(json_data, source_url):
                 urls.append({"source": source_url, "url": url, "site_data": site})
     return urls
 
-def is_in_blacklist(url, blacklist_file='blacklist.txt'):
+def is_in_blacklist(url, blacklist_file):
     """检查URL的host是否在黑名单中"""
     try:
         # 解析URL获取host部分
@@ -92,7 +92,7 @@ def is_in_blacklist(url, blacklist_file='blacklist.txt'):
         pass
     return False
 
-def add_to_blacklist(url, blacklist_file='blacklist.txt'):
+def add_to_blacklist(url, blacklist_file):
     """将URL的host添加到黑名单"""
     try:
         parsed_url = urlparse(url)
@@ -112,7 +112,7 @@ def add_to_blacklist(url, blacklist_file='blacklist.txt'):
 
 def speed_test(url, test_times=3):
     # 检查是否在黑名单中
-    if is_in_blacklist(url):
+    if is_in_blacklist(url, blacklist_file):
         print(f"跳过黑名单中的URL: {url}")
         return None
     
@@ -276,7 +276,9 @@ def main():
     print(f"找到 {len(sites_urls)} 个解析地址")
 
     # 创建黑名单文件（如果不存在）
-    blacklist_file = 'blacklist.txt'
+    #blacklist_file = 'blacklist.txt'
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    blacklist_file = os.path.join(current_dir, 'blacklist.txt')
     if not os.path.exists(blacklist_file):
         with open(blacklist_file, 'w', encoding='utf-8') as f:
             f.write("# URL黑名单文件，每行一个host（如：example.com）\n")
