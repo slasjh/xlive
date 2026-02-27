@@ -1421,46 +1421,10 @@
       "filterable": 0
     },
     {
-      "key": "92free",
-      "name": "久爱",
+      "key": "91md.me",
+      "name": "成人05",
       "type": 1,
-      "api": "http://92free.icu/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "水蜜桃",
-      "name": "🥈水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tianmei",
-      "name": "天美①",
-      "type": 1,
-      "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tmyy",
-      "name": "天美②",
-      "type": 1,
-      "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "apilj.com",
-      "name": "成人03",
-      "type": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -1469,10 +1433,22 @@
       }
     },
     {
-      "key": "apilj.com",
-      "name": "成人01",
+      "key": "91md.me",
+      "name": "成人03",
       "type": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "91md.me",
+      "name": "🈶成人05",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -1529,28 +1505,19 @@
       }
     },
     {
-      "key": "apiddapi",
-      "name": "滴滴",
+      "key": "tmyy",
+      "name": "天美②",
       "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+      "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "环亚",
-      "name": "🥇环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "tmav",
-      "name": "美亚",
+      "key": "apiddapi",
+      "name": "滴滴",
       "type": 1,
-      "api": "https://tmav.art/api.php/provide/vod/at/json",
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1565,106 +1532,128 @@
       "filterable": 1
     },
     {
-      "key": "*环亚资源",
-      "name": "*🔞环亚资源",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0
+      "key": "92free",
+      "name": "久爱",
+      "type": 1,
+      "api": "http://92free.icu/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "❤环亚资源",
-      "name": "❤环亚资源",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤环亚资源",
-      "name": "❤环亚资源",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "大地",
-      "name": "🥇大地",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
+      "key": "水蜜桃",
+      "name": "🥈水蜜桃",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "*大地资源",
-      "name": "*🔞大地资源",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
+      "key": "apilj.com",
+      "name": "成人03",
+      "type": 1,
+      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "apilj.com",
+      "name": "成人01",
+      "type": 1,
+      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "tianmei",
+      "name": "天美①",
+      "type": 1,
+      "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "*91麻豆",
+      "name": "*🔞91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "*大地资源",
-      "name": "🏆大地资源",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
+      "key": "❤91麻豆",
+      "name": "❤91麻豆源",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
-      "key": "大地专场",
-      "name": "🚸大地采集",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
+      "key": "❤91麻豆",
+      "name": "❤91麻豆源",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "tmav",
+      "name": "美亚",
+      "type": 1,
+      "api": "https://tmav.art/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "色猫",
+      "name": "🚸色猫采集",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "日韩无码",
-        "强奸乱伦",
-        "欧美精品",
-        "国产精品",
-        "人妻系列",
+        "国产自拍",
+        "日本无码",
+        "日本有码",
         "中文字幕",
-        "动漫精品",
-        "伦理影片",
-        "日韩精品",
+        "欧美精品",
+        "成人动漫",
+        "日本素人",
+        "高清名优",
+        "三级伦理",
+        "网红主播",
+        "映画传媒",
+        "人妻熟女",
+        "口爆颜射",
+        "萝莉少女",
+        "SM调教",
+        "美乳巨乳",
+        "短视频",
         "制服诱惑",
-        "自拍偷拍",
-        "AV明星",
-        "3P合辑",
-        "巨乳系列",
-        "颜射系列",
-        "口交视频",
-        "自慰系列",
-        "SM重味",
-        "教师学生",
-        "大秀视频",
-        "AV明星1"
+        "女同性爱",
+        "AI换脸",
+        "多人群交",
+        "翹臀美尻",
+        "丝袜美腿",
+        "精选独家",
+        "貧乳小奶",
+        "探花系列"
       ]
-    },
-    {
-      "key": "❤大地资源",
-      "name": "❤大地资源",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤大地资源",
-      "name": "❤大地资源",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "secj8.com",
@@ -1732,44 +1721,6 @@
       "filterable": 0
     },
     {
-      "key": "色猫",
-      "name": "🚸色猫采集",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产自拍",
-        "日本无码",
-        "日本有码",
-        "中文字幕",
-        "欧美精品",
-        "成人动漫",
-        "日本素人",
-        "高清名优",
-        "三级伦理",
-        "网红主播",
-        "映画传媒",
-        "人妻熟女",
-        "口爆颜射",
-        "萝莉少女",
-        "SM调教",
-        "美乳巨乳",
-        "短视频",
-        "制服诱惑",
-        "女同性爱",
-        "AI换脸",
-        "多人群交",
-        "翹臀美尻",
-        "丝袜美腿",
-        "精选独家",
-        "貧乳小奶",
-        "探花系列"
-      ]
-    },
-    {
       "key": "semao",
       "name": "色猫",
       "type": 1,
@@ -1777,6 +1728,30 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "madouse.la",
+      "name": "成人27",
+      "type": 1,
+      "api": "http://madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "madouse.la",
+      "name": "成人13",
+      "type": 1,
+      "api": "http://madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
     },
     {
       "key": "shayuapi",
@@ -1831,44 +1806,6 @@
       "filterable": 0
     },
     {
-      "key": "*91麻豆",
-      "name": "*🔞91麻豆",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "❤91麻豆",
-      "name": "❤91麻豆源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤91麻豆",
-      "name": "❤91麻豆源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "玉兔资源",
-      "name": "玉兔资源",
-      "type": 0,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "quickSearch": 1
-    },
-    {
       "key": "91md",
       "name": "*🔞九一线",
       "type": 1,
@@ -1888,146 +1825,48 @@
       "filterable": 1
     },
     {
-      "key": "lbapi9.com",
-      "name": "成人43",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "lbapi9.com",
-      "name": "成人26",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "老鸭2",
-      "name": "*🔞老鸭2",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
+      "key": "环亚",
+      "name": "🥇环亚",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "*乐播资源",
-      "name": "*🔞乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "key": "大地",
+      "name": "🥇大地",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "*环亚资源",
+      "name": "*🔞环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "❤乐播资源",
-      "name": "❤乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "乐播",
-      "name": "️乐播采集",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "亚洲情色",
-        "国产主播",
-        "国产自拍",
-        "无码专区",
-        "欧美性爱",
-        "熟女人妻",
-        "强奸乱伦",
-        "巨乳美乳",
-        "中文字幕",
-        "制服诱惑",
-        "女同性恋",
-        "卡通动画",
-        "视频伦理",
-        "少女萝莉",
-        "重口色情",
-        "人兽性交"
-      ]
-    },
-    {
-      "key": "❤乐播资源",
-      "name": "❤乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "91md.me",
-      "name": "成人05",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "91md.me",
-      "name": "成人03",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "91md.me",
-      "name": "🈶成人05",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "lebo",
-      "name": "🥇乐播",
+      "key": "❤环亚资源",
+      "name": "❤环亚资源",
       "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "chujia",
-      "name": "精东",
-      "type": 1,
-      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key": "❤环亚资源",
+      "name": "❤环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "kxgav.com",
@@ -2105,130 +1944,6 @@
       "name": "🥇白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "玉兔专场",
-      "name": "🚸玉兔采集",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "精品推荐",
-        "国产精品",
-        "主播秀色",
-        "日本有码",
-        "日本无码",
-        "中文字幕",
-        "童颜巨乳",
-        "性感人妻",
-        "强奸乱伦",
-        "欧美情色",
-        "童真萝莉",
-        "三级伦理",
-        "卡通动漫",
-        "丝袜OL",
-        "口爆颜射",
-        "自拍偷拍",
-        "日本片商",
-        "Cosplay",
-        "素人自拍",
-        "台湾色情",
-        "韩国自拍",
-        "性感港姐",
-        "东南亚情色",
-        "凌辱束缚",
-        "剧情介绍",
-        "多P 3P",
-        "91系列",
-        "网红系列",
-        "野外系列",
-        "女仆系列",
-        "学生中出",
-        "性感旗袍",
-        "兽耳作品",
-        "瑜伽裤",
-        "骚货护士",
-        "及膝袜",
-        "网曝系列",
-        "麻豆传媒",
-        "女同人妖",
-        "恋腿癖"
-      ]
-    },
-    {
-      "key": "madouse.la",
-      "name": "成人27",
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "madouse.la",
-      "name": "成人13",
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "mgzyz1.com",
-      "name": "成人36",
-      "type": 1,
-      "api": "https://mgzyz1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "*芒果资源",
-      "name": "*🔞芒果资源",
-      "type": 1,
-      "api": "https://mgzyz1.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "芒果",
-      "name": "🥇芒果",
-      "type": 0,
-      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "芒果",
-      "name": "🥇芒果",
-      "type": 0,
-      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
-      "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "apiyutu",
-      "name": "玉兔",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2324,19 +2039,89 @@
       "filterable": 1
     },
     {
-      "key": "lbapi9",
-      "name": "乐播",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key": "*大地资源",
+      "name": "*🔞大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
-      "key": "fhapi9.com",
-      "name": "成人12",
+      "key": "*大地资源",
+      "name": "🏆大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "大地专场",
+      "name": "🚸大地采集",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "日韩无码",
+        "强奸乱伦",
+        "欧美精品",
+        "国产精品",
+        "人妻系列",
+        "中文字幕",
+        "动漫精品",
+        "伦理影片",
+        "日韩精品",
+        "制服诱惑",
+        "自拍偷拍",
+        "AV明星",
+        "3P合辑",
+        "巨乳系列",
+        "颜射系列",
+        "口交视频",
+        "自慰系列",
+        "SM重味",
+        "教师学生",
+        "大秀视频",
+        "AV明星1"
+      ]
+    },
+    {
+      "key": "❤大地资源",
+      "name": "❤大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "❤大地资源",
+      "name": "❤大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "玉兔资源",
+      "name": "玉兔资源",
+      "type": 0,
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "quickSearch": 1
+    },
+    {
+      "key": "lbapi9.com",
+      "name": "成人43",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -2345,58 +2130,187 @@
       }
     },
     {
-      "key": "*番号资源",
-      "name": "*🔞番号资源",
+      "key": "lbapi9.com",
+      "name": "成人26",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "老鸭2",
+      "name": "*🔞老鸭2",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*乐播资源",
+      "name": "*🔞乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
     {
-      "key": "❤番号资源",
-      "name": "❤番号资源",
+      "key": "❤乐播资源",
+      "name": "❤乐播资源",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "番外",
-      "name": "番外采集",
+      "key": "乐播",
+      "name": "️乐播采集",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "群交淫乱",
-        "偷拍自拍",
-        "制服丝袜",
-        "无码专区",
-        "卡通动漫",
-        "中文字幕",
-        "欧美性爱",
-        "巨乳美乳",
-        "国产裸聊",
+        "亚洲情色",
+        "国产主播",
         "国产自拍",
-        "国产盗摄",
-        "伦理三级",
+        "无码专区",
+        "欧美性爱",
+        "熟女人妻",
+        "强奸乱伦",
+        "巨乳美乳",
+        "中文字幕",
+        "制服诱惑",
         "女同性恋",
+        "卡通动画",
+        "视频伦理",
         "少女萝莉",
-        "人妖系列",
-        "虚拟VR"
+        "重口色情",
+        "人兽性交"
       ]
     },
     {
-      "key": "❤番号资源",
-      "name": "❤番号资源",
+      "key": "❤乐播资源",
+      "name": "❤乐播资源",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "apilsbzy1",
+      "name": "色逼",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "芒果",
+      "name": "🥇芒果",
+      "type": 0,
+      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "芒果",
+      "name": "🥇芒果",
+      "type": 0,
+      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lebo",
+      "name": "🥇乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "chujia",
+      "name": "精东",
+      "type": 1,
+      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apiyutu",
+      "name": "玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "玉兔专场",
+      "name": "🚸玉兔采集",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "精品推荐",
+        "国产精品",
+        "主播秀色",
+        "日本有码",
+        "日本无码",
+        "中文字幕",
+        "童颜巨乳",
+        "性感人妻",
+        "强奸乱伦",
+        "欧美情色",
+        "童真萝莉",
+        "三级伦理",
+        "卡通动漫",
+        "丝袜OL",
+        "口爆颜射",
+        "自拍偷拍",
+        "日本片商",
+        "Cosplay",
+        "素人自拍",
+        "台湾色情",
+        "韩国自拍",
+        "性感港姐",
+        "东南亚情色",
+        "凌辱束缚",
+        "剧情介绍",
+        "多P 3P",
+        "91系列",
+        "网红系列",
+        "野外系列",
+        "女仆系列",
+        "学生中出",
+        "性感旗袍",
+        "兽耳作品",
+        "瑜伽裤",
+        "骚货护士",
+        "及膝袜",
+        "网曝系列",
+        "麻豆传媒",
+        "女同人妖",
+        "恋腿癖"
+      ]
     },
     {
       "key": "gdlsp.com",
@@ -2479,22 +2393,24 @@
       "filterable": 1
     },
     {
-      "key": "apilsbzy1",
-      "name": "色逼",
+      "key": "mgzyz1.com",
+      "name": "成人36",
       "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/at/json",
+      "api": "https://mgzyz1.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
     },
     {
-      "key": "番号",
-      "name": "🥇番号",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "key": "*芒果资源",
+      "name": "*🔞芒果资源",
+      "type": 1,
+      "api": "https://mgzyz1.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "xrbsp.com",
@@ -2577,6 +2493,72 @@
       "filterable": 1
     },
     {
+      "key": "fhapi9.com",
+      "name": "成人12",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "*番号资源",
+      "name": "*🔞番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "❤番号资源",
+      "name": "❤番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "番外",
+      "name": "番外采集",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "群交淫乱",
+        "偷拍自拍",
+        "制服丝袜",
+        "无码专区",
+        "卡通动漫",
+        "中文字幕",
+        "欧美性爱",
+        "巨乳美乳",
+        "国产裸聊",
+        "国产自拍",
+        "国产盗摄",
+        "伦理三级",
+        "女同性恋",
+        "少女萝莉",
+        "人妖系列",
+        "虚拟VR"
+      ]
+    },
+    {
+      "key": "❤番号资源",
+      "name": "❤番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "fhapi9",
       "name": "番号",
       "type": 1,
@@ -2584,6 +2566,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "lbapi9",
+      "name": "乐播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "番号",
+      "name": "🥇番号",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "kkzy.me",
@@ -2639,15 +2639,6 @@
       "filterable": 0
     },
     {
-      "key": "kkzy",
-      "name": "写真",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lbapiby.com",
       "name": "成人25",
       "type": 0,
@@ -2687,6 +2678,15 @@
       "filterable": 0
     },
     {
+      "key": "kkzy",
+      "name": "写真",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "aosikazy",
       "name": "奥斯",
       "type": 1,
@@ -2696,17 +2696,17 @@
       "filterable": 1
     },
     {
-      "key": "奥斯卡资源网",
-      "name": "奥斯卡资源网",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/"
-    },
-    {
       "key": "drpy_js_ikanbot3",
       "name": "📛TH┃爱看影视",
       "type": 3,
       "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/ikanbot3.js"
+    },
+    {
+      "key": "奥斯卡资源网",
+      "name": "奥斯卡资源网",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/"
     },
     {
       "key": "apilyzy",
