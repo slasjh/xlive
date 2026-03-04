@@ -459,311 +459,311 @@
 
 测速结果（按延迟排序）：
 1. 成人13(madouse.la): http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 115.35ms | 成功率: 100.0%
+  平均延迟: 98.65ms | 成功率: 100.0%
 --------------------------------------------------
-2. 🔞鸡坤资源(鸡坤资源): https://jkunzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 118.07ms | 成功率: 100.0%
+2. 滴滴(apiddapi): https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 140.92ms | 成功率: 100.0%
 --------------------------------------------------
-3. 成人03(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 147.66ms | 成功率: 100.0%
+3. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 142.56ms | 成功率: 100.0%
 --------------------------------------------------
 4. 🥈水蜜桃(水蜜桃): http://51smt4.xyz/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 157.27ms | 成功率: 100.0%
+  平均延迟: 146.47ms | 成功率: 100.0%
 --------------------------------------------------
-5. 滴滴(apiddapi): https://api.ddapi.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 166.57ms | 成功率: 100.0%
+5. ❤91麻豆源(❤91麻豆): https://91md.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 148.36ms | 成功率: 100.0%
 --------------------------------------------------
-6. 🈶成人05(91md.me): http://91md.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 175.54ms | 成功率: 100.0%
+6. 🥇色色(色色): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 151.27ms | 成功率: 100.0%
 --------------------------------------------------
-7. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 180.05ms | 成功率: 100.0%
+7. 🈶成人01(dadiapi1.com): http://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 153.32ms | 成功率: 100.0%
 --------------------------------------------------
-8. 久爱(92free): http://92free.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 185.97ms | 成功率: 100.0%
+8. 🚸成人one(dadiapi.com): http://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 154.41ms | 成功率: 100.0%
 --------------------------------------------------
-9. 果冻(madouse): http://madouse.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 193.3ms | 成功率: 100.0%
+9. 天美①(tianmei): http://www.tianmei.pw/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 157.79ms | 成功率: 100.0%
 --------------------------------------------------
-10. ❤91麻豆源(❤91麻豆): https://91md.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 195.9ms | 成功率: 100.0%
+10. 久爱(92free): http://92free.icu/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 159.27ms | 成功率: 100.0%
 --------------------------------------------------
-11. 成人03(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 203.74ms | 成功率: 100.0%
+11. 成人01(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 164.43ms | 成功率: 100.0%
 --------------------------------------------------
-12. 成人01(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 206.54ms | 成功率: 100.0%
+12. ❤色色资源(❤色色资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 174.62ms | 成功率: 100.0%
 --------------------------------------------------
-13. 成人02(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 209.32ms | 成功率: 100.0%
+13. *🔞SS资源((18+)SS资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 174.93ms | 成功率: 100.0%
 --------------------------------------------------
-14. 天美①(tianmei): http://www.tianmei.pw/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 214.55ms | 成功率: 100.0%
+14. 成人03(apilj.com): http://apilj.com/api.php/provide/vod/at/json/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 176.8ms | 成功率: 100.0%
 --------------------------------------------------
-15. 成人05(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 214.84ms | 成功率: 100.0%
+15. 🈶成人05(91md.me): http://91md.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 178.39ms | 成功率: 100.0%
 --------------------------------------------------
-16. ❤91麻豆源(❤91麻豆): https://91md.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 215.33ms | 成功率: 100.0%
+16. ❤色色资源(❤色色资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 180.74ms | 成功率: 100.0%
 --------------------------------------------------
-17. 🥇环亚(环亚): http://wmcj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 219.57ms | 成功率: 100.0%
+17. 🥇色鸡巴(色鸡巴): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 185.78ms | 成功率: 100.0%
 --------------------------------------------------
-18. 天美②(tmyy): https://tmyy.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 222.95ms | 成功率: 100.0%
+18. 成人02(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 188.28ms | 成功率: 100.0%
 --------------------------------------------------
-19. 美亚(tmav): https://tmav.art/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 223.19ms | 成功率: 100.0%
+19. 成人01(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 191.44ms | 成功率: 100.0%
 --------------------------------------------------
-20. 🈶成人01(dadiapi1.com): http://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 227.07ms | 成功率: 100.0%
+20. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 193.02ms | 成功率: 100.0%
 --------------------------------------------------
-21. 🚸成人one(dadiapi.com): http://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 227.5ms | 成功率: 100.0%
+21. 天美②(tmyy): https://tmyy.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 193.07ms | 成功率: 100.0%
 --------------------------------------------------
-22. 🥇色鸡巴(色鸡巴): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 231.79ms | 成功率: 100.0%
+22. 成人03(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 205.21ms | 成功率: 100.0%
 --------------------------------------------------
-23. 成人01(dadiapi.com): http://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 233.53ms | 成功率: 100.0%
+23. 果冻(madouse): http://madouse.cc/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 217.26ms | 成功率: 100.0%
 --------------------------------------------------
-24. 🥇色色(色色): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 237.9ms | 成功率: 100.0%
+24. ❤91麻豆源(❤91麻豆): https://91md.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 217.5ms | 成功率: 100.0%
 --------------------------------------------------
-25. *🔞91麻豆(*91麻豆): https://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 238.32ms | 成功率: 100.0%
+25. 成人05(91md.me): http://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 224.38ms | 成功率: 100.0%
 --------------------------------------------------
-26. 🥇大地(大地): https://dadiapi.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 252.49ms | 成功率: 100.0%
+26. 🚸大地采集(大地专场): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 229.92ms | 成功率: 100.0%
 --------------------------------------------------
-27. 🥈91md(91md): https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 265.64ms | 成功率: 100.0%
+27. 🥇大地(大地): https://dadiapi.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 234.14ms | 成功率: 100.0%
 --------------------------------------------------
-28. 🚸色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 272.08ms | 成功率: 100.0%
+28. 🥇环亚(环亚): http://wmcj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 236.44ms | 成功率: 100.0%
 --------------------------------------------------
-29. ❤白嫖资源(❤白嫖资源): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 272.78ms | 成功率: 100.0%
+29. ❤大地资源(❤大地资源): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 244.62ms | 成功率: 100.0%
 --------------------------------------------------
-30. 色猫(semao): https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 274.6ms | 成功率: 100.0%
+30. 🔞鸡坤资源(鸡坤资源): https://jkunzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 245.22ms | 成功率: 100.0%
 --------------------------------------------------
-31. *🔞九一线(91md): https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 274.67ms | 成功率: 100.0%
+31. ❤大地资源(❤大地资源): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 251.93ms | 成功率: 100.0%
 --------------------------------------------------
-32. ❤大地资源(❤大地资源): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 281.02ms | 成功率: 100.0%
+32. *🔞色色资源(*色色资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 255.85ms | 成功率: 100.0%
 --------------------------------------------------
-33. *🔞色色资源(*色色资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 282.17ms | 成功率: 100.0%
+33. ❤鲨鱼资源(❤鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 257.22ms | 成功率: 100.0%
 --------------------------------------------------
-34. 🈴白嫖资源(*白嫖资源): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 284.65ms | 成功率: 100.0%
+34. *🔞九一线(91md): https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 258.12ms | 成功率: 100.0%
 --------------------------------------------------
-35. 🥈鲨鱼(鲨鱼): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 286.32ms | 成功率: 100.0%
+35. 玉兔资源(玉兔资源): https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 260.46ms | 成功率: 100.0%
 --------------------------------------------------
-36. ❤鲨鱼资源(❤鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 287.21ms | 成功率: 100.0%
+36. *🔞91麻豆(*91麻豆): https://91md.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 260.79ms | 成功率: 100.0%
 --------------------------------------------------
-37. 🔞鲨鱼资源(*鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 287.69ms | 成功率: 100.0%
+37. ❤鲨鱼资源(❤鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 263.01ms | 成功率: 100.0%
 --------------------------------------------------
-38. 🚸大地采集(大地专场): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 287.73ms | 成功率: 100.0%
+38. *🔞大地资源(*大地资源): https://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 263.14ms | 成功率: 100.0%
 --------------------------------------------------
-39. 🚸玉兔采集(玉兔专场): https://apiyutu.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 289.53ms | 成功率: 100.0%
+39. 🥇乐播(lebo): https://lbapi9.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 264.31ms | 成功率: 100.0%
 --------------------------------------------------
-40. ❤香奶儿资源(❤香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 290.17ms | 成功率: 100.0%
+40. 🥈鲨鱼(鲨鱼): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 268.08ms | 成功率: 100.0%
 --------------------------------------------------
-41. ❤大地资源(❤大地资源): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 291.31ms | 成功率: 100.0%
+41. *🔞芒果资源(*芒果资源): https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 271.97ms | 成功率: 100.0%
 --------------------------------------------------
-42. *🔞鲨鱼资源(*鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 292.54ms | 成功率: 100.0%
+42. 🏆大地资源(*大地资源): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 272.44ms | 成功率: 100.0%
 --------------------------------------------------
-43. ❤乐播资源(❤乐播资源): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 294.17ms | 成功率: 100.0%
+43. 🥇芒果(芒果): https://mgzyz1.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 273.81ms | 成功率: 100.0%
 --------------------------------------------------
-44. 成人26(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 295.11ms | 成功率: 100.0%
+44. 🈴白嫖资源(*白嫖资源): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 278.47ms | 成功率: 100.0%
 --------------------------------------------------
-45. 🏆大地资源(*大地资源): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 297.94ms | 成功率: 100.0%
+45. *🔞鲨鱼资源(*鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 278.66ms | 成功率: 100.0%
 --------------------------------------------------
-46. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 298.14ms | 成功率: 100.0%
+46. 🚸色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 283.79ms | 成功率: 100.0%
 --------------------------------------------------
-47. 🈴香奶儿(*香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 300.31ms | 成功率: 100.0%
+47. 🚸玉兔采集(玉兔专场): https://apiyutu.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 290.4ms | 成功率: 100.0%
 --------------------------------------------------
-48. *🔞大地资源(*大地资源): https://dadiapi.com/api.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 300.38ms | 成功率: 100.0%
+48. 🥇香奶儿(香奶儿): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 291.77ms | 成功率: 100.0%
 --------------------------------------------------
-49. *🔞环亚资源(*环亚资源): http://wmcj8.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 304.51ms | 成功率: 100.0%
+49. ️乐播采集(乐播): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json）
+  平均延迟: 294.86ms | 成功率: 100.0%
 --------------------------------------------------
-50. 鲨鱼(shayuapi): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 305.71ms | 成功率: 100.0%
+50. *🔞乐播资源(*乐播资源): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 297.24ms | 成功率: 100.0%
 --------------------------------------------------
-51. ️乐播采集(乐播): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json）
-  平均延迟: 308.38ms | 成功率: 100.0%
+51. 🈶成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 299.46ms | 成功率: 100.0%
 --------------------------------------------------
-52. *🔞芒果资源(*芒果资源): https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 310.95ms | 成功率: 100.0%
+52. 成人43(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 302.14ms | 成功率: 100.0%
 --------------------------------------------------
-53. 🥇乐播(lebo): https://lbapi9.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 312.06ms | 成功率: 100.0%
+53. *🔞环亚资源(*环亚资源): http://wmcj8.com/inc/sapi.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 303.43ms | 成功率: 100.0%
 --------------------------------------------------
-54. *🔞乐播资源(*乐播资源): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 313.49ms | 成功率: 100.0%
+54. ❤香奶儿资源(❤香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 304.01ms | 成功率: 100.0%
 --------------------------------------------------
-55. ❤色色资源(❤色色资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 317.32ms | 成功率: 100.0%
+55. *🔞老鸭2(老鸭2): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 305.64ms | 成功率: 100.0%
 --------------------------------------------------
-56. *🔞香奶儿资源(*香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 318.82ms | 成功率: 100.0%
+56. 色猫(semao): https://caiji.semaozy.net/inc/apijson_vod.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 305.66ms | 成功率: 100.0%
 --------------------------------------------------
-57. ❤鲨鱼资源(❤鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 320.41ms | 成功率: 100.0%
+57. 🥇芒果(芒果): https://mgzyz1.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 306.1ms | 成功率: 100.0%
 --------------------------------------------------
-58. ❤乐播资源(❤乐播资源): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 320.48ms | 成功率: 100.0%
+58. ❤乐播资源(❤乐播资源): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 309.74ms | 成功率: 100.0%
 --------------------------------------------------
-59. 玉兔资源(玉兔资源): https://apiyutu.com/api.php/provide/vod/at/xml/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 323.89ms | 成功率: 100.0%
+59. *🔞白嫖资源(*白嫖资源): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 314.95ms | 成功率: 100.0%
 --------------------------------------------------
-60. *🔞老鸭2(老鸭2): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 325.4ms | 成功率: 100.0%
+60. 🈴香奶儿(*香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 315.06ms | 成功率: 100.0%
 --------------------------------------------------
-61. 精东(chujia): http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 325.71ms | 成功率: 100.0%
+61. 鲨鱼(shayuapi): https://shayuapi.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 317.03ms | 成功率: 100.0%
 --------------------------------------------------
-62. 玉兔(apiyutu): https://apiyutu.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 327.62ms | 成功率: 100.0%
+62. ❤白嫖资源(❤白嫖资源): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 317.74ms | 成功率: 100.0%
 --------------------------------------------------
-63. 乐播(lbapi9): https://lbapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 327.79ms | 成功率: 100.0%
+63. 成人19(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 317.78ms | 成功率: 100.0%
 --------------------------------------------------
-64. 成人43(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 328.48ms | 成功率: 100.0%
+64. 成人27(madouse.la): http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 317.83ms | 成功率: 100.0%
 --------------------------------------------------
-65. 成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 342.34ms | 成功率: 100.0%
+65. 玉兔(apiyutu): https://apiyutu.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 319.07ms | 成功率: 100.0%
 --------------------------------------------------
-66. 🥇芒果(芒果): https://mgzyz1.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 352.76ms | 成功率: 100.0%
+66. 成人26(lbapi9.com): https://lbapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 320.29ms | 成功率: 100.0%
 --------------------------------------------------
-67. *🔞SS资源((18+)SS资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 353.7ms | 成功率: 100.0%
+67. ❤乐播资源(❤乐播资源): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 321.92ms | 成功率: 100.0%
 --------------------------------------------------
-68. 🥇香奶儿(香奶儿): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 356.57ms | 成功率: 100.0%
+68. 🥈91md(91md): https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 332.52ms | 成功率: 100.0%
 --------------------------------------------------
-69. 成人27(madouse.la): http://madouse.la/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 359.03ms | 成功率: 100.0%
+69. 🔞鲨鱼资源(*鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 335.55ms | 成功率: 100.0%
 --------------------------------------------------
 70. 成人36(mgzyz1.com): https://mgzyz1.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 362.57ms | 成功率: 100.0%
+  平均延迟: 336.59ms | 成功率: 100.0%
 --------------------------------------------------
-71. 🈶成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 372.43ms | 成功率: 100.0%
+71. 乐播(lbapi9): https://lbapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 375.38ms | 成功率: 100.0%
 --------------------------------------------------
-72. ❤色色资源(❤色色资源): http://secj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 386.33ms | 成功率: 100.0%
+72. 色逼(apilsbzy1): https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 385.47ms | 成功率: 100.0%
 --------------------------------------------------
-73. 🥇芒果(芒果): https://mgzyz1.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 396.45ms | 成功率: 100.0%
+73. 🈶成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 389.7ms | 成功率: 100.0%
 --------------------------------------------------
-74. 色逼(apilsbzy1): https://apilsbzy1.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 400.73ms | 成功率: 100.0%
+74. 成人17(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 434.07ms | 成功率: 100.0%
 --------------------------------------------------
-75. ❤白嫖资源(❤白嫖资源): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 407.97ms | 成功率: 100.0%
+75. ❤香奶儿资源(❤香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 434.43ms | 成功率: 100.0%
 --------------------------------------------------
-76. 成人17(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 426.56ms | 成功率: 100.0%
+76. 成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 439.95ms | 成功率: 100.0%
 --------------------------------------------------
 77. 🥇白嫖(白嫖): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 447.85ms | 成功率: 100.0%
+  平均延迟: 441.93ms | 成功率: 100.0%
 --------------------------------------------------
-78. 成人04(secj8.com): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 456.41ms | 成功率: 100.0%
+78. ❤白嫖资源(❤白嫖资源): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 447.35ms | 成功率: 100.0%
 --------------------------------------------------
-79. ❤香奶儿资源(❤香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 459.13ms | 成功率: 100.0%
+79. *🔞香奶儿资源(*香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 448.45ms | 成功率: 100.0%
 --------------------------------------------------
-80. 成人19(kxgav.com): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 475.21ms | 成功率: 100.0%
+80. 精东(chujia): http://chujia.cc/api.php/provide/vod/from/m3u8/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 468.7ms | 成功率: 100.0%
 --------------------------------------------------
-81. *🔞白嫖资源(*白嫖资源): https://www.kxgav.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 481.24ms | 成功率: 100.0%
+81. ❤番号资源(❤番号资源): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 516.73ms | 成功率: 100.0%
 --------------------------------------------------
-82. 🈶成人48(kxgav.com): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 502.8ms | 成功率: 100.0%
+82. 🥇番号(番号): http://fhapi9.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 521.1ms | 成功率: 100.0%
 --------------------------------------------------
-83. 成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 509.44ms | 成功率: 100.0%
+83. ❤番号资源(❤番号资源): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 539.38ms | 成功率: 100.0%
 --------------------------------------------------
-84. 番号(fhapi9): http://fhapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 512.27ms | 成功率: 100.0%
+84. 成人12(fhapi9.com): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 591.22ms | 成功率: 100.0%
 --------------------------------------------------
-85. 🥇番号(番号): http://fhapi9.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 559.83ms | 成功率: 100.0%
+85. 成人49(gdlsp.com): https://www.gdlsp.com/api/xml.php（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 604.81ms | 成功率: 100.0%
 --------------------------------------------------
-86. 番外采集(番外): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json）
-  平均延迟: 560.01ms | 成功率: 100.0%
+86. 番号(fhapi9): http://fhapi9.com/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 616.82ms | 成功率: 100.0%
 --------------------------------------------------
-87. ❤番号资源(❤番号资源): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 606.7ms | 成功率: 100.0%
+87. 番外采集(番外): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json）
+  平均延迟: 624.05ms | 成功率: 100.0%
 --------------------------------------------------
-88. ❤番号资源(❤番号资源): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 616.73ms | 成功率: 100.0%
+88. 🥈KK写真(KK写真): https://kkzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 688.16ms | 成功率: 100.0%
 --------------------------------------------------
-89. 成人12(fhapi9.com): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 618.32ms | 成功率: 100.0%
+89. *🔞番号资源(*番号资源): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 714.91ms | 成功率: 100.0%
 --------------------------------------------------
-90. *🔞番号资源(*番号资源): http://fhapi9.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 695.4ms | 成功率: 100.0%
+90. 🈶成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 724.47ms | 成功率: 100.0%
 --------------------------------------------------
 91. *🔞KK写真资源(*KK写真资源): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 793.16ms | 成功率: 100.0%
+  平均延迟: 803.28ms | 成功率: 100.0%
 --------------------------------------------------
-92. 写真(kkzy): https://kkzy.me/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 897.14ms | 成功率: 100.0%
+92. 成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 875.31ms | 成功率: 100.0%
 --------------------------------------------------
-93. 🈶成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 898.51ms | 成功率: 100.0%
+93. 成人23(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 908.1ms | 成功率: 100.0%
 --------------------------------------------------
-94. 成人45(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 914.13ms | 成功率: 100.0%
+94. *🔞AIvin(*AIvin): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 961.53ms | 成功率: 100.0%
 --------------------------------------------------
-95. 🥈KK写真(KK写真): https://kkzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 921.92ms | 成功率: 100.0%
+95. 写真(kkzy): https://kkzy.me/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 963.39ms | 成功率: 100.0%
 --------------------------------------------------
-96. 成人23(kkzy.me): https://kkzy.me/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 972.92ms | 成功率: 100.0%
+96. 🥇AIvin(*AIvin): http://lbapiby.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 980.92ms | 成功率: 100.0%
 --------------------------------------------------
-97. *🔞AIvin(*AIvin): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 992.48ms | 成功率: 100.0%
+97. 成人25(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 995.88ms | 成功率: 100.0%
 --------------------------------------------------
-98. 成人25(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1004.55ms | 成功率: 100.0%
+98. 成人14(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1048.65ms | 成功率: 100.0%
 --------------------------------------------------
-99. 成人14(lbapiby.com): http://lbapiby.com/api.php/provide/vod/at/xml（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1010.43ms | 成功率: 100.0%
+99. 奥斯卡资源网(奥斯卡资源网): https://aosikazy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1554.98ms | 成功率: 100.0%
 --------------------------------------------------
-100. 🥇AIvin(*AIvin): http://lbapiby.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 1021.62ms | 成功率: 100.0%
+100. 奥斯(aosikazy): https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1714.47ms | 成功率: 100.0%
 --------------------------------------------------
-101. 奥斯(aosikazy): https://aosikazy.com/api.php/provide/vod/?ac=list（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1475.48ms | 成功率: 100.0%
+101. 成人04(secj8.com): http://secj8.com/inc/sapi.php?ac=videolist（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1754.04ms | 成功率: 100.0%
 --------------------------------------------------
-102. 奥斯卡资源网(奥斯卡资源网): https://aosikazy.com/api.php/provide/vod/（来自 http://545211.xyz:888/xingfu.json）
-  平均延迟: 1681.52ms | 成功率: 100.0%
+102. 美亚(tmav): https://tmav.art/api.php/provide/vod/at/json（来自 http://545211.xyz:888/xingfu.json）
+  平均延迟: 1955.02ms | 成功率: 100.0%
 --------------------------------------------------
 103. 📛TH┃爱看影视(drpy_js_ikanbot3): http://ztha.top/catjs/JS/lib/drpy2.min.js（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 1955.85ms | 成功率: 100.0%
+  平均延迟: 2141.27ms | 成功率: 100.0%
 --------------------------------------------------
