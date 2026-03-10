@@ -274,3 +274,8 @@
 此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
 测速失败 https://api.ddapi.cc/api.php/provide/vod/at/json: HTTPSConnectionPool(host='api.ddapi.cc', port=443): Read timed out. (read timeout=5)
 测速失败 https://www.gdlsp.com/api/xml.php: HTTPSConnectionPool(host='www.gdlsp.com', port=443): Read timed out. (read timeout=5)
+此接口 https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json 请求JSON数据失败: Expecting property name enclosed in double quotes: line 450 column 1 (char 24369) 
+此接口 https://raw.githubusercontent.com/jigedos/gao/master/9918.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/gao/master/9918.json 
+此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
+此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
+测速失败 https://apihjzy.com/api.php/provide/vod/: HTTPSConnectionPool(host='apihjzy.com', port=443): Read timed out. (read timeout=5)
