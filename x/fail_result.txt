@@ -306,3 +306,8 @@
 此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
 此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
 测速失败 https://caiji.caomeiapi.com/inc/apijson_vod.php: HTTPSConnectionPool(host='caiji.caomeiapi.com', port=443): Max retries exceeded with url: /inc/apijson_vod.php (Caused by NameResolutionError("HTTPSConnection(host='caiji.caomeiapi.com', port=443): Failed to resolve 'caiji.caomeiapi.com' ([Errno -2] Name or service not known)"))
+此接口 https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json 请求JSON数据失败: Expecting property name enclosed in double quotes: line 450 column 1 (char 24369) 
+此接口 https://raw.githubusercontent.com/jigedos/gao/master/9918.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/gao/master/9918.json 
+此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
+此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
+测速失败 https://lbapi9.com/api.php/provide/vod/: HTTPSConnectionPool(host='lbapi9.com', port=443): Read timed out. (read timeout=5)
