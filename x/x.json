@@ -1486,21 +1486,21 @@
       "filterable": 0
     },
     {
-      "key": "鸡坤资源",
-      "name": "🔞鸡坤资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "92free",
       "name": "久爱",
       "type": 1,
       "api": "http://92free.icu/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "水蜜桃",
+      "name": "🥈水蜜桃",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
       "filterable": 1
     },
     {
@@ -1530,30 +1530,6 @@
       "filterable": 0
     },
     {
-      "key": "apilj.com",
-      "name": "成人03",
-      "type": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "apilj.com",
-      "name": "成人01",
-      "type": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "madouse.la",
       "name": "成人27",
       "type": 1,
@@ -1570,6 +1546,39 @@
       "name": "成人13",
       "type": 1,
       "api": "http://madouse.la/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "鸡坤资源",
+      "name": "🔞鸡坤资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "apilj.com",
+      "name": "成人03",
+      "type": 1,
+      "api": "http://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "apilj.com",
+      "name": "成人01",
+      "type": 1,
+      "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -1616,24 +1625,6 @@
       ]
     },
     {
-      "key": "水蜜桃",
-      "name": "🥈水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "madouse",
-      "name": "果冻",
-      "type": 1,
-      "api": "http://madouse.cc/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "芒果",
       "name": "🥇芒果",
       "type": 0,
@@ -1653,69 +1644,13 @@
       "filterable": 1
     },
     {
-      "key": "tianmei",
-      "name": "天美①",
+      "key": "madouse",
+      "name": "果冻",
       "type": 1,
-      "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/",
+      "api": "http://madouse.cc/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "mgzyz1.com",
-      "name": "成人36",
-      "type": 1,
-      "api": "https://mgzyz1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "*芒果资源",
-      "name": "*🔞芒果资源",
-      "type": 1,
-      "api": "https://mgzyz1.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "91md.me",
-      "name": "成人05",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "91md.me",
-      "name": "成人03",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "91md.me",
-      "name": "🈶成人05",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
     },
     {
       "key": "shayuapi",
@@ -1770,30 +1705,24 @@
       "filterable": 0
     },
     {
-      "key": "*91麻豆",
-      "name": "*🔞91麻豆",
+      "key": "mgzyz1.com",
+      "name": "成人36",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
+      "api": "https://mgzyz1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "*芒果资源",
+      "name": "*🔞芒果资源",
+      "type": 1,
+      "api": "https://mgzyz1.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "❤91麻豆",
-      "name": "❤91麻豆源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤91麻豆",
-      "name": "❤91麻豆源",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "semao",
@@ -1805,10 +1734,10 @@
       "filterable": 1
     },
     {
-      "key": "tmyy",
-      "name": "天美②",
+      "key": "tianmei",
+      "name": "天美①",
       "type": 1,
-      "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/",
+      "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1828,6 +1757,60 @@
       "name": "🥈91md",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tmyy",
+      "name": "天美②",
+      "type": 1,
+      "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "91md.me",
+      "name": "成人05",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "91md.me",
+      "name": "成人03",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "91md.me",
+      "name": "🈶成人05",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "chujia",
+      "name": "精东",
+      "type": 1,
+      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1885,15 +1868,6 @@
       ]
     },
     {
-      "key": "chujia",
-      "name": "精东",
-      "type": 1,
-      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "玉兔资源",
       "name": "玉兔资源",
       "type": 0,
@@ -1906,28 +1880,19 @@
       "quickSearch": 1
     },
     {
-      "key": "tmav",
-      "name": "美亚",
-      "type": 1,
-      "api": "https://tmav.art/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "apiyutu",
-      "name": "玉兔",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "apilsbzy1",
       "name": "色逼",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tmav",
+      "name": "美亚",
+      "type": 1,
+      "api": "https://tmav.art/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1999,10 +1964,10 @@
       "filterable": 0
     },
     {
-      "key": "fhapi9",
-      "name": "番号",
+      "key": "apiyutu",
+      "name": "玉兔",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+      "api": "https://apiyutu.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2070,6 +2035,41 @@
       "filterable": 0
     },
     {
+      "key": "fhapi9",
+      "name": "番号",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "*91麻豆",
+      "name": "*🔞91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "❤91麻豆",
+      "name": "❤91麻豆源",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "❤91麻豆",
+      "name": "❤91麻豆源",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "kkzy",
       "name": "写真",
       "type": 1,
@@ -2079,26 +2079,11 @@
       "filterable": 1
     },
     {
-      "key": "奥斯卡资源网",
-      "name": "奥斯卡资源网",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/"
-    },
-    {
       "key": "drpy_js_ikanbot3",
       "name": "📛TH┃爱看影视",
       "type": 3,
       "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/ikanbot3.js"
-    },
-    {
-      "key": "aosikazy",
-      "name": "奥斯",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "apilyzy",
@@ -2290,6 +2275,15 @@
       "filterable": 1
     },
     {
+      "key": "aosikazy",
+      "name": "奥斯",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "sexnguon",
       "name": "色南",
       "type": 1,
@@ -2415,6 +2409,12 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "奥斯卡资源网",
+      "name": "奥斯卡资源网",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/"
     },
     {
       "key": "dadiapi.com",
