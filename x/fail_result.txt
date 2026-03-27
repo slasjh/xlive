@@ -350,3 +350,7 @@
 此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
 此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
 测速失败 https://mgzyz1.com/api.php/provide/vod/at/xml/: HTTPSConnectionPool(host='mgzyz1.com', port=443): Max retries exceeded with url: /api.php/provide/vod/at/xml/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='mgzyz1.com', port=443) at 0x7f897fe77070>, 'Connection to mgzyz1.com timed out. (connect timeout=5)'))
+此接口 https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json 请求JSON数据失败: Expecting property name enclosed in double quotes: line 450 column 1 (char 24369) 
+此接口 https://raw.githubusercontent.com/jigedos/gao/master/9918.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/gao/master/9918.json 
+此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
+此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
