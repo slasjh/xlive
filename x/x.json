@@ -1412,24 +1412,6 @@
   ],
   "sites": [
     {
-      "key": "92free",
-      "name": "久爱",
-      "type": 1,
-      "api": "http://92free.icu/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "水蜜桃",
-      "name": "🥈水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "secj8.com",
       "name": "成人04",
       "type": 0,
@@ -1499,15 +1481,6 @@
       "name": "🥇环亚",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "鸡坤资源",
-      "name": "🔞鸡坤资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1587,15 +1560,6 @@
       }
     },
     {
-      "key": "tianmei",
-      "name": "天美①",
-      "type": 1,
-      "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "madouse",
       "name": "果冻",
       "type": 1,
@@ -1605,10 +1569,10 @@
       "filterable": 1
     },
     {
-      "key": "tmyy",
-      "name": "天美②",
+      "key": "92free",
+      "name": "久爱",
       "type": 1,
-      "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/",
+      "api": "http://92free.icu/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1650,69 +1614,21 @@
       }
     },
     {
-      "key": "色猫",
-      "name": "🚸色猫采集",
+      "key": "tianmei",
+      "name": "天美①",
       "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产自拍",
-        "日本无码",
-        "日本有码",
-        "中文字幕",
-        "欧美精品",
-        "成人动漫",
-        "日本素人",
-        "高清名优",
-        "三级伦理",
-        "网红主播",
-        "映画传媒",
-        "人妻熟女",
-        "口爆颜射",
-        "萝莉少女",
-        "SM调教",
-        "美乳巨乳",
-        "短视频",
-        "制服诱惑",
-        "女同性爱",
-        "AI换脸",
-        "多人群交",
-        "翹臀美尻",
-        "丝袜美腿",
-        "精选独家",
-        "貧乳小奶",
-        "探花系列"
-      ]
-    },
-    {
-      "key": "chujia",
-      "name": "精东",
-      "type": 1,
-      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
+      "api": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "91md",
-      "name": "*🔞九一线",
+      "key": "水蜜桃",
+      "name": "🥈水蜜桃",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
-    },
-    {
-      "key": "91md",
-      "name": "🥈91md",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
       "quickSearch": 1,
+      "searchable": 1,
       "filterable": 1
     },
     {
@@ -1768,10 +1684,76 @@
       "filterable": 0
     },
     {
+      "key": "色猫",
+      "name": "🚸色猫采集",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产自拍",
+        "日本无码",
+        "日本有码",
+        "中文字幕",
+        "欧美精品",
+        "成人动漫",
+        "日本素人",
+        "高清名优",
+        "三级伦理",
+        "网红主播",
+        "映画传媒",
+        "人妻熟女",
+        "口爆颜射",
+        "萝莉少女",
+        "SM调教",
+        "美乳巨乳",
+        "短视频",
+        "制服诱惑",
+        "女同性爱",
+        "AI换脸",
+        "多人群交",
+        "翹臀美尻",
+        "丝袜美腿",
+        "精选独家",
+        "貧乳小奶",
+        "探花系列"
+      ]
+    },
+    {
+      "key": "91md",
+      "name": "*🔞九一线",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
+    },
+    {
+      "key": "91md",
+      "name": "🥈91md",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "semao",
       "name": "色猫",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tmyy",
+      "name": "天美②",
+      "type": 1,
+      "api": "https://tmyy.cc/api.php/provide/vod/from/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1801,6 +1783,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "chujia",
+      "name": "精东",
+      "type": 1,
+      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "玉兔专场",
@@ -1855,16 +1846,13 @@
       ]
     },
     {
-      "key": "玉兔资源",
-      "name": "玉兔资源",
-      "type": 0,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
+      "key": "apiyutu",
+      "name": "玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/at/json",
       "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "apilsbzy1",
@@ -1876,13 +1864,25 @@
       "filterable": 1
     },
     {
-      "key": "apiyutu",
-      "name": "玉兔",
+      "key": "鸡坤资源",
+      "name": "🔞鸡坤资源",
       "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/json",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
+    },
+    {
+      "key": "玉兔资源",
+      "name": "玉兔资源",
+      "type": 0,
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "quickSearch": 1
     },
     {
       "key": "fhapi9.com",
@@ -1951,15 +1951,6 @@
       "filterable": 0
     },
     {
-      "key": "番号",
-      "name": "🥇番号",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "fhapi9",
       "name": "番号",
       "type": 1,
@@ -1969,72 +1960,19 @@
       "filterable": 1
     },
     {
-      "key": "tmav",
-      "name": "美亚",
-      "type": 1,
-      "api": "https://tmav.art/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "kkzy.me",
-      "name": "成人45",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "kkzy.me",
-      "name": "成人23",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "*KK写真资源",
-      "name": "*🔞KK写真资源",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "kkzy.me",
-      "name": "🈶成人45",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "KK写真",
-      "name": "🥈KK写真",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
+      "key": "番号",
+      "name": "🥇番号",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "kkzy",
-      "name": "写真",
+      "key": "tmav",
+      "name": "美亚",
       "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/at/json",
+      "api": "https://tmav.art/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2258,6 +2196,15 @@
       "name": "蛋蛋",
       "type": 1,
       "api": "http://156.249.29.8/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kkzy",
+      "name": "写真",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2942,6 +2889,18 @@
       }
     },
     {
+      "key": "kkzy.me",
+      "name": "成人45",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "xrbsp.com",
       "name": "成人46",
       "type": 0,
@@ -3126,6 +3085,18 @@
       "name": "成人22",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "kkzy.me",
+      "name": "成人23",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -3814,6 +3785,14 @@
       "quickSearch": 0
     },
     {
+      "key": "*KK写真资源",
+      "name": "*🔞KK写真资源",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "火狐",
       "name": "📛挺好69【2024/3/20】",
       "type": 1,
@@ -4113,6 +4092,18 @@
       "name": "🈶成人40",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "kkzy.me",
+      "name": "🈶成人45",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -5744,6 +5735,15 @@
       "api": "https://hghhh.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "KK写真",
+      "name": "🥈KK写真",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
