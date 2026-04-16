@@ -437,3 +437,7 @@
 此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
 测速失败 http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/json: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 测速失败 http://xcncaiji.com/home/cjapi/s6bb/mc10/vod/json: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+此接口 https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json 请求JSON数据失败: Expecting property name enclosed in double quotes: line 450 column 1 (char 24369) 
+此接口 https://raw.githubusercontent.com/jigedos/gao/master/9918.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/gao/master/9918.json 
+此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
+此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
