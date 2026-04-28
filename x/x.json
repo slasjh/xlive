@@ -1503,22 +1503,13 @@
       "filterable": 0
     },
     {
-      "key": "92free",
-      "name": "久爱",
-      "type": 1,
-      "api": "http://92free.icu/api.php/provide/vod/at/json",
+      "key": "环亚",
+      "name": "🥇环亚",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "水蜜桃",
-      "name": "🥈水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "madouse.la",
@@ -1545,6 +1536,24 @@
       }
     },
     {
+      "key": "水蜜桃",
+      "name": "🥈水蜜桃",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "92free",
+      "name": "久爱",
+      "type": 1,
+      "api": "http://92free.icu/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "apilj.com",
       "name": "成人03",
       "type": 1,
@@ -1567,15 +1576,6 @@
         "type": "rect",
         "ratio": 1.33
       }
-    },
-    {
-      "key": "chujia",
-      "name": "精东",
-      "type": 1,
-      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "shayuapi",
@@ -1630,15 +1630,6 @@
       "filterable": 0
     },
     {
-      "key": "madouse",
-      "name": "果冻",
-      "type": 1,
-      "api": "http://madouse.cc/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "色猫",
       "name": "🚸色猫采集",
       "type": 1,
@@ -1677,6 +1668,15 @@
       ]
     },
     {
+      "key": "semao",
+      "name": "色猫",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "tianmei",
       "name": "天美①",
       "type": 1,
@@ -1686,10 +1686,19 @@
       "filterable": 1
     },
     {
-      "key": "semao",
-      "name": "色猫",
+      "key": "madouse",
+      "name": "果冻",
       "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "api": "http://madouse.cc/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "chujia",
+      "name": "精东",
+      "type": 1,
+      "api": "http://chujia.cc/api.php/provide/vod/from/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -5357,15 +5366,6 @@
       "name": "🥇JAV名优",
       "type": 0,
       "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "环亚",
-      "name": "🥇环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
