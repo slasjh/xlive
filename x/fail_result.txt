@@ -549,3 +549,10 @@
 此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
 此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
 此接口 http://545211.xyz:888/xingfu.json 请求JSON数据失败: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /xingfu.json (Caused by NameResolutionError("HTTPConnection(host='545211.xyz', port=888): Failed to resolve '545211.xyz' ([Errno -5] No address associated with hostname)")) 
+此接口 http://545211.xyz:888/xingfu.json 请求JSON数据失败: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /xingfu.json (Caused by NameResolutionError("HTTPConnection(host='545211.xyz', port=888): Failed to resolve '545211.xyz' ([Errno -5] No address associated with hostname)")) 
+此接口 https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json 请求JSON数据失败: Expecting property name enclosed in double quotes: line 450 column 1 (char 24369) 
+此接口 https://raw.githubusercontent.com/jigedos/gao/master/9918.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/gao/master/9918.json 
+此接口 https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jigedos/dc/main/json/138.json 
+此接口 https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 请求JSON数据失败: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json 
+测速失败 https://api.maozyapi.com/inc/apijson_vod.php: HTTPSConnectionPool(host='api.maozyapi.com', port=443): Read timed out. (read timeout=5)
+此接口 http://545211.xyz:888/xingfu.json 请求JSON数据失败: HTTPConnectionPool(host='545211.xyz', port=888): Max retries exceeded with url: /xingfu.json (Caused by NameResolutionError("HTTPConnection(host='545211.xyz', port=888): Failed to resolve '545211.xyz' ([Errno -5] No address associated with hostname)")) 
