@@ -170,8 +170,19 @@ def create_sorted_tvbox_json(json_urls, all_sites_with_speed, results):
         latency = result["avg_latency"]
         url_to_latency[url] = latency
     
-    # 为每个站点添加延迟信息
+    # 根据URL去重，保留第一个出现的站点
+    seen_urls = set()
+    unique_sites = []
     for site_info in all_sites_with_speed:
+        url = site_info.get("url", "")
+        if url and url not in seen_urls:
+            seen_urls.add(url)
+            unique_sites.append(site_info)
+        elif not url:  # 如果没有URL，也保留（但可能无法测速）
+            unique_sites.append(site_info)
+    
+    # 为每个唯一站点添加延迟信息
+    for site_info in unique_sites:
         url = site_info.get("url", "")
         if url in url_to_latency:
             site_info["latency"] = url_to_latency[url]
@@ -179,7 +190,7 @@ def create_sorted_tvbox_json(json_urls, all_sites_with_speed, results):
             site_info["latency"] = float('inf')  # 如果没有延迟数据，设为无穷大
     
     # 按延迟排序站点（延迟低的在前）
-    sorted_sites_info = sorted(all_sites_with_speed, key=lambda x: x["latency"])
+    sorted_sites_info = sorted(unique_sites, key=lambda x: x["latency"])
     
     # 提取排序后的完整站点数据
     sorted_sites_data = []
@@ -218,26 +229,17 @@ def create_sorted_tvbox_json(json_urls, all_sites_with_speed, results):
     # 添加排序后的sites
     tvbox_json["sites"] = sorted_sites_data
     
-    # 添加生成信息
-    #tvbox_json["generated_info"] = {
-    #    "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    #    "source_urls": json_urls,
-    #    "total_sites": len(sorted_sites_data),
-    #    "description": "根据测速延迟自动排序的TVBox配置"
-    #}
-    
-    # 保存到文件
+    # 保存JSON文件
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    #tvbox_json_path = os.path.join(current_dir, f"tvbox_sorted_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
-    tvbox_json_path = os.path.join(current_dir,'x.json')
+    tvbox_json_path = os.path.join(current_dir, 'x.json')
     
     with open(tvbox_json_path, "w", encoding="utf-8") as f:
         json.dump(tvbox_json, f, ensure_ascii=False, indent=2)
     
     print(f"TVBox适配的JSON已保存到 {tvbox_json_path}")
+    print(f"原始站点数: {len(all_sites_with_speed)}, 去重后: {len(unique_sites)}, 最终排序后: {len(sorted_sites_data)}")
     
     return tvbox_json_path
-
 def main():
     json_urls = [
         "http://545211.xyz:888/xingfu.json",
