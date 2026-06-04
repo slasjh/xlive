@@ -499,12 +499,12 @@
   ],
   "sites": [
     {
-      "key": "❤色色资源",
-      "name": "❤色色资源",
-      "type": 0,
-      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 0,
-      "quickSearch": 0,
+      "key": "鸡坤资源",
+      "name": "🔞鸡坤资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
@@ -517,15 +517,6 @@
       "filterable": 1
     },
     {
-      "key": "鸡坤资源",
-      "name": "🔞鸡坤资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "环亚",
       "name": "🥇环亚",
       "type": 0,
@@ -535,10 +526,10 @@
       "filterable": 0
     },
     {
-      "key": "❤环亚资源",
-      "name": "❤环亚资源",
+      "key": "❤色色资源",
+      "name": "❤色色资源",
       "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
+      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -580,6 +571,15 @@
         "貧乳小奶",
         "探花系列"
       ]
+    },
+    {
+      "key": "❤环亚资源",
+      "name": "❤环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "火狐",
