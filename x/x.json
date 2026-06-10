@@ -508,33 +508,6 @@
       "filterable": 0
     },
     {
-      "key": "环亚",
-      "name": "🥇环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "❤色色资源",
-      "name": "❤色色资源",
-      "type": 0,
-      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤环亚资源",
-      "name": "❤环亚资源",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "火狐",
       "name": "📛挺好69【2024/3/20】",
       "type": 1,
@@ -568,6 +541,15 @@
         "欧美动漫",
         "伦理片"
       ]
+    },
+    {
+      "key": "水蜜桃",
+      "name": "🥈水蜜桃",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
     },
     {
       "key": "色猫",
@@ -608,13 +590,31 @@
       ]
     },
     {
-      "key": "水蜜桃",
-      "name": "🥈水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
+      "key": "❤环亚资源",
+      "name": "❤环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "环亚",
+      "name": "🥇环亚",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
-      "filterable": 1
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "❤色色资源",
+      "name": "❤色色资源",
+      "type": 0,
+      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "直播转点播1",
