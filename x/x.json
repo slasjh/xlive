@@ -543,15 +543,6 @@
       ]
     },
     {
-      "key": "❤色色资源",
-      "name": "❤色色资源",
-      "type": 0,
-      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "色猫",
       "name": "🚸色猫采集",
       "type": 1,
@@ -588,6 +579,15 @@
         "貧乳小奶",
         "探花系列"
       ]
+    },
+    {
+      "key": "❤色色资源",
+      "name": "❤色色资源",
+      "type": 0,
+      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "❤环亚资源",
