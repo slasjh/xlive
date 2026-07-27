@@ -247,20 +247,20 @@
 
 测速结果（按延迟排序）：
 1. 🔞鸡坤资源(鸡坤资源): https://jkunzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 96.18ms | 成功率: 100.0%
+  平均延迟: 56.36ms | 成功率: 100.0%
 --------------------------------------------------
-2. 📛挺好69【2024/3/20】(火狐): https://hhzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 128.02ms | 成功率: 100.0%
+2. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
+  平均延迟: 74.91ms | 成功率: 100.0%
 --------------------------------------------------
 3. 🥇环亚(环亚): http://wmcj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 237.51ms | 成功率: 100.0%
+  平均延迟: 83.44ms | 成功率: 100.0%
 --------------------------------------------------
-4. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa1.json）
-  平均延迟: 247.59ms | 成功率: 100.0%
+4. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
+  平均延迟: 91.78ms | 成功率: 100.0%
 --------------------------------------------------
-5. ❤环亚资源(❤环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/yyfxz/fl/main/xa3.json）
-  平均延迟: 249.9ms | 成功率: 100.0%
+5. 📛挺好69【2024/3/20】(火狐): https://hhzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 115.42ms | 成功率: 100.0%
 --------------------------------------------------
 6. 🚸色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 259.44ms | 成功率: 100.0%
+  平均延迟: 130.94ms | 成功率: 100.0%
 --------------------------------------------------
