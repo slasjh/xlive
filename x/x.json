@@ -499,6 +499,15 @@
   ],
   "sites": [
     {
+      "key": "环亚",
+      "name": "🥇环亚",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "❤环亚资源",
       "name": "❤环亚资源",
       "type": 0,
@@ -508,10 +517,10 @@
       "filterable": 0
     },
     {
-      "key": "环亚",
-      "name": "🥇环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "key": "鸡坤资源",
+      "name": "🔞鸡坤资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -550,15 +559,6 @@
         "欧美动漫",
         "伦理片"
       ]
-    },
-    {
-      "key": "鸡坤资源",
-      "name": "🔞鸡坤资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "色猫",
