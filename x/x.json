@@ -534,12 +534,12 @@
       ]
     },
     {
-      "key": "环亚",
-      "name": "🥇环亚",
+      "key": "❤环亚资源",
+      "name": "❤环亚资源",
       "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
@@ -581,12 +581,12 @@
       ]
     },
     {
-      "key": "❤环亚资源",
-      "name": "❤环亚资源",
+      "key": "环亚",
+      "name": "🥇环亚",
       "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
