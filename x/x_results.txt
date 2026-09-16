@@ -247,8 +247,8 @@
 
 测速结果（按延迟排序）：
 1. 📛挺好69【2024/3/20】(火狐): https://hhzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 143.48ms | 成功率: 100.0%
+  平均延迟: 137.35ms | 成功率: 100.0%
 --------------------------------------------------
 2. 🚸色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 277.95ms | 成功率: 100.0%
+  平均延迟: 246.52ms | 成功率: 100.0%
 --------------------------------------------------
