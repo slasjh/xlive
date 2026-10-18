@@ -534,15 +534,6 @@
       ]
     },
     {
-      "key": "水蜜桃",
-      "name": "🥈水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "色猫",
       "name": "🚸色猫采集",
       "type": 1,
@@ -579,6 +570,15 @@
         "貧乳小奶",
         "探花系列"
       ]
+    },
+    {
+      "key": "水蜜桃",
+      "name": "🥈水蜜桃",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
     },
     {
       "key": "直播转点播1",
