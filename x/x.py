@@ -252,6 +252,15 @@ def main():
 "https://raw.githubusercontent.com/jigedos/dc/main/json/138.json",
 "https://raw.githubusercontent.com/mengzehe/TVBox/main/18/18-02.json",
 "https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+"https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli.json",
+"https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json",
+"https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json",
+"https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json",
+"https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fuli.json",
+        "https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json",
+        "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json",
+        "https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
+        "https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
     ]
 
     all_sites_with_speed = []  # 存储所有站点信息（包括完整数据和URL）
