@@ -1,4 +1,4 @@
-找到 243 个解析地址:
+找到 310 个解析地址:
 1. 📛挺好69【2024/3/20】(火狐): https://hhzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
 2. 📛TH┃福利点播(直播转点播1): http://127.0.0.1:9978/file/TVBox/JS/lib/直播转点播2.js（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
 3. 📛TH┃爱看影视(drpy_js_ikanbot3): http://ztha.top/catjs/JS/lib/drpy2.min.js（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
@@ -242,16 +242,110 @@
 241. 🥈花椒(花椒): https://apihjzy.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
 242. 🥈酷豆(酷豆): https://kudouzy.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
 243. 🥈爱播(爱播): https://cj1.apiabzy.com/api.php/provide/vod/?ac=list（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+244. 🥇博天堂(博天堂): http://bttcj.com/inc/sapi.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+245. 🥇环亚(环亚): http://wmcj8.com/inc/sapi.php?ac=videolist（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+246. 🥇美少女(美少女): https://www.msnii.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+247. 🥇淫水机(淫水机): https://www.xrbsp.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+248. 🥇香奶儿(香奶儿): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+249. 🥇白嫖(白嫖): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+250. 🥇小湿妹(小湿妹): https://www.afasu.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+251. 🥇黄A(黄A): https://www.pgxdy.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+252. 🥇色猫(色猫): https://api.maozyapi.com/inc/api.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+253. 🥇乐播(lebo): https://lbapi9.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+254. 🥇番号(番号): http://fhapi9.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+255. 🥇老鸭(老鸭): https://api.apilyzy.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+256. 🥇AIvin(*AIvin): http://lbapiby.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+257. 🥇大地(大地): https://dadiapi.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+258. 🥇芒果(芒果): https://mgzyz1.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+259. 🥇点点娱乐(点点娱乐): https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+260. 🥈91md(csp_SP360): https://91md.me/api.php/provide/vod/from/mdm3u8/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+261. 🥈探探(探探): https://apittzy.com/api.php/provide/vod/?ac=list（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+262. 🥈皇冠(皇冠): https://hghhh.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+263. 🥈KK写真(KK写真): https://kkzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+264. 🥈色南国(色南国): https://api.sexnguon.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+265. 🥈鲨鱼(鲨鱼): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+266. 🥈酷豆(酷豆): https://kudouzy.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli1.json）
+267. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+268. 玉兔采集(玉兔专场): https://apiyutu.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+269. 森林采集(森林专场): https://slapibf.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+270. 大地采集(大地专场): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+271. ️乐播采集(乐播): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+272. 探探采集(探探): https://apittzy.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+273. 老鸭采集(老鸭): https://api.apilyzy.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+274. 155采集(155专场): https://155api.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+275. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+276. 番外采集(番外): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+277. 番外采集(番外): http://fhapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+278. ️乐播采集(乐播): https://lbapi9.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+279. ❤91麻豆源(❤91麻豆): https://91md.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+280. ❤色猫资源(❤色猫资源): https://api.maozyapi.com/inc/apijson_vod.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+281. ❤美少女资源(❤美少女资源): https://www.msnii.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+282. 黄AV资源(KpgxdyE): https://www.pgxdy.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+283. *佳丽资源(*佳丽资源): http://www.jializyzapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+284. 精工厂(精工厂): https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+285. CK资源(CK资源): https://ckzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+286. 色南国资源(色南国资源): https://api.sexnguon.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+287. 皇冠资源(皇冠资源): https://hghhh.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+288. AIvin(AIvin): http://lbapiby.com/api.php/provide/vod/at/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+289. 淫窝资源(淫窝资源): https://api.yinwoapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+290. KK写真资源(KK写真资源): https://kkzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+291. 易看资源-伦理(易看资源-伦理): https://api.yikanapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+292. 🔞博天堂(*博天堂): http://bttcj.com/inc/sapi.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+293. 🔞探探资源(*探探资源): https://apittzy.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+294. 🔞淫水机资源(*淫水机资源): https://www.xrbsp.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+295. 🔞环亚资源(*环亚资源): http://wmcj8.com/inc/sapi.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+296. 🔞鲨鱼资源(*鲨鱼资源): https://shayuapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+297. 🔞香奶儿资源(*香奶儿资源): https://www.gdlsp.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+298. 🔞白嫖资源(*白嫖资源): https://www.kxgav.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+299. 🔞爱播资源(*爱播资源): https://cj.apiabzy.com/api.php/provide/vod/?ac=list（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+300. 大地采集(大地专场): https://dadiapi.com/api.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+301. 🥇小湿妹(小湿妹): https://www.afasu.com/api/xml.php（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+302. 老鸭采集(老鸭): https://api.apilyzy.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+303. 🥇芒果(芒果): https://mgzyz1.com/api.php/provide/vod/at/xml/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+304. 🥇点点娱乐(点点娱乐): https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+305. 🥈酷豆(酷豆): https://kudouzy.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+306. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+307. 玉兔采集(玉兔专场): https://apiyutu.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+308. 森林采集(森林专场): https://slapibf.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+309. 155采集(155专场): https://155api.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+310. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
 
 已生成TVBox适配的JSON文件: x.json
 
 测速结果（按延迟排序）：
-1. 📛挺好69【2024/3/20】(火狐): https://hhzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 201.51ms | 成功率: 100.0%
+1. 155采集(155专场): https://155api.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 53.73ms | 成功率: 100.0%
 --------------------------------------------------
-2. 🚸色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 305.3ms | 成功率: 100.0%
+2. 📛挺好69【2024/3/20】(火狐): https://hhzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 120.15ms | 成功率: 100.0%
 --------------------------------------------------
-3. 🥈水蜜桃(水蜜桃): http://51smt4.xyz/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 371.49ms | 成功率: 100.0%
+3. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 124.02ms | 成功率: 100.0%
+--------------------------------------------------
+4. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+  平均延迟: 198.95ms | 成功率: 100.0%
+--------------------------------------------------
+5. 🚸色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
+  平均延迟: 237.18ms | 成功率: 100.0%
+--------------------------------------------------
+6. 森林采集(森林专场): https://slapibf.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 244.43ms | 成功率: 100.0%
+--------------------------------------------------
+7. 155采集(155专场): https://155api.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+  平均延迟: 273.18ms | 成功率: 100.0%
+--------------------------------------------------
+8. CK资源(CK资源): https://ckzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 276.19ms | 成功率: 100.0%
+--------------------------------------------------
+9. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+  平均延迟: 284.98ms | 成功率: 100.0%
+--------------------------------------------------
+10. 森林采集(森林专场): https://slapibf.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+  平均延迟: 285.56ms | 成功率: 100.0%
+--------------------------------------------------
+11. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 325.17ms | 成功率: 100.0%
+--------------------------------------------------
+12. 🥈水蜜桃(水蜜桃): http://51smt4.xyz/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
+  平均延迟: 415.22ms | 成功率: 100.0%
 --------------------------------------------------
