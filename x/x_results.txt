@@ -314,38 +314,38 @@
 
 测速结果（按延迟排序）：
 1. 155采集(155专场): https://155api.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
-  平均延迟: 52.22ms | 成功率: 100.0%
+  平均延迟: 47.53ms | 成功率: 100.0%
 --------------------------------------------------
-2. 155采集(155专场): https://155api.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
-  平均延迟: 82.57ms | 成功率: 100.0%
+2. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 116.91ms | 成功率: 100.0%
 --------------------------------------------------
-3. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
-  平均延迟: 148.92ms | 成功率: 100.0%
+3. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+  平均延迟: 119.0ms | 成功率: 100.0%
 --------------------------------------------------
 4. 📛挺好69【2024/3/20】(火狐): https://hhzyapi.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 156.22ms | 成功率: 100.0%
+  平均延迟: 120.37ms | 成功率: 100.0%
 --------------------------------------------------
-5. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
-  平均延迟: 185.14ms | 成功率: 100.0%
+5. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+  平均延迟: 128.45ms | 成功率: 100.0%
 --------------------------------------------------
-6. CK资源(CK资源): https://ckzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
-  平均延迟: 239.21ms | 成功率: 100.0%
+6. 色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 132.76ms | 成功率: 100.0%
 --------------------------------------------------
 7. 🚸色猫采集(色猫): https://caiji.semaozy.net/inc/apijson_vod.php/（来自 https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json）
-  平均延迟: 268.23ms | 成功率: 100.0%
+  平均延迟: 156.98ms | 成功率: 100.0%
 --------------------------------------------------
 8. 森林采集(森林专场): https://slapibf.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
-  平均延迟: 289.47ms | 成功率: 100.0%
+  平均延迟: 199.9ms | 成功率: 100.0%
 --------------------------------------------------
 9. 森林采集(森林专场): https://slapibf.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
-  平均延迟: 298.79ms | 成功率: 100.0%
+  平均延迟: 240.65ms | 成功率: 100.0%
 --------------------------------------------------
-10. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
-  平均延迟: 393.48ms | 成功率: 100.0%
+10. 155采集(155专场): https://155api.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli2.json）
+  平均延迟: 354.55ms | 成功率: 100.0%
 --------------------------------------------------
 11. 🥈水蜜桃(水蜜桃): http://51smt4.xyz/api.php/provide/vod/（来自 https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json）
-  平均延迟: 404.13ms | 成功率: 100.0%
+  平均延迟: 403.16ms | 成功率: 100.0%
 --------------------------------------------------
-12. 辣椒采集(辣椒专场): https://apilj.com/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
-  平均延迟: 443.15ms | 成功率: 100.0%
+12. CK资源(CK资源): https://ckzy.me/api.php/provide/vod/（来自 https://raw.githubusercontent.com/Newtxin/tvbox/refs/heads/main/fuli3.json）
+  平均延迟: 473.85ms | 成功率: 100.0%
 --------------------------------------------------
