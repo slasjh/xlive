@@ -535,40 +535,6 @@
       ]
     },
     {
-      "key": "辣椒专场",
-      "name": "辣椒采集",
-      "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产自拍",
-        "欧美极品",
-        "日韩无码",
-        "AV明星",
-        "中文字幕",
-        "动漫精品",
-        "极骚萝莉",
-        "人妖视频",
-        "重咸口味",
-        "三级自慰",
-        "强奸乱伦",
-        "独家擂台格斗",
-        "辣椒GIGA",
-        "HEYZO",
-        "独家DMM",
-        "HEY诱惑",
-        "童颜巨乳",
-        "高潮喷吹",
-        "激情口交",
-        "绝美少女",
-        "首次亮相",
-        "AV明星1"
-      ]
-    },
-    {
       "key": "火狐",
       "name": "📛挺好69【2024/3/20】",
       "type": 1,
@@ -642,6 +608,15 @@
       ]
     },
     {
+      "key": "CK资源",
+      "name": "CK资源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "森林专场",
       "name": "森林采集",
       "type": 1,
@@ -696,21 +671,46 @@
       ]
     },
     {
+      "key": "辣椒专场",
+      "name": "辣椒采集",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产自拍",
+        "欧美极品",
+        "日韩无码",
+        "AV明星",
+        "中文字幕",
+        "动漫精品",
+        "极骚萝莉",
+        "人妖视频",
+        "重咸口味",
+        "三级自慰",
+        "强奸乱伦",
+        "独家擂台格斗",
+        "辣椒GIGA",
+        "HEYZO",
+        "独家DMM",
+        "HEY诱惑",
+        "童颜巨乳",
+        "高潮喷吹",
+        "激情口交",
+        "绝美少女",
+        "首次亮相",
+        "AV明星1"
+      ]
+    },
+    {
       "key": "水蜜桃",
       "name": "🥈水蜜桃",
       "type": 1,
       "api": "http://51smt4.xyz/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "CK资源",
-      "name": "CK资源",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1
     },
     {
