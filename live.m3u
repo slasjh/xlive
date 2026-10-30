@@ -459,9 +459,9 @@ https://vod.mycamtv.net/198.m3u8
 #EXTINF:-1 tvg-name="欧美199" group-title="tai分类",欧美199
 https://vod.mycamtv.net/199.m3u8
 #EXTINF:-1 tvg-name="欧美2" group-title="tai分类",欧美2 线路1
-https://vod.mycamtv.net/2.m3u8
-#EXTINF:-1 tvg-name="欧美2" group-title="tai分类",欧美2 线路2
 http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-name="欧美2" group-title="tai分类",欧美2 线路2
+https://vod.mycamtv.net/2.m3u8
 #EXTINF:-1 tvg-name="欧美20" group-title="tai分类",欧美20
 https://vod.mycamtv.net/20.m3u8
 #EXTINF:-1 tvg-name="欧美200" group-title="tai分类",欧美200
@@ -729,13 +729,13 @@ https://2.ddyunbo.com/20190908/qvYslaAx/index.m3u8
 #EXTINF:-1 tvg-name="玩美台" group-title="tai分类",玩美台
 http://live.redtraffic.xyz:80/pov.m3u8
 #EXTINF:-1 tvg-name="电影18+" group-title="tai分类",电影18+ 线路1
-http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18075/index.m3u8
-#EXTINF:-1 tvg-name="电影18+" group-title="tai分类",电影18+ 线路2
-http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18075/index.m3u8
-#EXTINF:-1 tvg-name="电影18+" group-title="tai分类",电影18+ 线路3
 http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/18075/index.m3u8
-#EXTINF:-1 tvg-name="电影18+" group-title="tai分类",电影18+ 线路4
+#EXTINF:-1 tvg-name="电影18+" group-title="tai分类",电影18+ 线路2
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/18075/index.m3u8
+#EXTINF:-1 tvg-name="电影18+" group-title="tai分类",电影18+ 线路3
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18075/index.m3u8
+#EXTINF:-1 tvg-name="电影18+" group-title="tai分类",电影18+ 线路4
+http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/18075/index.m3u8
 #EXTINF:-1 tvg-name="短发性感台妹POV场景展现完美身材!" group-title="tai分类",短发性感台妹POV场景展现完美身材!
 https://vip2.slbfsl.com/20230228/jPoHFAeW/index.m3u8
 #EXTINF:-1 tvg-name="花花公子" group-title="tai分类",花花公子 线路1
@@ -745,9 +745,9 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6242/index.m3u8
 #EXTINF:-1 tvg-name="花花公子+" group-title="tai分类",花花公子+ 线路1
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6242/index.m3u8?
 #EXTINF:-1 tvg-name="花花公子+" group-title="tai分类",花花公子+ 线路2
-http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6242/index.m3u8
-#EXTINF:-1 tvg-name="花花公子+" group-title="tai分类",花花公子+ 线路3
 http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/6242/index.m3u8
+#EXTINF:-1 tvg-name="花花公子+" group-title="tai分类",花花公子+ 线路3
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6242/index.m3u8
 #EXTINF:-1 tvg-name="花花公子3台" group-title="tai分类",花花公子3台
 http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
 #EXTINF:-1 tvg-name="菊花成人台" group-title="tai分类",菊花成人台
