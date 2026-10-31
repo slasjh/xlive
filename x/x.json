@@ -570,6 +570,15 @@
       ]
     },
     {
+      "key": "CK资源",
+      "name": "CK资源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "色猫",
       "name": "🚸色猫采集",
       "type": 1,
@@ -606,15 +615,6 @@
         "貧乳小奶",
         "探花系列"
       ]
-    },
-    {
-      "key": "CK资源",
-      "name": "CK资源",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "森林专场",
@@ -702,6 +702,17 @@
         "绝美少女",
         "首次亮相",
         "AV明星1"
+      ]
+    },
+    {
+      "key": "量子",
+      "name": "🈶量子伦理",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
       ]
     },
     {
@@ -901,17 +912,6 @@
         "麻豆传媒",
         "女同人妖",
         "恋腿癖"
-      ]
-    },
-    {
-      "key": "量子",
-      "name": "🈶量子伦理",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
       ]
     },
     {
