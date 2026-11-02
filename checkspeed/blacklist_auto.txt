@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261101-13-54-19,url
+20261102-13-55-13,url
 
 
 blacklist,#genre#
@@ -3328,22 +3328,23 @@ carib-050719-914 極上の自宅訪問-玲奈,https://z100.cdn2020.com/video/m3u
 carib-100516-274 三昧な時間  音羽レオン,https://t5s.cdn2020.com/video/m3u8/2020/10/19/202688b8/index.m3u8
 carib-100519-001 干到最后-小野寺梨紗,https://t4s.cdn2020.com/video/m3u8/2020/08/16/f413396c/index.m3u8
 carib-337,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-carib-420,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+carib-375,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
 carib-431,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
 carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
 carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
 carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
-carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
 carib-531,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
 carib-533,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
 carib-541,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-carib-639,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-carib-665,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+carib-563,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+carib-563,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+carib-589,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+carib-665,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
 carib-674,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
 carib-675,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
 carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
 carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
 carib012316-081 密室陵辱 碧木凛,https://t4s.cdn2020.com/video/m3u8/2020/09/05/4b0f5815/index.m3u8
 carib012415-792 第一次把鸡巴放进来-綾瀬なるみ,https://t4s.cdn2020.com/video/m3u8/2020/09/03/68ed123c/index.m3u8
@@ -3656,10 +3657,9 @@ hbad-532 被老公好吃懒做的哥哥强行侵犯,https://t21.cdn2020.com/vide
 heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
 heyzo-1199 被上司的美女妻子勾引无套插入内射,https://t21.cdn2020.com/video/m3u8/2023/03/14/49baff2e/index.m3u8
 heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
 heyzo-1262,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-heyzo-1275,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
 heyzo-1395,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-heyzo-1478,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
 heyzo-1544,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
 heyzo-1570,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
 heyzo-1590,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
@@ -4208,6 +4208,7 @@ tva-x258,http://nvid101.cdnii.com/2018/2/20182636-720p.mp4
 tva-x259,http://nvid101.cdnii.com/2018/2/20182637-720p.mp4
 tva-x260,http://nvid101.cdnii.com/2018/2/20182638-720p.mp4
 tva-x261,http://nvid101.cdnii.com/2018/2/20182639-720p.mp4
+tva-x262,https://v6794.cdn-d5.com/a951fbe04aab1872ccbf3969af42530bb5b9175d/2020/1/20201721-720p.mp4
 tva-x263,http://nvid101.cdnii.com/2021/0/20210960-720p.mp4
 tva-x264,http://nvid101.cdnii.com/2021/0/20210961-720p.mp4
 tva-x265,http://nvid101.cdnii.com/2021/0/20210962-720p.mp4
@@ -4606,6 +4607,7 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 丝袜美少女在宾馆享受欲望大餐,https://v1.stepuppip.com/20210130/yiMCIjfp/2000kb/hls/index.m3u8
 两个妹子，一人一个揉捏奶子唱唱歌，沙发上同时开操,https://v1.stepuppip.com/20210528/LM270g7u/2000kb/hls/index.m3u8
 两个姐姐很性奋争相先殷勤，跪爬不穿内裤露出逼穴，这一的美景毫不客气掏出肉棒猛力冲击,https://vip1.slbfsl.com/20221021/x3PPfvfh/index.m3u8
+两个姐姐很性奋争相先殷勤，跪爬不穿内裤露出逼穴，这一的美景毫不客气掏出肉棒猛力冲击,https://vod2.ttbfp4.com/20221021/4xnbpYCV/index.m3u8
 两个家伙和他们的肛门荡妇 Ginebra Bellucci 在外面进行集体性行为,https://vip1.slbfsl.com/20220807/49ljBfxB/index.m3u8
 两个家伙和他们的肛门荡妇 Ginebra Bellucci 在外面进行集体性行为,https://vod1.ttbfp2.com/20220120/0WatjdWK/index.m3u8
 两个小女仆自拍玩调教游戏还带上不一样的假阳具！,https://vip1.slbfsl.com/20230109/dww5VYY5/index.m3u8
@@ -4800,6 +4802,7 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 今天我被家人打倒…,https://vod3.ttbfp5.com/20230222/nTv5TYkX/index.m3u8
 今晚调教小母狗，萝莉裙肛塞尾巴，地上爬行，玩弄一番再开操，大屁股后入,https://siwazywcdn2.com:5278/cvguochanzipai/xTQwZJa1/index.m3u8
 今晚调教小母狗，萝莉裙肛塞尾巴，地上爬行，玩弄一番再开操，大屁股后入,https://vip1.slbfsl.com/20221202/N9ciKOX2/index.m3u8
+今晚调教小母狗，萝莉裙肛塞尾巴，地上爬行，玩弄一番再开操，大屁股后入,https://vod2.ttbfp4.com/20221201/cITwE3xc/index.m3u8
 从玉小姨镪上亲姪子-吴芳宜,https://t19.cdn2020.com/video/m3u8/2022/06/17/03169ac7/index.m3u8
 仕事も家庭も真面目に一生懸命だけど欲求不満は人一倍,https://vod3.ttbfp5.com/20230227/bKg68qFp/index.m3u8
 仕事帰りの巨乳ビッチ変態黒ビキニ女をガチ責め！,https://vod3.ttbfp5.com/20230227/0cesPFTd/index.m3u8
@@ -5066,7 +5069,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 再婚相手より前の年増な女房がやっぱいいや,https://vod3.ttbfp5.com/20230302/drFGHdiu/index.m3u8
 再约良家珠宝女，吃完饭带回酒店操逼，推到强吻扒掉裤子，扛起腿就是爆操，仙丹加持很猛,https://siwazywcdn2.com:5278/cvguochanzipai/taxPKLuN/index.m3u8
 再约良家珠宝女，吃完饭带回酒店操逼，推到强吻扒掉裤子，扛起腿就是爆操，仙丹加持很猛,https://vip1.slbfsl.com/20221208/usDRO54q/index.m3u8
-再约良家珠宝女，吃完饭带回酒店操逼，推到强吻扒掉裤子，扛起腿就是爆操，仙丹加持很猛,https://vod2.ttbfp4.com/20221207/GrqudOUF/index.m3u8
 再開発計画,https://vod3.ttbfp5.com/20230302/On7lkBv6/index.m3u8
 写真天生丽质的国模【安可】早期全裸私房写真_揉胸摸逼简直就是性感尤物,https://vod3.ttbfp5.com/20230311/B6eQZq3u/index.m3u8
 写，互舔互摸，直接无套换操,https://v1.stepuppip.com/20230709/htyQnvIK/2000kb/hls/index.m3u8
@@ -5952,7 +5954,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 女优系列 300MAAN789 和這麼可愛女僕一晚大戰三回合 絕頂潮吹床單濕透,https://vip1.slbfsl.com/20220912/SW3U1BdW/index.m3u8
 女优系列 300MAAN789 和這麼可愛女僕一晚大戰三回合 絕頂潮吹床單濕透,https://vod2.ttbfp4.com/20221102/zrTR3czW/index.m3u8
 女优系列 3個騷妹穿著不同制服引誘,https://vip1.slbfsl.com/20220916/6b501U0E/index.m3u8
-女优系列 3個騷妹穿著不同制服引誘,https://vod2.ttbfp4.com/20221102/psgSaTxO/index.m3u8
 女优系列 5人廚娘圍爐後的淫春夢幻點心上菜,https://vip1.slbfsl.com/20220915/yzcdxxql/index.m3u8
 女优系列 5人廚娘圍爐後的淫春夢幻點心上菜,https://vod2.ttbfp4.com/20221102/2AIsserO/index.m3u8
 女优系列 FC2PPV2942827 可愛女僕自慰被主人發現玩弄得蜜穴淫水四射,https://vip1.slbfsl.com/20220912/hL3E4wvK/index.m3u8
@@ -5965,6 +5966,7 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 女优系列 RAS0161 飯店貼身管家口交Morning Call 用晨炮迎接新的一天,https://vip1.slbfsl.com/20220912/LkGa8uud/index.m3u8
 女优系列 RAS0161 飯店貼身管家口交Morning Call 用晨炮迎接新的一天,https://vod2.ttbfp4.com/20221102/zTj60mbV/index.m3u8
 女优系列 「挑戰百人斬jimmybiiig」狂操童顏巨乳小女僕 還帶她出露台啪啪格外刺激,https://vip1.slbfsl.com/20220915/n9Mnm3w8/index.m3u8
+女优系列 「挑戰百人斬jimmybiiig」狂操童顏巨乳小女僕 還帶她出露台啪啪格外刺激,https://vod2.ttbfp4.com/20221102/Xy1Dclek/index.m3u8
 女优系列 娃娃聲巨乳女僕被小哥猛操 騷氣呻吟不斷,https://vip1.slbfsl.com/20220917/54i8wJ6O/index.m3u8
 女优系列 淫蕩女僕肛塞狐尾被猛插 激烈呻吟,https://vip1.slbfsl.com/20220914/8VRgP3bc/index.m3u8
 女优系列 淫蕩女僕肛塞狐尾被猛插 激烈呻吟,https://vod2.ttbfp4.com/20221102/sw7SK3Ka/index.m3u8
@@ -6682,7 +6684,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 屋处的甜蜜爱爱，分手后被男友恶意外流,https://v1.stepuppip.com/20230521/Bjwqdum2/2000kb/hls/index.m3u8
 屌侠侣,https://v5.dietaobaihuo.top/video/20221230/RBypKHhg/2000kb/hls/index.m3u8
 山18岁技校学生妹被班主任骗裸照惨遭灌醉强奸,https://v1.stepuppip.com/20230512/xZDMMs1G/2000kb/hls/index.m3u8
-山中艳谭,https://hot.1080pzy.co/20230919/x6g7iHEM/1000kb/hls/index.m3u8
 山西布政司跟有夫之妇约聊天,https://vip1.slbfsl.com/20221104/7tPob7E2/index.m3u8
 川妹妹和男友的性爱视频毒龙舔蛋合集,https://v1.stepuppip.com/20230522/8bX6VlcY/2000kb/hls/index.m3u8
 州 新婚小娇妻 与异地老公聊骚私密照片与视频被老公兄弟偷偷保存,https://v1.stepuppip.com/20230522/8g21QRqS/2000kb/hls/index.m3u8
@@ -6872,7 +6873,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 御姐丝丝与姐夫的激情偷爱,https://v4.jnsh.vip/20220724/76ZUuAB3/2000kb/hls/index.m3u8
 御姐妞妞,https://v4.jnsh.vip/movies/20220911/DBLFBzhy/2000kb/hls/index.m3u8
 御姐穿着黑丝修身裙，这前凸后翘肉体大长腿不停挑逗鸡巴硬邦邦足交，逼穴夹紧肉棒吞吸猛操,https://vip1.slbfsl.com/20221021/EruK8q9g/index.m3u8
-御姐穿着黑丝修身裙，这前凸后翘肉体大长腿不停挑逗鸡巴硬邦邦足交，逼穴夹紧肉棒吞吸猛操,https://vod2.ttbfp4.com/20221021/Zi5GNRdg/index.m3u8
 御姐觊觎弟弟的大机巴,https://t22.cdn2020.com/video/m3u8/2023/07/11/c670ecf9/index.m3u8
 微信勺包大奶内摄幺未女教师-斑斑,https://t17.cdn2020.com:12341/video/m3u8/2022/03/18/b7b793bd/index.m3u8
 微信勺包瀑噪生咸女医师-林思妤,https://t18.cdn2020.com:12342/video/m3u8/2022/04/30/efe70ba5/index.m3u8
@@ -7853,7 +7853,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 极品JVID饥渴难耐空姐诱惑小辣酱超狂尺度欣赏白虎嫩鲍圆硕玉乳性感蓓蕾,https://vip1.slbfsl.com/20221231/BikDjTvH/index.m3u8
 极品九头身蜜臀长腿瑜伽女神 bibicouple  睡美人一秒不停歇 公狗腰猛干蜜穴 香艳激射蜜臀,https://vip1.slbfsl.com/20221202/zqsoByOq/index.m3u8
 极品五女神厨娘淫春梦幻 最狂色人妻无人淫乱慢点 酥胸淫汁+中出汉堡,https://vip1.slbfsl.com/20221202/LMK2q2iU/index.m3u8
-极品五女神厨娘淫春梦幻 最狂色人妻无人淫乱慢点 酥胸淫汁+中出汉堡,https://vod2.ttbfp4.com/20221201/gctZcIAn/index.m3u8
 极品人妻惨遭无良医生算计委身求全,https://t21.cdn2020.com/video/m3u8/2023/03/20/94dbc41c/index.m3u8
 极品兔女郎按摩师肉棒侍奉,https://t21.cdn2020.com/video/m3u8/2023/02/17/b8781d7d/index.m3u8
 极品内休握著机密-艾秋,https://t13.cdn2020.com:12338/video/m3u8/2021/12/11/e35dc89e/index.m3u8
@@ -8216,7 +8215,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 深深地激情性爱,https://vip1.slbfsl.com/20221117/2ahGtfQQ/index.m3u8
 混血大眼小仙女最新作品被狂干屁眼肛门都一个大黑洞!,https://vod3.ttbfp5.com/20230301/HqL6Z2Or/index.m3u8
 混血小姐姐真是够味，性感大长腿前凸后翘，蹲下舔吸鸡巴呼噜噜刺激销魂起伏深入大力操,https://vip1.slbfsl.com/20221021/uGISfmns/index.m3u8
-混血小姐姐真是够味，性感大长腿前凸后翘，蹲下舔吸鸡巴呼噜噜刺激销魂起伏深入大力操,https://vod2.ttbfp4.com/20221021/VeaHZ4w9/index.m3u8
 混血童颜巨乳网红!!啪啪前拍照留念~我和你存在这种炮友关系~,https://vip1.slbfsl.com/20221229/zFi1tBBs/index.m3u8
 清楚な制服美女 貸しちゃいます,https://vod3.ttbfp5.com/20230225/3yui2v7j/index.m3u8
 清純を装って喰い散らかしにきただけの腰かけヤリマン新入社員,https://vod3.ttbfp5.com/20230225/QEFzOEgD/index.m3u8
@@ -8559,7 +8557,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 猫耳朵加白丝袜-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/23/0acfd0c4/index.m3u8
 猫耳朵装扮可爱女友卧室中日常性生活，被帅气男友无套啪啪，多姿势操穴,https://siwazywcdn2.com:5278/cvguochanzipai/lOGmDs8i/index.m3u8
 猫耳朵装扮可爱女友卧室中日常性生活，被帅气男友无套啪啪，多姿势操穴,https://vip1.slbfsl.com/20221203/Li6O890l/index.m3u8
-猫耳朵装扮可爱女友卧室中日常性生活，被帅气男友无套啪啪，多姿势操穴,https://vod2.ttbfp4.com/20221202/8yVRietU/index.m3u8
 猫耳美少女 【Mika】 私人温泉暧昧旅行 终于漏出真实的一面,https://v4.jnsh.vip/20220713/J0DgIZ1F/2000kb/hls/index.m3u8
 玉女同桌课后的生爱辅导,https://t21.cdn2020.com/video/m3u8/2023/02/11/6a56ff32/index.m3u8
 玉女欣经-陈可欣,https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/e712c702/index.m3u8
@@ -9106,6 +9103,7 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 精品剧情〗小护士『珍琳』欲火焚身_诊疗室脱去制服_勾引医生掏出针筒帮他打针_高清1080P原版无水印,https://v1.stepuppip.com/20210724/AS8lB7kp/2000kb/hls/index.m3u8
 精子興奮する-みほの,https://z100.cdn2020.com/video/m3u8/2020/05/20/3a4ad3ea/index.m3u8
 精致小美女红衣修身包臀裙和两个猛男游玩，在酒店享受两根大鸡巴的抽送撞击，爽的嗷嗷浪叫啪啪噗嗤噗嗤激烈啊,https://vip1.slbfsl.com/20221021/xrl5YU71/index.m3u8
+精致小美女红衣修身包臀裙和两个猛男游玩，在酒店享受两根大鸡巴的抽送撞击，爽的嗷嗷浪叫啪啪噗嗤噗嗤激烈啊,https://vod2.ttbfp4.com/20221021/MdXvkYqo/index.m3u8
 精选合集,https://v1.stepuppip.com/20230518/8iZnubsT/2000kb/hls/index.m3u8
 糜乱家庭 调皮妹妹计上亲哥,https://v6.chuangshi1997.top/video/20231016/NMA4RUiA/2000kb/hls/index.m3u8
 約啪竟約到初中女教師,https://v4.jnsh.vip/20220619/lrQZogYU/2000kb/hls/index.m3u8
@@ -9382,6 +9380,7 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 老守卫不要放弃！成熟 迈克 蓝色 乱搞 年轻的 金发女郎 大 屁股,https://vod1.ttbfp2.com/20220131/fpzCgjvc/index.m3u8
 老师用保送大学的名额诱导学生,https://t21.cdn2020.com/video/m3u8/2023/01/20/32fc3f6d/index.m3u8
 老李成名之战，魔都大圈四五千一炮，极品车模，高颜值女神，风骚魅惑，人间尤物,https://vip1.slbfsl.com/20221203/CkXMYUVK/index.m3u8
+老李成名之战，魔都大圈四五千一炮，极品车模，高颜值女神，风骚魅惑，人间尤物,https://vod2.ttbfp4.com/20221202/4ezgeH0X/index.m3u8
 老板娘去酒店 发现偷情秘密后录音胁迫 与老板娘发生关系,https://v5.dietaobaihuo.top/video/20221207/btQldM5w/2000kb/hls/index.m3u8
 老法师套路女老板“射”影必修课！,https://vip1.slbfsl.com/20230108/ml8ifrls/index.m3u8
 老爷专用的性爱女仆,https://vip1.slbfsl.com/20221108/Y43lzBM6/index.m3u8
@@ -9946,7 +9945,6 @@ zuko-120 常著名的性俱乐部训练营,https://t21.cdn2020.com/video/m3u8/20
 赢靡父子轮奸女儿-孟若羽,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/bb1b29f1/index.m3u8
 赤果-梁芸菲,https://t18.cdn2020.com:12342/video/m3u8/2022/04/23/e0d2d66e/index.m3u8
 赵云七进七出,https://t21.cdn2020.com/video/m3u8/2022/12/17/df765e3b/index.m3u8
-赶尸艳谈,https://hot.1080pzy.co/20230918/MvKEk33R/1000kb/hls/index.m3u8
 赶尸艳谭,https://v8.suonizy-youku.com/202310/08/LpTwmSy5WY1/video/index.m3u8
 起早噪,https://t5s.cdn2020.com/video/m3u8/2020/11/22/6e2f9375/index.m3u8
 起点传媒假仙人跳-孟若羽,https://t20.cdn2020.com/video/m3u8/2022/10/21/95164fbd/index.m3u8
