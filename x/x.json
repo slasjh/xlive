@@ -573,6 +573,15 @@
       ]
     },
     {
+      "key": "CK资源",
+      "name": "CK资源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "火狐",
       "name": "📛挺好69【2024/3/20】",
       "type": 1,
@@ -662,26 +671,6 @@
       ]
     },
     {
-      "key": "CK资源",
-      "name": "CK资源",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "量子",
-      "name": "🈶量子伦理",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
       "key": "辣椒专场",
       "name": "辣椒采集",
       "type": 1,
@@ -713,6 +702,17 @@
         "绝美少女",
         "首次亮相",
         "AV明星1"
+      ]
+    },
+    {
+      "key": "量子",
+      "name": "🈶量子伦理",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
       ]
     },
     {
